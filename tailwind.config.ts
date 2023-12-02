@@ -12,6 +12,7 @@ const config: Config = {
       sm: "14px",
     },
     colors: {
+      primary: "#FF385C",
       "light-gray": "#EBEBEB",
       "medium-gray": "#F7F7F7",
       "dark-gray": "#717171",

@@ -7,7 +7,7 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
     <div className="text-sm flex flex-col">
       <div className="flex-1">
         <Image
-          className="rounded-md w-full h-full object-fit"
+          className="rounded-xl w-full h-full object-fit aspect-square"
           width={303}
           height={200}
           src={listing.image_url}
