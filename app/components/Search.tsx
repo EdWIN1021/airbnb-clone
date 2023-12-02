@@ -1,7 +1,7 @@
 import Image from "next/image";
 const Search = () => {
   return (
-    <div className="border rounded-full border-light-gray p-1.5 cursor-pointer hover:shadow-md text-sm">
+    <div className="border rounded-full border-light-gray p-1.5 cursor-pointer  shadow-md hover:shadow-lg text-sm">
       <span className="font-semibold px-4 border-r border-light-gray">
         Anywhere
       </span>
