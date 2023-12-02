@@ -3,13 +3,14 @@
 import React, { useState } from "react";
 import Modal from "./Modal";
 import TextInput from "./TextInput";
+import Image from "next/image";
 
 const LoginOrSigup = () => {
   const [email, setEmail] = useState("");
 
   return (
     <Modal>
-      <div className="bg-[#fff] p-6">
+      <div className="bg-[#fff] p-6 rounded-lg">
         <h3 className="font-semibold text-[22px] mt-2 mb-6">
           Welcome to Airbnb
         </h3>
@@ -31,6 +32,20 @@ const LoginOrSigup = () => {
             or
           </span>
         </div>
+
+        <button className="w-full text-[14px] border rounded-xl flex justify-center items-center gap-2 mb-4 p-4">
+          <Image src="/google.svg" alt="google-logo" width={18} height={18} />
+          <span className="font-medium text-[rgb(60,64,67)] flex-1">
+            Sign up with Google
+          </span>
+        </button>
+
+        <button className=" w-full text-[14px] border rounded-xl  flex justify-center items-center gap-2 mb-4 p-4">
+          <Image src="/github.svg" alt="google-logo" width={18} height={18} />
+          <span className="font-medium text-[rgb(60,64,67)] flex-1">
+            Sign up with Github
+          </span>
+        </button>
       </div>
     </Modal>
   );
