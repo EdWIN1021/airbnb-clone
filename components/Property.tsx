@@ -4,10 +4,10 @@ import { IListing } from "@/models/listing";
 
 const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
   return (
-    <div className="text-sm w-[300px]">
-      <div>
+    <div className="text-sm flex flex-col">
+      <div className="flex-1">
         <Image
-          className="rounded-md w-full h-[280px] object-cover"
+          className="rounded-md w-full h-full object-fit"
           width={303}
           height={200}
           src={listing.image_url}
@@ -15,12 +15,12 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
         />
       </div>
 
-      <ul className="mt-2">
+      <ul className="mt-2 whitespace-nowrap">
         <li>
-          <div className="flex items-center  justify-between space-x-4">
+          <div className="flex items-center  justify-between">
             <span className="font-semibold">{listing.name}</span>
 
-            <div className="flex items-center space-x-1">
+            <div className="flex items-center">
               <IoStar className="inline-block" />
               <span>
                 {listing.rating} ({listing.number_of_reviews})

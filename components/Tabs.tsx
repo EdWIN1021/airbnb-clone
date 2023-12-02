@@ -74,7 +74,7 @@ const tabs = [
 
 const Tabs = () => {
   return (
-    <div className="flex justify-around gap-10 mt-10 mb-8 px-10">
+    <div className="flex justify-around gap-10 mt-10 mb-8 overflow-scroll px-20">
       {tabs.map((tab) => (
         <Tab key={tab.title} tab={tab} />
       ))}

@@ -6,8 +6,8 @@ import Tabs from "./Tabs";
 const Header = () => {
   return (
     <div>
-      <header className="flex justify-between h-20  items-center border-b border-light-gray px-10">
-        <div className="min-w-[260px] cursor-pointer">
+      <header className="flex justify-between h-20  items-center border-b border-light-gray px-20">
+        <div className=" cursor-pointer">
           <Image src="/logo.svg" width={102} height={32} alt="logo" priority />
         </div>
         <Search />
