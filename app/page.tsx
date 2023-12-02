@@ -9,7 +9,7 @@ export default async function Home() {
 
   return (
     <main>
-      <div className="grid grid-cols-4 gap-5">
+      <div className="grid grid-cols-4 gap-5 px-10">
         {listings.map((listing: IListing) => (
           <Property key={listing._id} listing={listing} />
         ))}

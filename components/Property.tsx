@@ -4,10 +4,10 @@ import { IListing } from "@/models/listing";
 
 const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
   return (
-    <div className="text-sm">
+    <div className="text-sm w-[300px]">
       <div>
         <Image
-          className="rounded-md h-[303px] object-cover"
+          className="rounded-md w-full h-[280px] object-cover"
           width={303}
           height={200}
           src={listing.image_url}

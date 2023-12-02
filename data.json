@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Guest suite in Vancouver",
+    "title": "Spacious one-bedroom in sought-after Str",
+    "rating": 4.69,
+    "number_of_beds": 1,
+    "price": 135,
+    "image_url": "https://a0.muscache.com/pictures/miso/Hosting-14424/original/4954f5a5-d85a-406c-8da9-1878fbde5573.jpeg",
+    "number_of_reviews": 269
+  },
+  {
+    "name": "Home in Vancouver",
+    "title": "EcoLoft Vancouver",
+    "rating": 4.76,
+    "number_of_beds": 1,
+    "price": 151,
+    "image_url": "https://a0.muscache.com/pictures/3646de9b-934e-4fcf-a993-565334cd8582.jpg",
+    "number_of_reviews": 34
+  },
+  {
+    "name": "Rental unit in Vancouver",
+    "title": "Vancouver's best kept secret",
+    "rating": 4.92,
+    "number_of_beds": 1,
+    "price": 150,
+    "image_url": "https://a0.muscache.com/pictures/73394727/79d52046_original.jpg",
+    "number_of_reviews": 99
+  },
+  {
+    "name": "Condo in Vancouver",
+    "title": "Designer Styled One Bedroom Downtown Van",
+    "rating": 4.68,
+    "number_of_beds": 1,
+    "price": 215,
+    "image_url": "https://a0.muscache.com/pictures/40034c18-0837-463e-a1d5-159e38469caf.jpg",
+    "number_of_reviews": 476
+  },
+  {
+    "name": "Rental unit in Vancouver",
+    "title": "Great private studio in ideal loc",
+    "rating": 4.83,
+    "number_of_beds": 2,
+    "price": 150,
+    "image_url": "https://a0.muscache.com/pictures/8408188/e1af63e4_original.jpg",
+    "number_of_reviews": 277
+  }
+]
