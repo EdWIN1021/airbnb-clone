@@ -22,15 +22,18 @@ const TextInput: React.FC<TextInputProps> = ({
   }, [value]);
 
   return (
-    <div className={twMerge("relative h-[60px] w-full text-black ", className)}>
+    <div
+      className={twMerge(
+        "relative h-[60px] w-full text-black border rounded-md p-1",
+        className
+      )}
+    >
       <input
         {...rest}
         id={id}
         value={value}
         maxLength={50}
-        className={
-          "w-full rounded-md border px-4 pb-1 pt-7 leading-normal outline-[#000] "
-        }
+        className={"w-full h-full px-4 pb-1 pt-7 leading-normal outline-none"}
         onFocus={() => setIsActive(true)}
         onBlur={() => !value && setIsActive(false)}
       />

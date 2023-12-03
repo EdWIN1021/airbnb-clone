@@ -9,12 +9,15 @@ import Button from "./Button";
 import { IoIosClose } from "react-icons/io";
 import { IoIosArrowRoundBack } from "react-icons/io";
 import { signIn } from "next-auth/react";
+import PasswordInput from "./PasswordInput";
+import useUser from "@/hooks/useUser";
 
 const LoginOrSigup = () => {
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [step, setStep] = useState(0);
-
-  console.log(step);
+  const { isLoading, refetch } = useUser(email, setStep);
 
   return (
     <Modal>
@@ -44,9 +47,10 @@ const LoginOrSigup = () => {
             </p>
 
             <Button
+              disabled={isLoading}
               className="bg-primary-btn text-[#fff] my-4"
               title={"Continue"}
-              onClick={() => setStep((step) => step + 1)}
+              onClick={() => refetch()}
             />
 
             <Divider />
@@ -90,8 +94,17 @@ const LoginOrSigup = () => {
             <p className="text-[16px] mx-auto font-bold">Finish signing up</p>
           </div>
 
-          <div className="bg-[#fff] p-6 rounded-lg">
+          <div className="bg-[#fff] p-6 rounded-lg ">
             <TextInput
+              className="border-dark-gray"
+              label="Name"
+              id="name"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
+
+            <TextInput
+              className="my-4"
               label="Email"
               id="email"
               value={email}
@@ -99,15 +112,50 @@ const LoginOrSigup = () => {
               disabled
             />
 
-            <p>
-              By selecting Agree and continue, I agree to Airbnb’s Terms of
-              Service, Payments Terms of Service, and Nondiscrimination Policy
-              and acknowledge the Privacy Policy.
+            <PasswordInput
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+            />
+
+            <p className="text-[12px] my-6">
+              By selecting <strong>Agree and continue</strong>, I agree to
+              Airbnb’s <span className="link-primary">Terms of Service</span>,{" "}
+              <span className="link-primary">Payments Terms of Service</span>,
+              and <span className="link-primary">Nondiscrimination Policy</span>{" "}
+              and{" "}
+              <span className="link-primary">
+                acknowledge the Privacy Policy.
+              </span>
             </p>
             <Button
               className="bg-primary-btn text-[#fff] my-4"
               title={"Agree and continue"}
             />
+          </div>
+        </div>
+      )}
+
+      {step === 2 && (
+        <div className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg">
+          <IoIosArrowRoundBack
+            onClick={() => setStep((step) => step - 2)}
+            className="h-8 w-8 absolute top-4 left-3 cursor-pointer"
+          />
+          <div className="border-b border-light-gray flex items-center h-[64px]">
+            <p className="text-[16px] mx-auto font-bold">Log in</p>
+          </div>
+
+          <div className="bg-[#fff] p-6 rounded-lg ">
+            <PasswordInput
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+            />
+
+            <Button
+              className="bg-primary-btn text-[#fff] my-4"
+              title={"Log in"}
+            />
+            <p className="link-secondary mb-[100px]">Forgot password?</p>
           </div>
         </div>
       )}

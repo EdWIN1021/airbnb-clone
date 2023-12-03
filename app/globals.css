@@ -25,4 +25,10 @@ img {
 }
 
 @layer components {
+  .link-primary {
+    @apply text-[rgb(0,76,196)] font-semibold underline cursor-pointer;
+  }
+  .link-secondary {
+    @apply text-[14px] font-semibold  underline cursor-pointer;
+  }
 }

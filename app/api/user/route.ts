@@ -13,3 +13,32 @@ export async function POST(request: NextRequest) {
 
   return NextResponse.json({ status: 204 });
 }
+
+export async function GET(request: NextRequest) {
+  await dbConnect();
+  const { searchParams } = new URL(request.url);
+  const email = searchParams?.get("email");
+  const user = await User.findOne({ email });
+
+  if (user) {
+    return NextResponse.json(
+      {
+        message: "success",
+        user,
+      },
+      {
+        status: 200,
+      }
+    );
+  }
+
+  return NextResponse.json(
+    {
+      message: "fail",
+      user: null,
+    },
+    {
+      status: 400,
+    }
+  );
+}

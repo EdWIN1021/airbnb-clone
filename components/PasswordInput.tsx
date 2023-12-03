@@ -7,7 +7,6 @@ import { twMerge } from "tailwind-merge";
 const PasswordInput: React.FC<InputHTMLAttributes<HTMLInputElement>> = ({
   value,
   className,
-  id,
   ...rest
 }) => {
   const [isActive, setIsActive] = useState(false);
@@ -21,11 +20,11 @@ const PasswordInput: React.FC<InputHTMLAttributes<HTMLInputElement>> = ({
     <div className={twMerge("relative h-[60px] w-full ", className)}>
       <input
         {...rest}
-        id={id}
+        id={"password"}
         value={value}
         type={show ? "text" : "password"}
         className={
-          "w-full rounded-md border px-4 pb-1 pt-7 leading-normal text-black outline-[#000] "
+          "w-full rounded-md border px-4 pb-1 pt-7 leading-normal text-black outline-none"
         }
         onFocus={() => setIsActive(true)}
         onBlur={() => !value && setIsActive(false)}
@@ -40,7 +39,7 @@ const PasswordInput: React.FC<InputHTMLAttributes<HTMLInputElement>> = ({
             "left-[3%] top-[20%] text-xs": isActive,
           }
         )}
-        htmlFor={id}
+        htmlFor={"password"}
       >
         Password
       </label>
