@@ -1,6 +1,6 @@
 import Property from "@/components/Property";
 import { getListings } from "../utils/actions";
-import { IListing } from "@/models/listing";
+import { IListing } from "@/models/Listing";
 
 export default async function Home() {
   const listings = await getListings();

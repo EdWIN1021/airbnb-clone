@@ -8,6 +8,7 @@ import Divider from "./Divider";
 import Button from "./Button";
 import { IoIosClose } from "react-icons/io";
 import { IoIosArrowRoundBack } from "react-icons/io";
+import { signIn } from "next-auth/react";
 
 const LoginOrSigup = () => {
   const [email, setEmail] = useState("");
@@ -61,7 +62,9 @@ const LoginOrSigup = () => {
                   height={18}
                 />
               }
+              onClick={() => signIn("google", { redirect: false })}
             />
+
             <Button
               title={"Continue with Github"}
               icon={
