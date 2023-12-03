@@ -12,10 +12,15 @@ const handler = NextAuth({
 
   callbacks: {
     async signIn({ user, account, profile, email, credentials }) {
-      const res = await fetch(`${process.env.NEXTAUTH_URL}/api/user`);
-      const data = await res.json();
-
-      console.log(data);
+      if (account?.provider === "google" || account?.provider === "github") {
+        await fetch(`${process.env.NEXTAUTH_URL}/api/user`, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(user),
+        });
+      }
 
       return true;
     },
