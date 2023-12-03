@@ -1,35 +1,31 @@
 import clsx from "clsx";
 import { InputHTMLAttributes, useEffect, useState } from "react";
+import { RxEyeOpen } from "react-icons/rx";
+import { GoEyeClosed } from "react-icons/go";
 import { twMerge } from "tailwind-merge";
 
-interface TextInputProps extends InputHTMLAttributes<HTMLInputElement> {
-  label: string;
-  value: string;
-  id: string;
-}
-
-const TextInput: React.FC<TextInputProps> = ({
-  label,
-  id,
+const PasswordInput: React.FC<InputHTMLAttributes<HTMLInputElement>> = ({
   value,
   className,
+  id,
   ...rest
 }) => {
   const [isActive, setIsActive] = useState(false);
+  const [show, toggle] = useState(false);
 
   useEffect(() => {
     value && setIsActive(true);
   }, [value]);
 
   return (
-    <div className={twMerge("relative h-[60px] w-full text-black ", className)}>
+    <div className={twMerge("relative h-[60px] w-full ", className)}>
       <input
         {...rest}
         id={id}
         value={value}
-        maxLength={50}
+        type={show ? "text" : "password"}
         className={
-          "w-full rounded-md border px-4 pb-1 pt-7 leading-normal outline-[#000] "
+          "w-full rounded-md border px-4 pb-1 pt-7 leading-normal text-black outline-[#000] "
         }
         onFocus={() => setIsActive(true)}
         onBlur={() => !value && setIsActive(false)}
@@ -46,10 +42,21 @@ const TextInput: React.FC<TextInputProps> = ({
         )}
         htmlFor={id}
       >
-        {label}
+        Password
       </label>
+
+      <div
+        className="absolute right-7 top-1/2 -translate-y-1/2 w-5 cursor-pointer"
+        onClick={() => toggle((show) => !show)}
+      >
+        {show ? (
+          <span className="hover:text-underline">hide</span>
+        ) : (
+          <span>show</span>
+        )}
+      </div>
     </div>
   );
 };
 
-export default TextInput;
+export default PasswordInput;
