@@ -17,7 +17,12 @@ const config: Config = {
       "medium-gray": "#F7F7F7",
       "dark-gray": "#717171",
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "primary-btn":
+          "radial-gradient(1413.54% 103.95% at -3.95% 100%, #D33753 0%, #D13660 52.83%, #C72D65 100%)",
+      },
+    },
   },
   plugins: [],
 };
