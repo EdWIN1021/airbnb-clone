@@ -1,6 +1,13 @@
 import Property from "@/components/Property";
-import { getListings } from "@/utils/server";
 import { IListing } from "@/models/Listing";
+
+import Listing from "@/models/Listing";
+import dbConnect from "@/lib/db";
+
+export const getListings = async () => {
+  await dbConnect();
+  return await Listing.find({});
+};
 
 export default async function Home() {
   const listings = await getListings();
