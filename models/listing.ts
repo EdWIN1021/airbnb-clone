@@ -20,4 +20,6 @@ const listingSchema = new Schema<IListing>({
   image_url: { type: String, required: true },
 });
 
-export default models.Listing || model<IListing>("Listing", listingSchema);
+const Listing = models.Listing || model<IListing>("Listing", listingSchema);
+
+export default Listing;
