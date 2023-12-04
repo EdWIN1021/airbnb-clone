@@ -1,5 +1,5 @@
 import Property from "@/components/Property";
-import { getListings } from "../utils/server";
+import { getListings } from "./utils/server";
 import { IListing } from "@/models/Listing";
 
 export default async function Home() {
