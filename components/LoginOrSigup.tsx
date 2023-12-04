@@ -135,6 +135,8 @@ const LoginOrSigup = () => {
             </div>
 
             <PasswordInput
+              username={name}
+              email={email}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
             />
