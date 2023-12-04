@@ -12,8 +12,8 @@ const Profile = () => {
   const [openModal, toggleModal] = useState(false);
 
   return (
-    <div className="flex items-center space-x-4 cursor-pointer">
-      <div className="px-3 py-2 hover:bg-medium-gray rounded-full">
+    <div className="flex items-center cursor-pointer gap-1 flex-1 justify-end">
+      <div className="py-2 px-2 hover:bg-medium-gray rounded-full">
         <span className="text-sm font-semibold ">Airbnb your home</span>
       </div>
 
@@ -22,7 +22,7 @@ const Profile = () => {
       </div>
 
       <button
-        className="w-[81px] h-[38px] border border-light-gray rounded-full flex items-center p-2 hover:shadow-md"
+        className="w-[81px] h-[38px] border border-light-gray rounded-full flex items-center p-2 py-5 hover:shadow-md"
         onClick={() => toggleMenu((openMenu) => !openMenu)}
       >
         <IoIosMenu className="h-4 w-4 flex-1" />

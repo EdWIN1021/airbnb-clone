@@ -15,7 +15,7 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
         />
       </div>
 
-      <ul className="mt-2 whitespace-nowrap">
+      <ul className="mt-2">
         <li>
           <div className="flex items-center  justify-between">
             <span className="font-semibold">{listing.name}</span>
@@ -29,9 +29,7 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
           </div>
         </li>
         <li className="overflow-hidden">
-          <span className="text-color-secondary whitespace-nowrap ">
-            {listing.title}
-          </span>
+          <span className="text-color-secondary ">{listing.title}</span>
         </li>
         <li>
           <span className="text-color-secondary">

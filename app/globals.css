@@ -7,6 +7,8 @@ html,
 body {
   width: 100%;
   min-height: 100vh;
+  max-width: 2360px;
+  margin: 0 auto;
 }
 
 *,
@@ -22,6 +24,15 @@ body {
 
 img {
   display: inline-block;
+}
+
+span,
+a {
+  white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 @layer components {
