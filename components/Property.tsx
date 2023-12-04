@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { IoStar } from "react-icons/io5";
-import { IListing } from "@/app/models/Listing";
+import { IListing } from "@/models/Listing";
 
 const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
   return (

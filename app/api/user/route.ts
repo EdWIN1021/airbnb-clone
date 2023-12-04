@@ -1,6 +1,6 @@
 import { NextResponse, NextRequest } from "next/server";
 import dbConnect from "@/lib/db";
-import User from "@/app/models/User";
+import User from "@/models/User";
 
 export async function POST(request: NextRequest) {
   await dbConnect();
