@@ -11,7 +11,7 @@ const handler = NextAuth({
   ],
 
   callbacks: {
-    async signIn({ user, account, profile, email, credentials }) {
+    async signIn({ user, account }) {
       if (account?.provider === "google" || account?.provider === "github") {
         await fetch(`${process.env.NEXTAUTH_URL}/api/user`, {
           method: "POST",

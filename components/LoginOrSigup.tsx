@@ -11,6 +11,7 @@ import { IoIosArrowRoundBack } from "react-icons/io";
 import { signIn } from "next-auth/react";
 import PasswordInput from "./PasswordInput";
 import useUser from "@/hooks/useUser";
+import isEmail from "validator/lib/isEmail";
 
 const LoginOrSigup = () => {
   const [name, setName] = useState("");
@@ -18,6 +19,16 @@ const LoginOrSigup = () => {
   const [password, setPassword] = useState("");
   const [step, setStep] = useState(0);
   const { isLoading, refetch } = useUser(email, setStep);
+  const [message, setMessage] = useState("");
+
+  const handleSignUp = (e: React.SyntheticEvent) => {
+    e.preventDefault();
+    if (isEmail(email)) {
+      // useSignUp
+    } else {
+      setMessage("Enter a valid email.");
+    }
+  };
 
   return (
     <Modal>
@@ -38,19 +49,20 @@ const LoginOrSigup = () => {
               id="email"
               value={email}
               type="email"
-              onChange={(e) => setEmail(e.target.value)}
+              message={message}
+              onChange={(e) => {
+                setEmail(e.target.value);
+                setMessage("");
+              }}
             />
 
-            <p className="mt-2">
-              We’ll call or text you to confirm your number. Standard message
-              and data rates apply. Privacy Policy
-            </p>
-
             <Button
-              disabled={isLoading}
               className="bg-primary-btn text-[#fff] my-4"
               title={"Continue"}
-              onClick={() => refetch()}
+              onClick={() => {
+                isEmail(email) ? refetch() : setMessage("Enter a valid email.");
+              }}
+              disabled={isLoading}
             />
 
             <Divider />
@@ -85,7 +97,10 @@ const LoginOrSigup = () => {
       )}
 
       {step === 1 && (
-        <div className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg">
+        <form
+          onSubmit={handleSignUp}
+          className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg"
+        >
           <IoIosArrowRoundBack
             onClick={() => setStep((step) => step - 1)}
             className="h-8 w-8 absolute top-4 left-3 cursor-pointer"
@@ -100,17 +115,24 @@ const LoginOrSigup = () => {
               label="Name"
               id="name"
               value={name}
-              onChange={(e) => setName(e.target.value)}
+              onChange={(e) => {
+                setName(e.target.value);
+              }}
             />
 
-            <TextInput
-              className="my-4"
-              label="Email"
-              id="email"
-              value={email}
-              type="email"
-              disabled
-            />
+            <div className="my-4">
+              <TextInput
+                label="Email"
+                id="email"
+                value={email}
+                type="email"
+                message={message}
+                onChange={(e) => {
+                  setEmail(e.target.value);
+                  setMessage("");
+                }}
+              />
+            </div>
 
             <PasswordInput
               value={password}
@@ -128,11 +150,12 @@ const LoginOrSigup = () => {
               </span>
             </p>
             <Button
+              type="submit"
               className="bg-primary-btn text-[#fff] my-4"
               title={"Agree and continue"}
             />
           </div>
-        </div>
+        </form>
       )}
 
       {step === 2 && (

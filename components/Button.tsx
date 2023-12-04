@@ -1,4 +1,5 @@
 import React, { ButtonHTMLAttributes } from "react";
+import { BeatLoader } from "react-spinners";
 import { twMerge } from "tailwind-merge";
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {

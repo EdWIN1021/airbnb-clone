@@ -9,11 +9,11 @@ const useUser = (email: string, setStep: Dispatch<SetStateAction<number>>) => {
     const data = await res.json();
 
     if (res.status === 400) {
-      setStep((step) => step + 2);
+      setStep((step) => step + 1);
       return null;
     }
 
-    setStep((step) => step + 1);
+    setStep((step) => step + 2);
     return data.user;
   };
 
