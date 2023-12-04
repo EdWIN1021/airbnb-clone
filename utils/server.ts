@@ -1,4 +1,4 @@
-"use sever";
+"use server";
 
 import Listing from "@/models/Listing";
 import dbConnect from "@/lib/db";
