@@ -1,7 +1,7 @@
 import Property from "@/components/Property";
-import { IListing } from "@/models/Listing";
+import { IListing } from "@/app/models/Listing";
 
-import Listing from "@/models/Listing";
+import Listing from "@/app/models/Listing";
 import dbConnect from "@/lib/db";
 
 export const getListings = async () => {
