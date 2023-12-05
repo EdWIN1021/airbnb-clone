@@ -6,7 +6,11 @@ import { MdLanguage } from "react-icons/md";
 import Menu from "./Menu";
 import { useState } from "react";
 import LoginOrSigup from "./LoginOrSigup";
-import Modal from "./Modal";
+import dynamic from "next/dynamic";
+
+const Modal = dynamic(() => import("@/components/Modal"), {
+  ssr: false,
+});
 
 const Profile = () => {
   const [openMenu, toggleMenu] = useState(false);

@@ -9,6 +9,7 @@ interface PasswordInputProps extends InputHTMLAttributes<HTMLInputElement> {
   value: string;
   username?: string;
   email?: string;
+  showValidator?: boolean;
 }
 
 const PasswordInput: React.FC<PasswordInputProps> = ({
@@ -16,6 +17,7 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
   className,
   username,
   email,
+  showValidator = false,
   ...rest
 }) => {
   const [isActive, setIsActive] = useState(false);
@@ -70,7 +72,6 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
         >
           Password
         </label>
-
         <div
           className="absolute right-7 top-1/2 -translate-y-1/2 w-5 cursor-pointer"
           onClick={() => toggle((show) => !show)}
@@ -83,42 +84,44 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
         </div>
       </div>
 
-      <ul className="text-[12px] ">
-        <li
-          className={`flex items-center gap-1 text-primary ${
-            !isWeakPassword && "text-[green]"
-          }`}
-        >
-          {isWeakPassword ? <VscError /> : <TbCircleCheck />}
-          <span>Password strength: weak</span>
-        </li>
-        <li
-          className={`flex items-center gap-1 text-primary ${
-            !isContainsNameOrEmail && "text-[green]"
-          }`}
-        >
-          {isContainsNameOrEmail ? <VscError /> : <TbCircleCheck />}
+      {showValidator && (
+        <ul className="text-[12px] ">
+          <li
+            className={`flex items-center gap-1 text-primary ${
+              !isWeakPassword && "text-[green]"
+            }`}
+          >
+            {isWeakPassword ? <VscError /> : <TbCircleCheck />}
+            <span>Password strength: weak</span>
+          </li>
+          <li
+            className={`flex items-center gap-1 text-primary ${
+              !isContainsNameOrEmail && "text-[green]"
+            }`}
+          >
+            {isContainsNameOrEmail ? <VscError /> : <TbCircleCheck />}
 
-          <span>Can&apos;t contain your name or email address</span>
-        </li>
-        <li
-          className={`flex items-center gap-1 text-primary ${
-            isValidLength && "text-[green]"
-          }`}
-        >
-          {isValidLength ? <TbCircleCheck /> : <VscError />}
+            <span>Can&apos;t contain your name or email address</span>
+          </li>
+          <li
+            className={`flex items-center gap-1 text-primary ${
+              isValidLength && "text-[green]"
+            }`}
+          >
+            {isValidLength ? <TbCircleCheck /> : <VscError />}
 
-          <span>At least 8 characters</span>
-        </li>
-        <li
-          className={`flex items-center gap-1 text-primary ${
-            isContainsNumberOrSymbol && "text-[green]"
-          }`}
-        >
-          {isContainsNumberOrSymbol ? <TbCircleCheck /> : <VscError />}
-          <span>Contains a number or symbol</span>
-        </li>
-      </ul>
+            <span>At least 8 characters</span>
+          </li>
+          <li
+            className={`flex items-center gap-1 text-primary ${
+              isContainsNumberOrSymbol && "text-[green]"
+            }`}
+          >
+            {isContainsNumberOrSymbol ? <TbCircleCheck /> : <VscError />}
+            <span>Contains a number or symbol</span>
+          </li>
+        </ul>
+      )}
     </>
   );
 };

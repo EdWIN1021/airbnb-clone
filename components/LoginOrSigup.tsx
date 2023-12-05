@@ -142,6 +142,7 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
               email={email}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              showValidator
             />
 
             <p className="text-[12px] my-6">

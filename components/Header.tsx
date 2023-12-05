@@ -1,11 +1,7 @@
 import Search from "./Search";
 import Image from "next/image";
 import Tabs from "./Tabs";
-import dynamic from "next/dynamic";
-
-const Profile = dynamic(() => import("@/components/Profile"), {
-  ssr: false,
-});
+import Profile from "./Profile";
 
 const Header = () => {
   return (
