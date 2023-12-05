@@ -1,7 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
-import Modal from "./Modal";
+import React, { Dispatch, SetStateAction, useState } from "react";
 import TextInput from "./TextInput";
 import Image from "next/image";
 import Divider from "./Divider";
@@ -13,7 +12,9 @@ import PasswordInput from "./PasswordInput";
 import useUser from "@/hooks/useUser";
 import isEmail from "validator/lib/isEmail";
 
-const LoginOrSigup = () => {
+const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
+  toggle,
+}) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -31,10 +32,12 @@ const LoginOrSigup = () => {
   };
 
   return (
-    <Modal>
+    <>
       {step === 0 && (
         <div className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg">
-          <IoIosClose className="h-8 w-8 absolute top-4 left-3" />
+          <div className="cursor-pointer" onClick={() => toggle(false)}>
+            <IoIosClose className="h-8 w-8 absolute top-4 left-3" />
+          </div>
           <div className="border-b border-light-gray flex items-center h-[64px]">
             <p className="text-[16px] mx-auto font-bold">Log in or sign up</p>
           </div>
@@ -184,7 +187,7 @@ const LoginOrSigup = () => {
           </div>
         </div>
       )}
-    </Modal>
+    </>
   );
 };
 

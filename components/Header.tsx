@@ -1,11 +1,15 @@
-import Profile from "./Profile";
 import Search from "./Search";
 import Image from "next/image";
 import Tabs from "./Tabs";
+import dynamic from "next/dynamic";
+
+const Profile = dynamic(() => import("@/components/Profile"), {
+  ssr: false,
+});
 
 const Header = () => {
   return (
-    <div className="">
+    <>
       <header className="flex justify-between h-20 items-center border-b border-light-gray mx-20">
         <div className="cursor-pointer flex-1 hidden xl:block">
           <Image
@@ -19,7 +23,7 @@ const Header = () => {
         </div>
         <div className="cursor-pointer xl:hidden min-w-[32px] min-h-[32px] mr-2">
           <Image
-            src="/logo-sm.png"
+            src="/logo-sm.svg"
             style={{ width: "auto", height: "auto" }}
             width={32}
             height={32}
@@ -31,7 +35,7 @@ const Header = () => {
         <Profile />
       </header>
       <Tabs />
-    </div>
+    </>
   );
 };
 

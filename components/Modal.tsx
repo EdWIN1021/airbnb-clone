@@ -1,18 +1,28 @@
-import React, { useEffect } from "react";
+"use client";
+
+import React, { Dispatch, SetStateAction, useEffect } from "react";
 import Overlay from "./Overlay";
 import { createPortal } from "react-dom";
 
-const Modal: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+interface ModalProps {
+  open: boolean;
+  toggle: Dispatch<SetStateAction<boolean>>;
+  children: React.ReactNode;
+}
+
+const Modal: React.FC<ModalProps> = ({ children, open, toggle }) => {
   useEffect(() => {
     document.body.style.overflow = "hidden";
   }, []);
 
   return createPortal(
     <>
-      <Overlay />
-  
-
-      {children}
+      {open && (
+        <>
+          <Overlay toggle={toggle} />
+          {children}
+        </>
+      )}
     </>,
     document.body
   );

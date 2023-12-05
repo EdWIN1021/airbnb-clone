@@ -6,6 +6,7 @@ import { MdLanguage } from "react-icons/md";
 import Menu from "./Menu";
 import { useState } from "react";
 import LoginOrSigup from "./LoginOrSigup";
+import Modal from "./Modal";
 
 const Profile = () => {
   const [openMenu, toggleMenu] = useState(false);
@@ -30,7 +31,10 @@ const Profile = () => {
       </button>
 
       {openMenu && <Menu toggleMenu={toggleMenu} toggleModal={toggleModal} />}
-      {openModal && <LoginOrSigup />}
+
+      <Modal open={openModal} toggle={toggleModal}>
+        <LoginOrSigup toggle={toggleModal} />
+      </Modal>
     </div>
   );
 };
