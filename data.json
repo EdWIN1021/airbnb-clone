@@ -1,3 +1,5 @@
+//https://console.apify.com/actors/GsNzxEKzE2vQ5d9HN/runs/bVDKgKfyttofoz06g#output
+
 [
   {
     "name": "Guest suite in Vancouver",
@@ -43,5 +45,1190 @@
     "price": 150,
     "image_url": "https://a0.muscache.com/pictures/8408188/e1af63e4_original.jpg",
     "number_of_reviews": 277
+  },
+  {
+    "url": "https://www.airbnb.com/rooms/26722125",
+    "name": "The Owls Perch Vancouver Islands Highest Treehouse",
+    "rating": 4.95,
+    "numberOfGuests": 2,
+    "address": "Sooke, Colombie-Britannique, Canada",
+    "roomType": "Cabane dans les arbres",
+    "location": {
+      "lat": 48.40155,
+      "lng": -123.69503
+    },
+    "reviews": [
+      {
+        "author": {
+          "firstName": "Pierre-Edouard",
+          "hasProfilePic": false,
+          "id": "102077773",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-102077773/original/99487fd0-6b9c-4382-acd3-0a593e620f91.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Pierre-Edouard",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-102077773/original/99487fd0-6b9c-4382-acd3-0a593e620f91.jpeg?aki_policy=profile_small"
+        },
+        "comments": "La cabane dans les arbres d’Amanda est un véritable petit coin de paradis, parfaitement placé pour visiter la région (Victoria et les plages de la côte ouest) et extrêmement calme, je recommande vivement!",
+        "createdAt": "2019-08-02T22:14:32Z",
+        "id": "500816187",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "localizedDate": "août 2019",
+        "localizedReview": null
+      },
+      {
+        "author": {
+          "firstName": "Aubéry",
+          "hasProfilePic": false,
+          "id": "111887080",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/09f83cd2-fe91-4068-b3c1-ca2296cc4171.jpg?aki_policy=profile_x_medium",
+          "smartName": "Aubéry",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/09f83cd2-fe91-4068-b3c1-ca2296cc4171.jpg?aki_policy=profile_small"
+        },
+        "comments": "Ne faites pas la même erreur que moi .... ne restez pas qu’UNE SEULE nuit !<br/>La cabane est sublime, la déco, les petites attentions,... un paradis !",
+        "createdAt": "2019-07-01T20:19:43Z",
+        "id": "479917620",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "localizedDate": "juillet 2019",
+        "localizedReview": null
+      },
+      {
+        "author": {
+          "firstName": "Emma",
+          "hasProfilePic": false,
+          "id": "129220485",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/5c53f136-ec75-44da-b149-9afed547c394.jpg?aki_policy=profile_x_medium",
+          "smartName": "Emma",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5c53f136-ec75-44da-b149-9afed547c394.jpg?aki_policy=profile_small"
+        },
+        "comments": "We had a fabulous time. It was super cozy and there were lots of great recommendations for things to do nearby. Amanda was very responsive and we felt right at home.",
+        "createdAt": "2023-11-22T21:40:15Z",
+        "id": "1030560754596323247",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Nous avons passé un moment fabuleux. C'était super confortable et il y avait beaucoup de bonnes recommandations sur les choses à faire à proximité. Amanda a été très réactive et nous nous sommes sentis comme à la maison.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Patrick",
+          "hasProfilePic": false,
+          "id": "232021107",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/492cd26b-9eaf-4e64-8b6f-a50149444676.jpg?aki_policy=profile_x_medium",
+          "smartName": "Patrick",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/492cd26b-9eaf-4e64-8b6f-a50149444676.jpg?aki_policy=profile_small"
+        },
+        "comments": "It was an incredibly relaxing space. We felt so comfortable here, and we loved how unique it is. Lots of beautiful places to visit nearby as well.",
+        "createdAt": "2023-11-17T22:59:52Z",
+        "id": "1026976951704470484",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "C'était un espace incroyablement relaxant. Nous nous sommes sentis si à l'aise ici, et nous avons adoré à quel point elle est unique. Beaucoup de beaux endroits à visiter à proximité également.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Gail",
+          "hasProfilePic": false,
+          "id": "505749729",
+          "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "smartName": "Gail",
+          "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3"
+        },
+        "comments": "Amanda's Owl Perch was a lovely place to spend our 20th-anniversary weekend!  It was cosy, clean, and beautiful.  One definitely needs to be ok with stairs and ladders.  Such a gorgeous peaceful little nest!  The area around it is great for adventuring - we went on lovely hikes to waterfalls, walks on gorgeous west coast beaches, and ate at several great cafés and restaurants.  We spent a day roaming around in Victoria, then scooted back to our quiet getaway.  An amazing place!!!",
+        "createdAt": "2023-11-13T21:07:45Z",
+        "id": "1024021419962679902",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Amanda 's Owl Perch était un bel endroit pour passer notre week-end de 20e anniversaire !  C'était confortable, propre et magnifique.  Il faut absolument être ok avec les escaliers et les échelles.  Un magnifique petit nid paisible !  La région autour est idéale pour l'aventure - nous avons fait de belles randonnées vers des cascades, des promenades sur de magnifiques plages de la côte ouest, et avons mangé dans plusieurs excellents cafés et restaurants.  Nous avons passé une journée à nous promener à Victoria, puis nous sommes retournés à notre escapade tranquille.  Un endroit incroyable ! ! !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Peter",
+          "hasProfilePic": false,
+          "id": "527822105",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/fd3f9770-1d61-4b51-b990-f5886101d41f.jpg?aki_policy=profile_x_medium",
+          "smartName": "Peter",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/fd3f9770-1d61-4b51-b990-f5886101d41f.jpg?aki_policy=profile_small"
+        },
+        "comments": "Very cute and cozy place for 2! Well taken care of and lots of thought put into setup to make this tiny home a fun place to stay.",
+        "createdAt": "2023-11-10T22:00:22Z",
+        "id": "1021873569358278001",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Endroit très mignon et confortable pour 2 personnes ! Bien pris en charge et beaucoup de réflexion mise en place pour faire de cette micro-maison un endroit agréable où séjourner.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Kegan",
+          "hasProfilePic": false,
+          "id": "228227559",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/9244beac-68d7-4f8e-a2e6-f3b28b2f9b8a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Kegan",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9244beac-68d7-4f8e-a2e6-f3b28b2f9b8a.jpg?aki_policy=profile_small"
+        },
+        "comments": "The tree house was lovely! Very peaceful and relaxing.<br/>Amanda was a great host, even left us a bottle of wine for my girlfriend’s birthday! Very thoughtful.<br/>The house was very well done and it was spotless when we arrived. <br/>We also enjoyed the east access to the Galloping Goose trail, just a couple steps from the driveway. We enjoyed our relaxing trip in Sooke and the Owl’s Perch treehouse was an amazing experience!",
+        "createdAt": "2023-11-05T21:03:42Z",
+        "id": "1018221170648850872",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "La cabane dans les arbres était adorable ! Très paisible et relaxant.<br/>Amanda a été une hôte formidable, elle nous a même laissé une bouteille de vin pour l'anniversaire de ma petite amie ! Très attentionné.<br/>La maison était très bien faite et c'était impeccable quand nous sommes arrivés. <br/>Nous avons également apprécié l'accès est au sentier Galloping Goose, à quelques pas de l'allée. Nous avons apprécié notre voyage relaxant à Sooke et la cabane dans les arbres Owl 's Perch a été une expérience incroyable !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Matt",
+          "hasProfilePic": false,
+          "id": "243103245",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/da8fd798-7788-46d1-8838-adc2c6d8246a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Matt",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/da8fd798-7788-46d1-8838-adc2c6d8246a.jpg?aki_policy=profile_small"
+        },
+        "comments": "Very tastefully done.  The combination of metal and wood was beautiful.",
+        "createdAt": "2023-11-04T20:21:19Z",
+        "id": "1017475061894765447",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Fait avec beaucoup de goût.  La combinaison du métal et du bois était magnifique.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Mavis",
+          "hasProfilePic": false,
+          "id": "10679862",
+          "pictureUrl": "https://a0.muscache.com/im/users/10679862/profile_pic/1387315371/original.jpg?aki_policy=profile_x_medium",
+          "smartName": "Mavis",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/10679862/profile_pic/1387315371/original.jpg?aki_policy=profile_small"
+        },
+        "comments": "Sparkling clean. Attention to details. Very Quiet place but close to supermarket and restaurants, very convenient. Walking distance to beautiful trails. Must visit!",
+        "createdAt": "2023-11-03T20:12:03Z",
+        "id": "1016745625757089550",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Propreté impeccable. Attention aux détails. Endroit très calme mais proche du supermarché et des restaurants, très pratique. À distance de marche de beaux sentiers. À visiter absolument !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Bala",
+          "hasProfilePic": false,
+          "id": "14966388",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-14966388/original/293d0e3c-cb55-42aa-999b-cb507a6e301d.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Bala",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-14966388/original/293d0e3c-cb55-42aa-999b-cb507a6e301d.jpeg?aki_policy=profile_small"
+        },
+        "comments": "Beautiful Treehouse and a proactive host made everything super easy. Highly Recommend.",
+        "createdAt": "2023-10-29T20:13:57Z",
+        "id": "1013122699069807234",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Amanda",
+          "hasProfilePic": false,
+          "id": "200945684",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Amanda",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "octobre 2023",
+        "localizedReview": {
+          "comments": "Belle cabane dans les arbres et un hôte proactif ont tout rendu super facile. Hautement recommandé.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      }
+    ],
+    "pricing": {
+      "rate": {
+        "amount": 222,
+        "amountFormatted": "$222",
+        "currency": "USD",
+        "isMicrosAccuracy": false,
+        "displayedPrice": 166,
+        "displayedPriceFormatted": "$166",
+        "isDiscounted": false,
+        "rateDescription": "$166 la nuitée"
+      },
+      "rateType": "nightly",
+      "rateBreakdown": [
+        {
+          "date": "2023-12-10",
+          "price": 165,
+          "priceFormatted": "$165"
+        },
+        {
+          "date": "2023-12-11",
+          "price": 165,
+          "priceFormatted": "$165"
+        },
+        {
+          "date": "2023-12-12",
+          "price": 165,
+          "priceFormatted": "$165"
+        },
+        {
+          "date": "2023-12-13",
+          "price": 165,
+          "priceFormatted": "$165"
+        },
+        {
+          "date": "2023-12-14",
+          "price": 168,
+          "priceFormatted": "$168"
+        }
+      ],
+      "nights": 5,
+      "totalPrice": {
+        "amount": 1110,
+        "amountFormatted": "$1 110",
+        "accommodation": 828,
+        "cleaningFee": 67,
+        "guestFee": 133,
+        "taxes": 82,
+        "currency": "USD"
+      },
+      "totalPriceBreakdown": [
+        {
+          "title": "$166 x 5 nuits",
+          "price": 828,
+          "priceFormatted": "$828"
+        },
+        {
+          "title": "Frais de nettoyage",
+          "price": 67,
+          "priceFormatted": "$67"
+        },
+        {
+          "title": "Frais de service Airbnb",
+          "price": 133,
+          "priceFormatted": "$133"
+        },
+        {
+          "title": "Taxes",
+          "price": 82,
+          "priceFormatted": "$82"
+        }
+      ]
+    },
+    "photos": [
+      {
+        "caption": "The view from the ground looking up",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/8c5a72f9-3b33-4900-a807-6d973b387c0c.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/8c5a72f9-3b33-4900-a807-6d973b387c0c.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Looking out the front windows ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/0793c5dd-7902-4b19-ba41-98fcb97d6a38.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/0793c5dd-7902-4b19-ba41-98fcb97d6a38.jpg?aki_policy=small"
+      },
+      {
+        "caption": "Mortise and tenon spalted maple ladder going up to the loft bedroom",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/76a1da11-b420-4109-9ed7-f004e098a3da.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/76a1da11-b420-4109-9ed7-f004e098a3da.jpg?aki_policy=small"
+      },
+      {
+        "caption": "Bedroom window",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/9b7e9823-5f8a-4e72-8a79-e13f34c5c472.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/9b7e9823-5f8a-4e72-8a79-e13f34c5c472.jpg?aki_policy=small"
+      },
+      {
+        "caption": "Loft bedroom ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/9e4181b7-fb72-4ee7-bed5-5292eeaec602.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/9e4181b7-fb72-4ee7-bed5-5292eeaec602.jpg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/ef73db91-4826-4626-a7f8-2bf438aedc5a.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/ef73db91-4826-4626-a7f8-2bf438aedc5a.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Full Bathroom with glass rain shower",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/01aeea44-87a4-4cc4-a035-926cf3811422.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/01aeea44-87a4-4cc4-a035-926cf3811422.jpg?aki_policy=small"
+      },
+      {
+        "caption": "All natural cedar bathroom walls",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/f3de5399-ffea-483b-961f-8dd3404e0ccf.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/f3de5399-ffea-483b-961f-8dd3404e0ccf.jpg?aki_policy=small"
+      },
+      {
+        "caption": "A view from the deck",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/64b9bd02-061a-48d2-8bec-e96e414ccf17.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/64b9bd02-061a-48d2-8bec-e96e414ccf17.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Patio seating on side deck",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/2e4496af-626e-4bce-a534-c5846e346c2b.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/2e4496af-626e-4bce-a534-c5846e346c2b.jpg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/01d8cbc1-cd81-4117-9d25-f85233e65f28.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/01d8cbc1-cd81-4117-9d25-f85233e65f28.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Half way up to the canopy!",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/2acc4bd5-359c-465a-ae88-671002311397.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/2acc4bd5-359c-465a-ae88-671002311397.jpg?aki_policy=small"
+      },
+      {
+        "caption": "A view of the Olympic Mountains from the treehouse",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/558c94d3-1226-47b7-a9d0-8e5ec6e3cffe.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/558c94d3-1226-47b7-a9d0-8e5ec6e3cffe.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Hidden waterfall along the Juan de fuca trail",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/c6053154-737e-46e2-8706-a812e7363569.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/c6053154-737e-46e2-8706-a812e7363569.jpg?aki_policy=small"
+      },
+      {
+        "caption": "Galloping Goose Trail train tressel. Now used for biking and walking",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/35836de3-f607-4632-b75f-33665c15befa.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/35836de3-f607-4632-b75f-33665c15befa.jpg?aki_policy=small"
+      },
+      {
+        "caption": "One of the Sooke Potholes many waterfalls",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/d3963d4c-d454-48e3-a3b7-99a48efff7c7.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/d3963d4c-d454-48e3-a3b7-99a48efff7c7.jpg?aki_policy=small"
+      },
+      {
+        "caption": "Mystic Beach",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/c0736b3d-2f0f-48e7-b054-76d5b2540bf8.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/c0736b3d-2f0f-48e7-b054-76d5b2540bf8.jpg?aki_policy=small"
+      },
+      {
+        "caption": "French Beach ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/c645f406-0c8d-4471-b3d2-71456e6b0a93.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/c645f406-0c8d-4471-b3d2-71456e6b0a93.jpg?aki_policy=small"
+      },
+      {
+        "caption": "View from Mount Manuel Quimper in Sea to Sea Park behind Owl's Perch",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/eb4c2c9c-b439-4792-bd4d-4255ae3c8354.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/eb4c2c9c-b439-4792-bd4d-4255ae3c8354.jpg?aki_policy=small"
+      },
+      {
+        "caption": "One of our local owls (picture taken from the back deck)",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/22445c51-6bb9-4551-aed3-617052eea29a.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/22445c51-6bb9-4551-aed3-617052eea29a.jpg?aki_policy=small"
+      }
+    ],
+    "primaryHost": {
+      "id": 200945684,
+      "firstName": "Amanda",
+      "isSuperHost": true,
+      "hasProfilePic": true,
+      "smartName": "Amanda",
+      "about": "Our family moved to Vancouver island with our daughter to be closer to nature. We chose Sooke because it’s where the rainforest meets the sea. We love hosting, traveling and exploring. ",
+      "memberSince": "Membre depuis juillet 2018",
+      "languages": [],
+      "responseRate": "100%",
+      "responseTime": "moins d'une heure",
+      "hasInclusionBadge": false,
+      "badges": ["705 commentaires", "Identité vérifiée"],
+      "hostUrl": "https://www.airbnb.com/users/show/200945684",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
+    },
+    "additionalHosts": [],
+    "isHostedBySuperhost": true,
+    "isAvailable": true,
+    "listingAmenities": [
+      {
+        "description": "",
+        "id": 9,
+        "isPresent": true,
+        "name": "Stationnement gratuit sur place"
+      },
+      {
+        "description": "Espace où les voyageurs peuvent cuisiner leurs propres repas",
+        "id": 8,
+        "isPresent": true,
+        "name": "Cuisine"
+      },
+      {
+        "description": "Disponible dans tout logement",
+        "id": 4,
+        "isPresent": true,
+        "name": "Wifi"
+      },
+      {
+        "description": "",
+        "id": 5,
+        "isPresent": false,
+        "name": "Climatisation"
+      },
+      {
+        "description": "",
+        "id": 27,
+        "isPresent": true,
+        "name": "Foyer à l'intérieur"
+      },
+      {
+        "description": "",
+        "id": 1,
+        "isPresent": true,
+        "name": "Télévision"
+      },
+      {
+        "description": "Les voyageurs peuvent utiliser un bureau, une table et une chaise confortable juste pour le travail.",
+        "id": 47,
+        "isPresent": true,
+        "name": "Espace de travail"
+      },
+      {
+        "description": "",
+        "id": 33,
+        "isPresent": false,
+        "name": "Laveuse"
+      },
+      {
+        "description": "",
+        "id": 44,
+        "isPresent": true,
+        "name": "Cintres"
+      },
+      {
+        "description": "",
+        "id": 34,
+        "isPresent": false,
+        "name": "Sécheuse"
+      },
+      {
+        "description": "Serviettes, draps, savon et papier de toilette",
+        "id": 40,
+        "isPresent": true,
+        "name": "Articles essentiels"
+      },
+      {
+        "description": "",
+        "id": 45,
+        "isPresent": true,
+        "name": "Séchoir à cheveux"
+      },
+      {
+        "description": "",
+        "id": 30,
+        "isPresent": true,
+        "name": "Chauffage"
+      },
+      {
+        "description": "",
+        "id": 41,
+        "isPresent": true,
+        "name": "Shampoing"
+      },
+      {
+        "description": "",
+        "id": 23,
+        "isPresent": true,
+        "name": "Stationnement gratuit dans la rue"
+      },
+      {
+        "description": "",
+        "id": 35,
+        "isPresent": true,
+        "name": "Détecteur de fumée"
+      },
+      {
+        "description": "",
+        "id": 36,
+        "isPresent": true,
+        "name": "Détecteur de monoxyde de carbone"
+      },
+      {
+        "description": "",
+        "id": 37,
+        "isPresent": true,
+        "name": "Trousse de premiers soins"
+      },
+      {
+        "description": "",
+        "id": 39,
+        "isPresent": true,
+        "name": "Extincteur"
+      },
+      {
+        "description": "Vous pouvez entrer seul grâce à une serrure à code",
+        "id": 53,
+        "isPresent": true,
+        "name": "Clavier"
+      },
+      {
+        "description": "Entrée par une autre rue ou un autre immeuble",
+        "id": 57,
+        "isPresent": true,
+        "name": "Entrée privée"
+      },
+      {
+        "description": "",
+        "id": 66,
+        "isPresent": true,
+        "name": "Livres et jouets pour enfants"
+      },
+      {
+        "description": "",
+        "id": 73,
+        "isPresent": true,
+        "name": "Stores pour obscurcir la pièce"
+      },
+      {
+        "description": "",
+        "id": 77,
+        "isPresent": true,
+        "name": "Eau chaude"
+      },
+      {
+        "description": "",
+        "id": 79,
+        "isPresent": true,
+        "name": "Savon pour le corps"
+      },
+      {
+        "description": "",
+        "id": 85,
+        "isPresent": true,
+        "name": "Literie"
+      },
+      {
+        "description": "",
+        "id": 86,
+        "isPresent": true,
+        "name": "Oreillers et couvertures supplémentaires"
+      },
+      {
+        "description": "",
+        "id": 89,
+        "isPresent": true,
+        "name": "Four à micro-ondes"
+      },
+      {
+        "description": "",
+        "id": 90,
+        "isPresent": true,
+        "name": "Une cafetière"
+      },
+      {
+        "description": "",
+        "id": 91,
+        "isPresent": true,
+        "name": "Réfrigérateur"
+      },
+      {
+        "description": "Bols, baguettes, assiettes, tasses, etc.",
+        "id": 93,
+        "isPresent": true,
+        "name": "Vaisselle et couverts"
+      },
+      {
+        "description": "Batterie de cuisine, huile, sel et poivre",
+        "id": 94,
+        "isPresent": true,
+        "name": "Essentiels de cuisine"
+      },
+      {
+        "description": "",
+        "id": 99,
+        "isPresent": true,
+        "name": "Barbecue"
+      },
+      {
+        "description": "",
+        "id": 100,
+        "isPresent": true,
+        "name": "Patio ou balcon"
+      },
+      {
+        "description": "Terrain ouvert généralement recouvert d'herbe",
+        "id": 101,
+        "isPresent": true,
+        "name": "Cour arrière"
+      },
+      {
+        "description": "",
+        "id": 137,
+        "isPresent": true,
+        "name": "Bouilloire"
+      },
+      {
+        "description": "Espace où les voyageurs peuvent réchauffer ou réfrigérer de la nourriture",
+        "id": 145,
+        "isPresent": true,
+        "name": "Kitchenette"
+      },
+      {
+        "description": "",
+        "id": 146,
+        "isPresent": true,
+        "name": "Mini réfrigérateur"
+      },
+      {
+        "description": "",
+        "id": 185,
+        "isPresent": true,
+        "name": "Système audio"
+      },
+      {
+        "description": "",
+        "id": 236,
+        "isPresent": true,
+        "name": "Table à manger"
+      },
+      {
+        "description": "",
+        "id": 251,
+        "isPresent": true,
+        "name": "Grille-pain"
+      },
+      {
+        "description": "",
+        "id": 280,
+        "isPresent": true,
+        "name": "Mobilier d'extérieur"
+      },
+      {
+        "description": "",
+        "id": 392,
+        "isPresent": true,
+        "name": "Jeux de société"
+      },
+      {
+        "description": "",
+        "id": 522,
+        "isPresent": true,
+        "name": "Ventilateurs portables"
+      },
+      {
+        "description": "",
+        "id": 611,
+        "isPresent": true,
+        "name": "Gel de douche"
+      },
+      {
+        "description": "",
+        "id": 657,
+        "isPresent": true,
+        "name": "Revitalisant"
+      },
+      {
+        "description": "",
+        "id": 663,
+        "isPresent": true,
+        "name": "Buanderie à proximité"
+      },
+      {
+        "description": "",
+        "id": 665,
+        "isPresent": true,
+        "name": "Produits de nettoyage"
+      },
+      {
+        "description": "",
+        "id": 671,
+        "isPresent": true,
+        "name": "Espace de rangement pour les vêtements"
+      },
+      {
+        "description": "",
+        "id": 672,
+        "isPresent": true,
+        "name": "Verres à vin"
+      }
+    ],
+    "rootAmenitySections": [
+      {
+        "id": "available_amenities",
+        "title": "Commodités",
+        "subtitle": "",
+        "amenityIds": [9, 8, 4, 27]
+      }
+    ],
+    "seeAllAmenitySections": [
+      {
+        "id": "pdp_m2_5_bathroom",
+        "title": "Salle de bain",
+        "subtitle": "",
+        "amenityIds": [45, 41, 77, 79, 611, 657, 665]
+      },
+      {
+        "id": "pdp_m2_5_bedroom_laundry",
+        "title": "Chambre et lavage",
+        "subtitle": "",
+        "amenityIds": [44, 40, 73, 85, 86, 671]
+      },
+      {
+        "id": "pdp_m2_5_entertainment",
+        "title": "Divertissement",
+        "subtitle": "",
+        "amenityIds": [1, 185]
+      },
+      {
+        "id": "pdp_m2_5_family",
+        "title": "Famille",
+        "subtitle": "",
+        "amenityIds": [66, 392]
+      },
+      {
+        "id": "pdp_m2_5_heating_cooling",
+        "title": "Chauffage et climatisation",
+        "subtitle": "",
+        "amenityIds": [27, 30, 522]
+      },
+      {
+        "id": "pdp_m2_5_home_safety",
+        "title": "Sécurité",
+        "subtitle": "",
+        "amenityIds": [35, 36, 37, 39]
+      },
+      {
+        "id": "pdp_m2_5_internet_office",
+        "title": "Internet et bureau",
+        "subtitle": "",
+        "amenityIds": [4, 47]
+      },
+      {
+        "id": "pdp_m2_5_kitchen_dining",
+        "title": "Cuisine et couverts",
+        "subtitle": "",
+        "amenityIds": [8, 89, 90, 91, 93, 94, 137, 145, 146, 236, 251, 672]
+      },
+      {
+        "id": "pdp_m2_5_location",
+        "title": "Caractéristiques de l'emplacement",
+        "subtitle": "",
+        "amenityIds": [57, 663]
+      },
+      {
+        "id": "pdp_m2_5_outdoor",
+        "title": "Extérieure",
+        "subtitle": "",
+        "amenityIds": [99, 100, 101, 280]
+      },
+      {
+        "id": "pdp_m2_5_parking_facilities",
+        "title": "Stationnement et installations",
+        "subtitle": "",
+        "amenityIds": [9, 23]
+      },
+      {
+        "id": "pdp_m2_5_services",
+        "title": "Services",
+        "subtitle": "",
+        "amenityIds": [53]
+      },
+      {
+        "id": "pdp_unavailable",
+        "title": "Non inclus",
+        "subtitle": "",
+        "amenityIds": [5, 33, 34]
+      }
+    ],
+    "bathroomLabel": "1 salle de bains",
+    "bedLabel": "1 lit",
+    "bedroomLabel": "1 chambre",
+    "hasHouseRules": true,
+    "id": 26722125,
+    "isNewListing": false,
+    "listingRooms": [
+      {
+        "beds": [
+          {
+            "id": "22840732/queen_bed",
+            "quantity": 1,
+            "type": "queen_bed"
+          }
+        ],
+        "id": 22840732,
+        "roomNumber": 1
+      }
+    ],
+    "p3SummaryAddress": "Sooke, Colombie-Britannique, Canada",
+    "roomTypeCategory": "entire_home",
+    "sectionedDescription": {
+      "access": "Guest will have private access and parking to the treehouse. They will have complete access to the treehouse and decks",
+      "authorType": "human",
+      "description": "A truly unique treehouse perched 30 feet high among the trees. This amazing structure is attached to 3 large cedars and 1 giant maple using advanced tree tabs that allow the trees to sway gently, providing a natural and immersive experience. The large deck offers stunning views across the Salish Sea to the Mountains of Washington state. With all the modern amenities you could need, it's the perfect place to relax and unwind.  Experience the magic and wonder of treehouse living for yourself!\n\nInside, you'll find a cozy space equipped with a 3-piece bathroom, kitchenette, and comfortable living room complete with a love seat, dining table, and fireplace. The loft bedroom offers a plush queen bed and a large picture window, providing breathtaking views of the surrounding forest. For entertainment, Netflix is installed and ready to use, while a large private deck offers the perfect spot to relax and take in the beauty of the trees\n\nGuest will have private access and parking to the treehouse. They will have complete access to the treehouse and decks\n\nThe treehouse is designed to allow guests to have their own space. It has a separate entrance to the property to allow for maximum privacy. We are happy to provide recommendations on places to visit during their trip and to provide fresh towels and linens when needed. Please ask about our treehouse massage services 🪷\n\nThe neighborhood is located on the Galloping Goose Trail, once a train track used by an old gold mining town. The treehouse is also near the Sooke Potholes Provincial Park, which offers freshwater swimming, waterfalls, wildlife, and pipe walks.\n\nWe are about 2km to the nearest bus stop and there are cab services in our area. There is also places to park and ride.\n\nThere are almost 50 steps to the canopy and there is a ladder to reach the loft bedroom. Be aware if you have any difficulty climbing. The kitchenette does not have a stove only a microwave and toaster oven. There is a BBQ/Grill. Netflix installed",
+      "houseRules": "- No loud music",
+      "interaction": "The treehouse is designed to allow guests to have their own space. It has a separate entrance to the property to allow for maximum privacy. We are happy to provide recommendations on places to visit during their trip and to provide fresh towels and linens when needed. Please ask about our treehouse massage services 🪷",
+      "locale": "en",
+      "localizedLanguageName": "anglais",
+      "name": "The Owls Perch Vancouver Islands Highest Treehouse",
+      "neighborhoodOverview": "The neighborhood is located on the Galloping Goose Trail, once a train track used by an old gold mining town. The treehouse is also near the Sooke Potholes Provincial Park, which offers freshwater swimming, waterfalls, wildlife, and pipe walks.",
+      "notes": "There are almost 50 steps to the canopy and there is a ladder to reach the loft bedroom. Be aware if you have any difficulty climbing. The kitchenette does not have a stove only a microwave and toaster oven. There is a BBQ/Grill. Netflix installed",
+      "space": "Inside, you'll find a cozy space equipped with a 3-piece bathroom, kitchenette, and comfortable living room complete with a love seat, dining table, and fireplace. The loft bedroom offers a plush queen bed and a large picture window, providing breathtaking views of the surrounding forest. For entertainment, Netflix is installed and ready to use, while a large private deck offers the perfect spot to relax and take in the beauty of the trees",
+      "summary": "A truly unique treehouse perched 30 feet high among the trees. This amazing structure is attached to 3 large cedars and 1 giant maple using advanced tree tabs that allow the trees to sway gently, providing a natural and immersive experience. The large deck offers stunning views across the Salish Sea to the Mountains of Washington state. With all the modern amenities you could need, it's the perfect place to relax and unwind.  Experience the magic and wonder of treehouse living for yourself!",
+      "transit": "We are about 2km to the nearest bus stop and there are cab services in our area. There is also places to park and ride."
+    },
+    "tierId": 0,
+    "guestControls": {
+      "allowsChildren": true,
+      "allowsEvents": false,
+      "allowsInfants": false,
+      "allowsPets": false,
+      "allowsSmoking": false,
+      "personCapacity": 2,
+      "structuredHouseRules": [
+        "N'est pas adapté ou ne convient pas aux bébés (moins de 2 ans) et aux animaux domestiques",
+        "Non-fumeur. Pas de fêtes ni de soirées",
+        "Arrivée à partir de 15:00 et départ avant 11:00"
+      ],
+      "structuredHouseRulesWithTips": [
+        {
+          "key": "are_infants_and_pets_allowed",
+          "text": "N'est pas adapté ou ne convient pas aux bébés (moins de 2 ans) et aux animaux domestiques",
+          "airmojiKey": "accomodation_home"
+        },
+        {
+          "key": "are_smoking_and_events_allowed",
+          "text": "Non-fumeur. Pas de fêtes ni de soirées",
+          "airmojiKey": "accomodation_home"
+        },
+        {
+          "key": "check_in_time_and_check_out_time",
+          "text": "Arrivée à partir de 15:00 et départ avant 11:00",
+          "airmojiKey": "accomodation_keys"
+        },
+        {
+          "key": "self_check_in",
+          "text": "Arrivée autonome avec serrure numérique",
+          "airmojiKey": "pdp_room"
+        }
+      ],
+      "allowsNonChinaUsers": true
+    },
+    "hasSpecialOffer": false,
+    "maxNights": 14,
+    "minNights": 1,
+    "priceDetails": [
+      {
+        "label": "Frais de ménage",
+        "value": "90$ CAD",
+        "attributeType": "CLEANING_FEE"
+      },
+      {
+        "label": "Dépôt de garantie",
+        "value": "200$ CAD",
+        "attributeType": "HOST_REQUIRED_SECURITY_DEPOSIT"
+      }
+    ],
+    "hasWeWorkLocation": false,
+    "isBusinessTravelReady": false,
+    "hometourRooms": [
+      {
+        "details": [],
+        "highlightsHometour": ["1 grand lit"],
+        "highlightsPreview": [],
+        "isShared": false,
+        "id": 22840732,
+        "name": "",
+        "nameWithType": "Chambre 1",
+        "photos": [],
+        "roomTypeId": 1,
+        "icons": [
+          {
+            "type": "queen_bed",
+            "url": ""
+          }
+        ]
+      }
+    ],
+    "hometourSections": [],
+    "descriptionLocale": "en",
+    "initialDescriptionAuthorType": "human",
+    "localizedCheckInTimeWindow": "Après 15:00",
+    "localizedCheckOutTime": "11:00",
+    "city": "Sooke",
+    "country": "Canada",
+    "countryCode": "CA",
+    "hasHostGuidebook": false,
+    "hasLocalAttractions": false,
+    "neighborhoodCommunityTags": [],
+    "state": "BC",
+    "paidGrowthRemarketingListingIds": [],
+    "hasCommercialHostInfo": false,
+    "reviewDetailsInterface": {
+      "reviewCount": 623,
+      "reviewSummary": [
+        {
+          "value": 10,
+          "label": "Exactitude",
+          "localizedRating": "4,9",
+          "percentage": 0.984
+        },
+        {
+          "value": 10,
+          "label": "Communication",
+          "localizedRating": "5,0",
+          "percentage": 0.9960000000000001
+        },
+        {
+          "value": 10,
+          "label": "Propreté",
+          "localizedRating": "5,0",
+          "percentage": 0.9960000000000001
+        },
+        {
+          "value": 10,
+          "label": "Emplacement",
+          "localizedRating": "4,9",
+          "percentage": 0.976
+        },
+        {
+          "value": 10,
+          "label": "Arrivée",
+          "localizedRating": "5,0",
+          "percentage": 0.998
+        },
+        {
+          "value": 9,
+          "label": "Rapport qualité-prix",
+          "localizedRating": "4,8",
+          "percentage": 0.95
+        }
+      ]
+    },
+    "reviewsOrder": "language_country",
+    "nearbyAirportDistanceDescriptions": [],
+    "renderTierId": 0,
+    "isHotel": false,
+    "showReviewTag": false,
+    "isRepresentativeInventory": false,
+    "localizedCity": "Sooke",
+    "highlights": [
+      {
+        "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+        "message": "Vous aurez tout le cabane dans les arbres rien que pour vous.",
+        "headline": "Logement entier",
+        "position": "0",
+        "icon": "accomodation_home"
+      },
+      {
+        "type": "LISTING_SELF_CHECKIN",
+        "message": "Vous pouvez entrer dans les lieux à l'aide d'une serrure à digicode.",
+        "headline": "Arrivée autonome",
+        "position": "1",
+        "icon": "pdp_room"
+      },
+      {
+        "type": "LISTING_SUPER_HOST",
+        "message": "Les Superhôtes sont des hôtes chevronnés qui ont reçu d'excellentes évaluations et qui s’engagent à offrir des séjours de qualité supérieure aux voyageurs.",
+        "headline": "Amanda est Superhôte",
+        "position": "2",
+        "icon": "core_superhost"
+      },
+      {
+        "type": "LISTING_LOCATION_REVIEW_RATING",
+        "message": "95 % des voyageurs ont attribué 5 étoiles à l'emplacement.",
+        "headline": "Excellent emplacement",
+        "position": "3",
+        "icon": "core_map_pin"
+      }
+    ],
+    "highlightsImpressionId": "ed64147a-ed11-43ac-389c-3492affb83d0",
+    "categorizedPreviewAmenities": [
+      {
+        "category": "Standard",
+        "amenities": "Cuisine, Wifi, Télévision, Espace de travail, Cintres et 15 autres"
+      },
+      {
+        "category": "Autres points forts",
+        "amenities": "Stationnement gratuit sur place, Foyer à l'intérieur, Stationnement gratuit dans la rue, Trousse de premiers soins, Clavier et 22 autres"
+      }
+    ],
+    "pointOfInterests": [],
+    "chinaPointsOfInterestMatcha": {},
+    "hostGuidebook": {
+      "guidebookUrl": "/s/guidebooks?refinement_paths[]=/guidebooks/273151",
+      "localizedNameForHomesPdp": "Consulter le guide",
+      "title": "Guidebook for Sooke",
+      "id": 273151
+    },
+    "pageViewType": "DEFAULT",
+    "previewTags": [],
+    "seeAllHometourSections": [],
+    "enableHighlightsVoting": false,
+    "listingExpectations": [
+      {
+        "title": "Animaux dangereux sur la propriété",
+        "type": "animals",
+        "airmojiKey": "status_cancelled"
+      },
+      {
+        "title": "Le logement comprend des marches ou escaliers",
+        "type": "requires_stairs",
+        "airmojiKey": "house_rules_stairs"
+      },
+      {
+        "title": "Dépôt de garantie : si vous endommagez le logement, vous pourriez devoir payer jusqu'à 200$",
+        "type": "security_deposit",
+        "airmojiKey": "em_payment"
+      }
+    ],
+    "localizedListingExpectations": [
+      {
+        "title": "Animaux dangereux sur la propriété",
+        "type": "animals",
+        "airmojiKey": "status_cancelled"
+      },
+      {
+        "title": "Le logement comprend des marches ou escaliers",
+        "type": "requires_stairs",
+        "airmojiKey": "house_rules_stairs"
+      },
+      {
+        "title": "Dépôt de garantie : si vous endommagez le logement, vous pourriez devoir payer jusqu'à 200$",
+        "type": "security_deposit",
+        "airmojiKey": "em_payment"
+      }
+    ],
+    "heroModule": {
+      "categorizedPhotos": []
+    },
+    "reviewsModule": {
+      "localizedOverallRating": "4,95",
+      "appreciationTags": []
+    },
+    "availabilityModule": {},
+    "additionalHouseRules": "- No loud music",
+    "sortedReviews": [],
+    "documentDisplayPictures": [],
+    "sections": [],
+    "metadata": {},
+    "p3ImpressionId": "ed64147a-ed11-43ac-389c-3492affb83d0",
+    "idStr": "26722125",
+    "paidGrowthRemarketingListingIdsStr": []
   }
 ]
