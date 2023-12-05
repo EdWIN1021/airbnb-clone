@@ -1,5 +1,3 @@
-//https://console.apify.com/actors/GsNzxEKzE2vQ5d9HN/runs/bVDKgKfyttofoz06g#output
-
 [
   {
     "name": "Guest suite in Vancouver",
@@ -45,6 +43,24 @@
     "price": 150,
     "image_url": "https://a0.muscache.com/pictures/8408188/e1af63e4_original.jpg",
     "number_of_reviews": 277
+  },
+  {
+    "name": "Sooke, Colombie-Britannique, Canada",
+    "title": "The Owls Perch Vancouver Islands Highest Treehouse",
+    "rating": 4.95,
+    "number_of_beds": 1,
+    "price": 298,
+    "image_url": "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?aki_policy=large",
+    "number_of_reviews": 624
+  },
+  {
+    "name": "Halfmoon Bay, Canada",
+    "title": "Leaning Tree Retreat - Cabin in the Woods",
+    "rating": 4.99,
+    "number_of_beds": 2,
+    "price": 298,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/0c24a36a-0b7c-457c-934a-7c81050404e4.jpeg?aki_policy=large",
+    "number_of_reviews": 79
   },
   {
     "url": "https://www.airbnb.com/rooms/26722125",
@@ -1229,6 +1245,1258 @@
     "metadata": {},
     "p3ImpressionId": "ed64147a-ed11-43ac-389c-3492affb83d0",
     "idStr": "26722125",
+    "paidGrowthRemarketingListingIdsStr": []
+  },
+  {
+    "url": "https://www.airbnb.com/rooms/561659145546380845",
+    "name": "Leaning Tree Retreat - Cabin in the Woods",
+    "stars": 4.99,
+    "numberOfGuests": 4,
+    "address": "Halfmoon Bay, Colombie-Britannique, Canada",
+    "roomType": "Logement entier : cabane",
+    "location": {
+      "lat": 49.489430553961206,
+      "lng": -123.86280883465824
+    },
+    "reviews": [
+      {
+        "author": {
+          "firstName": "Sheila",
+          "hasProfilePic": false,
+          "id": "18613810",
+          "pictureUrl": "https://a0.muscache.com/im/users/18613810/profile_pic/1425774156/original.jpg?aki_policy=profile_x_medium",
+          "smartName": "Sheila",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/18613810/profile_pic/1425774156/original.jpg?aki_policy=profile_small"
+        },
+        "comments": "Beautiful private quiet setting. Best Airbnb kitchen in years - all the pots and pans and dishes etc. - and very clean. Especially loved the rain shower, the bed and the propane fire pit. Very comfortable. Enjoyed our stay very much. Thank you!",
+        "createdAt": "2023-11-19T21:08:03Z",
+        "id": "1028370224194336291",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Magnifique cadre privé et calme Meilleure cuisine Airbnb depuis des années - toutes les casseroles, poêles et vaisselle, etc. - et très propre. J'ai particulièrement adoré la douche à effet de pluie, le lit et le foyer au propane. Très confortable. Nous avons grandement apprécié notre séjour. Merci !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Hilary",
+          "hasProfilePic": false,
+          "id": "21332348",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/44f618de-1580-438d-9342-f50431180614.jpg?aki_policy=profile_x_medium",
+          "smartName": "Hilary",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/44f618de-1580-438d-9342-f50431180614.jpg?aki_policy=profile_small"
+        },
+        "comments": "Such a peaceful cabin! Highly recommend for those looking to escape the city for a weekend. Really appreciated the dog treats and how dog friendly the space was.",
+        "createdAt": "2023-10-02T21:39:22Z",
+        "id": "993596746257574096",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "octobre 2023",
+        "localizedReview": {
+          "comments": "Un chalet paisible ! Hautement recommandé pour ceux qui souhaitent s'évader de la ville pour un week-end. J'ai vraiment apprécié les friandises pour chiens et la façon dont le logement était adapté aux chiens.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Sarah",
+          "hasProfilePic": false,
+          "id": "58084573",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/afe89fe7-e387-4fb6-bb84-68a86c7d237c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Sarah",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/afe89fe7-e387-4fb6-bb84-68a86c7d237c.jpg?aki_policy=profile_small"
+        },
+        "comments": "Scott and Lauren were great hosts. The cabin was so inviting and relaxing. we were able to bring our pups and they were gracious enough to leave us a bottle of wine as well as treats for the pups! they were super responsive with any questions we had and always ensured we had everything we needed.<br/>The cabin was quiet and peaceful, we slept so well! There were so many great hiking trails nearby....we also brought our own kayaks. We had a blast!",
+        "createdAt": "2023-09-15T23:58:21Z",
+        "id": "981345510513750989",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "septembre 2023",
+        "localizedReview": {
+          "comments": "Scott et Lauren ont été d'excellents hôtes. La cabane était si accueillante et relaxante. Nous avons pu amener nos chiots et ils ont eu la gentillesse de nous laisser une bouteille de vin ainsi que des friandises pour les chiots ! Ils ont été super réactifs avec toutes les questions que nous avions et ont toujours veillé à ce que nous ayons tout ce dont nous avions besoin.<br/>La cabane était calme et paisible, nous avons tellement bien dormi ! Il y avait tellement de sentiers de randonnée à proximité...nous avons également apporté nos propres kayaks. On s'est éclatés !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Julie",
+          "hasProfilePic": false,
+          "id": "17653180",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/3cf84325-649c-4ee6-b5cb-da871859bb0c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Julie",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3cf84325-649c-4ee6-b5cb-da871859bb0c.jpg?aki_policy=profile_small"
+        },
+        "comments": "Beautifully decorated cozy cottage surrounded by trees,  it was a perfect base for our family of three.",
+        "createdAt": "2023-08-29T22:36:16Z",
+        "id": "968983010200485743",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "août 2023",
+        "localizedReview": {
+          "comments": "Chalet confortable joliment décoré entouré d'arbres,  c'était un point de départ idéal pour notre famille de trois.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Colleen",
+          "hasProfilePic": false,
+          "id": "7466599",
+          "pictureUrl": "https://a0.muscache.com/im/users/7466599/profile_pic/1374332701/original.jpg?aki_policy=profile_x_medium",
+          "smartName": "Colleen",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/7466599/profile_pic/1374332701/original.jpg?aki_policy=profile_small"
+        },
+        "comments": "My husband and I really enjoy staying at Lauren and Scott's lovely cabin in the woods. It was peaceful and a really nice energy about the place. We loved the outdoor undercover area where we read, relaxed, did yoga, and meditated. The place looked even better than the photos. It was spotlessly clean (even in the corners and harder to reach places). It was very new and we enjoyed all the touches in how it was decorated. The kitchen was stocked so well that we didn't need anything extra. We cooked there several times and found the kitchen very functional and so well equipped. The bedroom and bathroom also had everything you could ever want. It was a very quiet area and we enjoyed hiking up to the top of the hill on their property to enjoy the beautiful views as well as hikes around the area. Lauren and Scott were very responsive and helpful. We would recommend their place highly as staying here was a highlight of our trip to the beautiful Sunshine Coast.",
+        "createdAt": "2023-08-25T23:18:25Z",
+        "id": "966105123852554482",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "août 2023",
+        "localizedReview": {
+          "comments": "Mon mari et moi avons vraiment apprécié de séjourner dans la charmante cabane de Lauren et Scott dans les bois. C'était paisible et c'était une très belle énergie dans l'endroit. Nous avons adoré l'espace couvert extérieur où nous avons lu, détendu, fait du yoga et médité. Le logement était encore mieux que les photos. Il était impeccablement propre (même dans les coins et plus difficile à atteindre). C'était très nouveau et nous avons apprécié l'ensemble des touches dans la façon dont il a été décoré. La cuisine était si bien approvisionnée que nous n'avions besoin de rien de plus. Nous y avons cuisiné plusieurs fois et avons trouvé la cuisine très fonctionnelle et si bien équipée La chambre et la salle de bain avaient également tout ce que vous pouviez désirer. C'était un quartier très calme et nous avons apprécié de faire de la randonnée jusqu'au sommet de la colline sur leur propriété pour profiter de la vue magnifique ainsi que des randonnées dans la région. Lauren et Scott ont été très réactifs et très serviables. Nous recommandons vivement leur logement car séjourner ici a été l'un des points forts de notre voyage vers la magnifique Sunshine Coast.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Nicole",
+          "hasProfilePic": false,
+          "id": "38134005",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-38134005/original/cfb6af5c-5e49-4f0a-a56e-0887df126f5c.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Nicole",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-38134005/original/cfb6af5c-5e49-4f0a-a56e-0887df126f5c.jpeg?aki_policy=profile_small"
+        },
+        "comments": "Scott & Laurens place is truly a peaceful oasis. It was just the escape from the city that my pup and I needed to decompress. Scott and Lauren were such considerate and gracious hosts with great communication. The bed was SO comfortable and the kitchen & appliances were very modern and useful. The rainfall shower, bbq, and gas fire pit outside were also a huge plus, and my pup would definitely say the surrounding forest and explorable areas on the property were the best part! Truly a soothing and healing place.",
+        "createdAt": "2023-08-11T21:24:45Z",
+        "id": "955901050428287136",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "août 2023",
+        "localizedReview": {
+          "comments": "Scott & Laurens place est vraiment un havre de paix. C'était juste l'évasion de la ville que mon chiot et moi devions décompresser. Scott et Lauren ont été des hôtes très attentionnés et aimables. Le lit était très confortable et la cuisine et les appareils étaient très modernes et utiles. La douche à effet de pluie, le barbecue et le foyer à gaz à l'extérieur étaient également un énorme avantage, et mon chiot dirait que la forêt environnante et les zones explorables de la propriété étaient la meilleure partie ! Vraiment un lieu apaisant et curatif.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Jill",
+          "hasProfilePic": false,
+          "id": "171533148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/c560228a-6bae-490f-8ae1-8b02a2ae0654.jpg?aki_policy=profile_x_medium",
+          "smartName": "Jill",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c560228a-6bae-490f-8ae1-8b02a2ae0654.jpg?aki_policy=profile_small"
+        },
+        "comments": "We really enjoyed the cabin. It was so clean and comfortable. We appreciated the dog bowls towel and treats. The deck is amazing and we used the fire pit and bbq. Lovely and peaceful with many hikes and beaches nearby. Defiantly would want to stay again or recommend to others.",
+        "createdAt": "2023-08-02T20:01:43Z",
+        "id": "949336279634284957",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "août 2023",
+        "localizedReview": {
+          "comments": "Nous avons vraiment apprécié le chalet. C'était tellement propre et confortable. Nous avons apprécié les serviettes et les friandises pour chiens. La terrasse est incroyable et nous avons utilisé le brasero et le barbecue. Agréable et paisible avec de nombreuses randonnées et plages à proximité. Je souhaiterais y séjourner à nouveau ou recommander à d'autres personnes.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Emily",
+          "hasProfilePic": false,
+          "id": "297431281",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/60fed7b0-3f9c-4e6e-a0ca-af85789df07e.jpg?aki_policy=profile_x_medium",
+          "smartName": "Emily",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/60fed7b0-3f9c-4e6e-a0ca-af85789df07e.jpg?aki_policy=profile_small"
+        },
+        "comments": "Scott and Lauren were super responsive and friendly and we loved staying in this beautiful, clean, and well-designed space! It’s tucked away in the trees so the temperature was cool, even though it was really warm out! They also have a ceiling fan and additional fan in case it did get too warm. Loved all the decor details throughout and parking was easy since the driveway was nicely paved. We had everything we needed for our weekend get away with our pup!",
+        "createdAt": "2023-07-23T22:34:30Z",
+        "id": "942165425054180973",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "juillet 2023",
+        "localizedReview": {
+          "comments": "Scott et Lauren ont été super réactifs et sympathiques et nous avons adoré séjourner dans ce bel espace propre et bien conçu ! C'est caché dans les arbres, donc la température était fraîche, même s'il faisait vraiment chaud ! Ils disposent également d'un ventilateur de plafond et d'un ventilateur supplémentaire au cas où il ferait trop chaud. J'ai adoré tous les détails de la décoration et le stationnement était facile car l'allée était joliment pavée. Nous avons eu tout le nécessaire pour notre week-end, partez avec notre chiot !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "414899366",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/64e93318-edb7-443e-a0b2-5f02b84313d6.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/64e93318-edb7-443e-a0b2-5f02b84313d6.jpg?aki_policy=profile_small"
+        },
+        "comments": "This was such a great trip. The cabin was great and I can't get over how beautiful and peaceful the Sunshine Coast is. Had my phone set on do not disturb and had a relaxing time.",
+        "createdAt": "2023-07-06T20:57:10Z",
+        "id": "929795241360598284",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "juillet 2023",
+        "localizedReview": {
+          "comments": "C'était un super voyage. La cabane était géniale et je n'arrive pas à comprendre à quel point la Sunshine Coast est belle et paisible. J'avais mon téléphone allumé, ne vous dérangez pas et j'ai passé un moment de détente.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Stephanie",
+          "hasProfilePic": false,
+          "id": "196790793",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/e0fe2d13-121c-4cb4-9145-ecdafb27d99c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Stephanie",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e0fe2d13-121c-4cb4-9145-ecdafb27d99c.jpg?aki_policy=profile_small"
+        },
+        "comments": "My boyfriend and I had a great time at Scott's place! It was quiet, cozy and the peaceful getaway we needed! Scott and Lauren were very responsive and helpful with everything we needed. I would 100% return!",
+        "createdAt": "2023-06-29T21:00:17Z",
+        "id": "924723384484763401",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Scott",
+          "hasProfilePic": false,
+          "id": "186156045",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Scott",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "juin 2023",
+        "localizedReview": {
+          "comments": "Mon petit ami et moi avons passé un très bon moment chez Scott ! C'était calme, confortable et l'escapade paisible dont nous avions besoin ! Scott et Lauren ont été très réactifs et serviables avec tout ce dont nous avions besoin. Je reviendrais à 100% !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      }
+    ],
+    "pricing": {
+      "rate": {
+        "amount": 219.4,
+        "amountFormatted": "$219.4",
+        "currency": "USD",
+        "isMicrosAccuracy": false,
+        "displayedPrice": 159,
+        "displayedPriceFormatted": "$159",
+        "isDiscounted": true,
+        "rateDescription": "$159 per night, originally $221",
+        "originalDisplayedPrice": 221,
+        "originalDisplayedPriceFormatted": "$221"
+      },
+      "rateType": "nightly",
+      "rateBreakdown": [
+        {
+          "date": "2023-12-11",
+          "price": 221,
+          "priceFormatted": "$221"
+        },
+        {
+          "date": "2023-12-12",
+          "price": 221,
+          "priceFormatted": "$221"
+        },
+        {
+          "date": "2023-12-13",
+          "price": 221,
+          "priceFormatted": "$221"
+        },
+        {
+          "date": "2023-12-14",
+          "price": 221,
+          "priceFormatted": "$221"
+        },
+        {
+          "date": "2023-12-15",
+          "price": 221,
+          "priceFormatted": "$221"
+        }
+      ],
+      "nights": 5,
+      "totalPrice": {
+        "amount": 1097,
+        "amountFormatted": "$1 097",
+        "accommodation": 1105,
+        "cleaningFee": 55,
+        "guestFee": 149,
+        "taxes": 97,
+        "currency": "USD"
+      },
+      "totalPriceBreakdown": [
+        {
+          "title": "$221 x 5 nuits",
+          "price": 1105,
+          "priceFormatted": "$1 105"
+        },
+        {
+          "title": "Offre spéciale",
+          "priceFormatted": "-$309"
+        },
+        {
+          "title": "Frais de nettoyage",
+          "price": 55,
+          "priceFormatted": "$55"
+        },
+        {
+          "title": "Frais de service Airbnb",
+          "price": 149,
+          "priceFormatted": "$149"
+        },
+        {
+          "title": "Taxes",
+          "price": 97,
+          "priceFormatted": "$97"
+        }
+      ],
+      "discountInfo": {}
+    },
+    "photos": [
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/0c24a36a-0b7c-457c-934a-7c81050404e4.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/0c24a36a-0b7c-457c-934a-7c81050404e4.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/40b3c481-4a52-445d-bddc-1b9bfe68320b.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/40b3c481-4a52-445d-bddc-1b9bfe68320b.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/5e7b0c6a-e234-486a-90f2-1b31eb85b5fe.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/5e7b0c6a-e234-486a-90f2-1b31eb85b5fe.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/d285c8fb-43e5-4629-ad6d-449bc489b376.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/d285c8fb-43e5-4629-ad6d-449bc489b376.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/56fedefa-03de-4c37-a75c-967719ea31ec.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/56fedefa-03de-4c37-a75c-967719ea31ec.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/b985b412-bf09-4353-baa5-24e2ff9827fc.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/b985b412-bf09-4353-baa5-24e2ff9827fc.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/331efae5-b60f-49d7-ac7f-7b27c4b462c0.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/331efae5-b60f-49d7-ac7f-7b27c4b462c0.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/f8bc8467-a25c-4305-9967-265a5c86d7aa.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/f8bc8467-a25c-4305-9967-265a5c86d7aa.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/61883f1b-6c6c-4932-bb97-79576d3ed5b9.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/61883f1b-6c6c-4932-bb97-79576d3ed5b9.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/0d304848-8d48-4337-9c71-e04348ede79c.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/0d304848-8d48-4337-9c71-e04348ede79c.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/3ebe1bdc-341a-42a9-9e3d-dc360ab0bf86.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/3ebe1bdc-341a-42a9-9e3d-dc360ab0bf86.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/9ec1cbc9-2033-4b97-b99b-5e2ed2f6e27b.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/9ec1cbc9-2033-4b97-b99b-5e2ed2f6e27b.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/556d3a82-a273-4908-9677-9f74d024b7e4.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/556d3a82-a273-4908-9677-9f74d024b7e4.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/b85533b2-207f-4289-aece-afc6b779b382.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/b85533b2-207f-4289-aece-afc6b779b382.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/ef5fa607-a626-47a9-99fc-f6fe298e4d8f.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/ef5fa607-a626-47a9-99fc-f6fe298e4d8f.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/67050004-7414-4c28-a59f-7abd7255c8c0.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/67050004-7414-4c28-a59f-7abd7255c8c0.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/7b6095ba-6b3f-4e2e-ad4b-1585be794c33.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/7b6095ba-6b3f-4e2e-ad4b-1585be794c33.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/9bb2b47e-cb28-421d-95c3-eeb9fa0746c3.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/9bb2b47e-cb28-421d-95c3-eeb9fa0746c3.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "A short walk to the top of the property to enjoy vast ocean views",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/27a544e2-7098-449c-961d-90a5278e7c2d.jpg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/27a544e2-7098-449c-961d-90a5278e7c2d.jpg?aki_policy=small"
+      },
+      {
+        "caption": "",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/3b5925d5-5333-4b71-a643-79ffa00f68c7.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-561659145546380845/original/3b5925d5-5333-4b71-a643-79ffa00f68c7.jpeg?aki_policy=small"
+      }
+    ],
+    "primaryHost": {
+      "id": 186156045,
+      "firstName": "Scott",
+      "isSuperHost": true,
+      "hasProfilePic": true,
+      "smartName": "Scott",
+      "about": "Hi we're Lauren and Scott :)\n\nRecently transplanted from Vancouver and are settlers on the stolen territories of the Coast Salish and Shishalh Nations. We live on this magical 6 acre property in Halfmoon Bay with our fur baby Harper pursuing the art of slow living. We look forward to sharing our space with those who are seeking some respite in the forest!  ",
+      "memberSince": "Membre depuis avril 2018",
+      "languages": [],
+      "responseRate": "100%",
+      "responseTime": "moins d'une heure",
+      "hasInclusionBadge": false,
+      "badges": ["79 commentaires", "Identité vérifiée"],
+      "hostUrl": "https://www.airbnb.com/users/show/186156045",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/cc6cc076-48e2-4858-967c-28821954ea7c.jpg?aki_policy=profile_small"
+    },
+    "additionalHosts": [
+      {
+        "id": 16373709,
+        "firstName": "Lauren",
+        "isSuperHost": false,
+        "hasProfilePic": true,
+        "smartName": "Lauren",
+        "about": "",
+        "memberSince": "Membre depuis juin 2014",
+        "languages": [],
+        "hasInclusionBadge": false,
+        "badges": [],
+        "hostUrl": "https://www.airbnb.com/users/show/16373709",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d082cbfc-69ce-4464-ba72-e03b68e48cb5.jpg?aki_policy=profile_large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d082cbfc-69ce-4464-ba72-e03b68e48cb5.jpg?aki_policy=profile_small"
+      }
+    ],
+    "isHostedBySuperhost": true,
+    "isAvailable": true,
+    "listingAmenities": [
+      {
+        "description": "",
+        "id": 1,
+        "isPresent": true,
+        "name": "Télévision"
+      },
+      {
+        "description": "Disponible dans tout logement",
+        "id": 4,
+        "isPresent": true,
+        "name": "Wifi"
+      },
+      {
+        "description": "",
+        "id": 5,
+        "isPresent": false,
+        "name": "Climatisation"
+      },
+      {
+        "description": "Espace où les voyageurs peuvent cuisiner leurs propres repas",
+        "id": 8,
+        "isPresent": true,
+        "name": "Cuisine"
+      },
+      {
+        "description": "",
+        "id": 9,
+        "isPresent": true,
+        "name": "Stationnement gratuit sur place"
+      },
+      {
+        "description": "",
+        "id": 23,
+        "isPresent": true,
+        "name": "Stationnement gratuit dans la rue"
+      },
+      {
+        "description": "",
+        "id": 30,
+        "isPresent": true,
+        "name": "Chauffage"
+      },
+      {
+        "description": "",
+        "id": 33,
+        "isPresent": false,
+        "name": "Laveuse"
+      },
+      {
+        "description": "",
+        "id": 34,
+        "isPresent": true,
+        "name": "Sécheuse"
+      },
+      {
+        "description": "",
+        "id": 35,
+        "isPresent": true,
+        "name": "Détecteur de fumée"
+      },
+      {
+        "description": "",
+        "id": 36,
+        "isPresent": true,
+        "name": "Détecteur de monoxyde de carbone"
+      },
+      {
+        "description": "",
+        "id": 37,
+        "isPresent": true,
+        "name": "Trousse de premiers soins"
+      },
+      {
+        "description": "",
+        "id": 39,
+        "isPresent": true,
+        "name": "Extincteur"
+      },
+      {
+        "description": "Serviettes, draps, savon et papier de toilette",
+        "id": 40,
+        "isPresent": true,
+        "name": "Articles essentiels"
+      },
+      {
+        "description": "",
+        "id": 41,
+        "isPresent": true,
+        "name": "Shampoing"
+      },
+      {
+        "description": "",
+        "id": 44,
+        "isPresent": true,
+        "name": "Cintres"
+      },
+      {
+        "description": "",
+        "id": 45,
+        "isPresent": true,
+        "name": "Séchoir à cheveux"
+      },
+      {
+        "description": "",
+        "id": 46,
+        "isPresent": true,
+        "name": "Fer à repasser"
+      },
+      {
+        "description": "Les voyageurs peuvent utiliser un bureau, une table et une chaise confortable juste pour le travail.",
+        "id": 47,
+        "isPresent": true,
+        "name": "Espace de travail"
+      },
+      {
+        "description": "Vous pouvez entrer seul grâce à une serrure à code",
+        "id": 53,
+        "isPresent": true,
+        "name": "Clavier"
+      },
+      {
+        "description": "Entrée par une autre rue ou un autre immeuble",
+        "id": 57,
+        "isPresent": true,
+        "name": "Entrée privée"
+      },
+      {
+        "description": "",
+        "id": 72,
+        "isPresent": true,
+        "name": "Parc de jeu pour bébé/lit de bébé de voyage"
+      },
+      {
+        "description": "",
+        "id": 73,
+        "isPresent": true,
+        "name": "Stores pour obscurcir la pièce"
+      },
+      {
+        "description": "",
+        "id": 77,
+        "isPresent": true,
+        "name": "Eau chaude"
+      },
+      {
+        "description": "",
+        "id": 79,
+        "isPresent": true,
+        "name": "Savon pour le corps"
+      },
+      {
+        "description": "",
+        "id": 85,
+        "isPresent": true,
+        "name": "Literie"
+      },
+      {
+        "description": "",
+        "id": 86,
+        "isPresent": true,
+        "name": "Oreillers et couvertures supplémentaires"
+      },
+      {
+        "description": "",
+        "id": 89,
+        "isPresent": true,
+        "name": "Four à micro-ondes"
+      },
+      {
+        "description": "",
+        "id": 90,
+        "isPresent": true,
+        "name": "Une cafetière"
+      },
+      {
+        "description": "",
+        "id": 91,
+        "isPresent": true,
+        "name": "Réfrigérateur"
+      },
+      {
+        "description": "Bols, baguettes, assiettes, tasses, etc.",
+        "id": 93,
+        "isPresent": true,
+        "name": "Vaisselle et couverts"
+      },
+      {
+        "description": "Batterie de cuisine, huile, sel et poivre",
+        "id": 94,
+        "isPresent": true,
+        "name": "Essentiels de cuisine"
+      },
+      {
+        "description": "",
+        "id": 95,
+        "isPresent": true,
+        "name": "Four"
+      },
+      {
+        "description": "",
+        "id": 96,
+        "isPresent": true,
+        "name": "Cuisinière"
+      },
+      {
+        "description": "Pas d'escaliers dans le logement",
+        "id": 98,
+        "isPresent": true,
+        "name": "Logement de plain-pied"
+      },
+      {
+        "description": "",
+        "id": 99,
+        "isPresent": true,
+        "name": "Barbecue"
+      },
+      {
+        "description": "",
+        "id": 100,
+        "isPresent": true,
+        "name": "Patio ou balcon"
+      },
+      {
+        "description": "Terrain ouvert généralement recouvert d'herbe",
+        "id": 101,
+        "isPresent": true,
+        "name": "Cour arrière"
+      },
+      {
+        "description": "Séjours de 28 jours ou plus autorisés",
+        "id": 104,
+        "isPresent": true,
+        "name": "Les séjours de longue durée sont acceptés"
+      },
+      {
+        "description": "",
+        "id": 137,
+        "isPresent": true,
+        "name": "Bouilloire"
+      },
+      {
+        "description": "",
+        "id": 139,
+        "isPresent": true,
+        "name": "Ventilateur de plafond"
+      },
+      {
+        "description": "",
+        "id": 179,
+        "isPresent": true,
+        "name": "Coin repas à l'extérieur"
+      },
+      {
+        "description": "",
+        "id": 219,
+        "isPresent": true,
+        "name": "Foyer extérieur"
+      },
+      {
+        "description": "",
+        "id": 236,
+        "isPresent": true,
+        "name": "Table à manger"
+      },
+      {
+        "description": "",
+        "id": 251,
+        "isPresent": true,
+        "name": "Grille-pain"
+      },
+      {
+        "description": "",
+        "id": 280,
+        "isPresent": true,
+        "name": "Mobilier d'extérieur"
+      },
+      {
+        "description": "",
+        "id": 308,
+        "isPresent": true,
+        "name": "Congélateur"
+      },
+      {
+        "description": "",
+        "id": 392,
+        "isPresent": true,
+        "name": "Jeux de société"
+      },
+      {
+        "description": "",
+        "id": 522,
+        "isPresent": true,
+        "name": "Ventilateurs portables"
+      },
+      {
+        "description": "",
+        "id": 611,
+        "isPresent": true,
+        "name": "Gel de douche"
+      },
+      {
+        "description": "",
+        "id": 625,
+        "isPresent": true,
+        "name": "Plaque de cuisson"
+      },
+      {
+        "description": "Barbecue, charbon, brochettes de bambou ou de métal, etc.",
+        "id": 626,
+        "isPresent": true,
+        "name": "Ustensiles de barbecue"
+      },
+      {
+        "description": "",
+        "id": 657,
+        "isPresent": true,
+        "name": "Revitalisant"
+      },
+      {
+        "description": "",
+        "id": 665,
+        "isPresent": true,
+        "name": "Produits de nettoyage"
+      },
+      {
+        "description": "",
+        "id": 671,
+        "isPresent": true,
+        "name": "Espace de rangement pour les vêtements"
+      },
+      {
+        "description": "",
+        "id": 672,
+        "isPresent": true,
+        "name": "Verres à vin"
+      }
+    ],
+    "rootAmenitySections": [
+      {
+        "id": "available_amenities",
+        "title": "Commodités",
+        "subtitle": "",
+        "amenityIds": [1, 4, 8, 9]
+      }
+    ],
+    "seeAllAmenitySections": [
+      {
+        "id": "pdp_m2_5_bathroom",
+        "title": "Salle de bain",
+        "subtitle": "",
+        "amenityIds": [41, 45, 77, 79, 611, 657, 665]
+      },
+      {
+        "id": "pdp_m2_5_bedroom_laundry",
+        "title": "Chambre et lavage",
+        "subtitle": "",
+        "amenityIds": [34, 40, 44, 46, 73, 85, 86, 671]
+      },
+      {
+        "id": "pdp_m2_5_entertainment",
+        "title": "Divertissement",
+        "subtitle": "",
+        "amenityIds": [1]
+      },
+      {
+        "id": "pdp_m2_5_family",
+        "title": "Famille",
+        "subtitle": "",
+        "amenityIds": [72, 392]
+      },
+      {
+        "id": "pdp_m2_5_heating_cooling",
+        "title": "Chauffage et climatisation",
+        "subtitle": "",
+        "amenityIds": [30, 139, 522]
+      },
+      {
+        "id": "pdp_m2_5_home_safety",
+        "title": "Sécurité",
+        "subtitle": "",
+        "amenityIds": [35, 36, 37, 39]
+      },
+      {
+        "id": "pdp_m2_5_internet_office",
+        "title": "Internet et bureau",
+        "subtitle": "",
+        "amenityIds": [4, 47]
+      },
+      {
+        "id": "pdp_m2_5_kitchen_dining",
+        "title": "Cuisine et couverts",
+        "subtitle": "",
+        "amenityIds": [
+          8, 89, 90, 91, 93, 94, 95, 96, 137, 236, 251, 308, 625, 626, 672
+        ]
+      },
+      {
+        "id": "pdp_m2_5_location",
+        "title": "Caractéristiques de l'emplacement",
+        "subtitle": "",
+        "amenityIds": [57]
+      },
+      {
+        "id": "pdp_m2_5_outdoor",
+        "title": "Extérieure",
+        "subtitle": "",
+        "amenityIds": [99, 100, 101, 179, 219, 280]
+      },
+      {
+        "id": "pdp_m2_5_parking_facilities",
+        "title": "Stationnement et installations",
+        "subtitle": "",
+        "amenityIds": [9, 23, 98]
+      },
+      {
+        "id": "pdp_m2_5_services",
+        "title": "Services",
+        "subtitle": "",
+        "amenityIds": [53, 104]
+      },
+      {
+        "id": "pdp_unavailable",
+        "title": "Non inclus",
+        "subtitle": "",
+        "amenityIds": [5, 33]
+      }
+    ],
+    "bathroomLabel": "1 salle de bains",
+    "bedLabel": "2 lits",
+    "bedroomLabel": "1 chambre",
+    "hasHouseRules": true,
+    "id": 561659145546380860,
+    "isNewListing": false,
+    "listingRooms": [
+      {
+        "beds": [
+          {
+            "id": "186312159/sofa_bed",
+            "quantity": 1,
+            "type": "sofa_bed"
+          }
+        ],
+        "id": 186312159,
+        "roomNumber": 0
+      },
+      {
+        "beds": [
+          {
+            "id": "186312053/queen_bed",
+            "quantity": 1,
+            "type": "queen_bed"
+          }
+        ],
+        "id": 186312053,
+        "roomNumber": 1
+      }
+    ],
+    "p3SummaryAddress": "Halfmoon Bay, Colombie-Britannique, Canada",
+    "roomTypeCategory": "entire_home",
+    "sectionedDescription": {
+      "access": "10 minute walk down the road leads you into the vast trail network of Sargeant Bay Provincial Park! A short drive to Sargeant Bay for an ocean dip or you can even make it a day trip and hike from the property! Lots to explore - tons of hiking and biking trails, golf course nearby, and many great coves and beaches to soak in while kayaking, canoeing, or SUP!",
+      "authorType": "human",
+      "description": "Welcome to slow living in Halfmoon Bay! This cabin has peekaboo ocean views and is entirely self-contained. Located 10 minutes outside of Sechelt where there's an abundance of amenities, and yet it feels like a world away! Hiking trails at your doorstep and a beautiful covered deck for your morning yoga :) Come experience all that the Sunshine Coast has to offer while getting your rest and relaxation on this magical 6 acre property! Well behaved doggos are more than welcome, sorry, no cats!\n\nThe cabin has a queen sized memory foam bed in the bedroom, and a pullout couch in the living room. Enjoy the fully equipped kitchen with everything you need to whip up a delicious westcoast inspired meal! Relax on the covered patio and immerse yourself in nature!\n\n10 minute walk down the road leads you into the vast trail network of Sargeant Bay Provincial Park! A short drive to Sargeant Bay for an ocean dip or you can even make it a day trip and hike from the property! Lots to explore - tons of hiking and biking trails, golf course nearby, and many great coves and beaches to soak in while kayaking, canoeing, or SUP!\n\nMy wife and I live on the property with our dog Harper who is friendly and may greet you with a loud bark - but will soon become your best friend if you want her to!\n\nLeaning Tree Rd is a quiet, dead end road surrounded by trails.\n\nWe recommend having a car as it's easiest to get around and explore, however, there is a bus stop at the end of our street (Leaning Tree) that is a 5 minute walk to our property.\n\nThere are great restaurants and breweries nearby and there will be two empty growlers waiting for you to fill :) \nPlease let us know if you plan on bringing a dog as we have a $35 pet fee per stay.",
+      "houseRules": "-Dogs only, please and thank you! If your dog has separation anxiety please do not leave it alone in the cabin.\n-We are cannabis friendly but PLEASE no smoking inside, there will be an ashtray available on the patio. \n-NOT suitable for parties.",
+      "interaction": "My wife and I live on the property with our dog Harper who is friendly and may greet you with a loud bark - but will soon become your best friend if you want her to!",
+      "locale": "en",
+      "localizedLanguageName": "anglais",
+      "name": "Leaning Tree Retreat - Cabin in the Woods",
+      "neighborhoodOverview": "Leaning Tree Rd is a quiet, dead end road surrounded by trails.",
+      "notes": "There are great restaurants and breweries nearby and there will be two empty growlers waiting for you to fill :) \nPlease let us know if you plan on bringing a dog as we have a $35 pet fee per stay.",
+      "space": "The cabin has a queen sized memory foam bed in the bedroom, and a pullout couch in the living room. Enjoy the fully equipped kitchen with everything you need to whip up a delicious westcoast inspired meal! Relax on the covered patio and immerse yourself in nature!",
+      "summary": "Welcome to slow living in Halfmoon Bay! This cabin has peekaboo ocean views and is entirely self-contained. Located 10 minutes outside of Sechelt where there's an abundance of amenities, and yet it feels like a world away! Hiking trails at your doorstep and a beautiful covered deck for your morning yoga :) Come experience all that the Sunshine Coast has to offer while getting your rest and relaxation on this magical 6 acre property! Well behaved doggos are more than welcome, sorry, no cats!",
+      "transit": "We recommend having a car as it's easiest to get around and explore, however, there is a bus stop at the end of our street (Leaning Tree) that is a 5 minute walk to our property."
+    },
+    "tierId": 0,
+    "guestControls": {
+      "allowsChildren": true,
+      "allowsEvents": false,
+      "allowsInfants": true,
+      "allowsPets": true,
+      "allowsSmoking": false,
+      "personCapacity": 4,
+      "structuredHouseRules": [
+        "Non-fumeur. Pas de fêtes ni de soirées",
+        "Arrivée à partir de 15:00 et départ avant 11:00"
+      ],
+      "structuredHouseRulesWithTips": [
+        {
+          "key": "are_smoking_and_events_allowed",
+          "text": "Non-fumeur. Pas de fêtes ni de soirées",
+          "airmojiKey": "accomodation_home"
+        },
+        {
+          "key": "check_in_time_and_check_out_time",
+          "text": "Arrivée à partir de 15:00 et départ avant 11:00",
+          "airmojiKey": "accomodation_keys"
+        },
+        {
+          "key": "self_check_in",
+          "text": "Arrivée autonome avec serrure numérique",
+          "airmojiKey": "pdp_room"
+        }
+      ],
+      "allowsNonChinaUsers": true
+    },
+    "hasSpecialOffer": false,
+    "maxNights": 1125,
+    "minNights": 2,
+    "priceDetails": [
+      {
+        "label": "Frais de ménage",
+        "value": "75$ CAD",
+        "attributeType": "CLEANING_FEE"
+      },
+      {
+        "label": "Voyageur supplémentaire",
+        "value": "25$ CAD par nuit pour plus de 2 voyageurs",
+        "attributeType": "EXTRA_PEOPLE"
+      }
+    ],
+    "hasWeWorkLocation": false,
+    "isBusinessTravelReady": false,
+    "hometourRooms": [
+      {
+        "details": [],
+        "highlightsHometour": ["1 grand lit"],
+        "highlightsPreview": [],
+        "isShared": false,
+        "id": 186312053,
+        "name": "",
+        "nameWithType": "Chambre 1",
+        "photos": [],
+        "roomTypeId": 1,
+        "icons": [
+          {
+            "type": "queen_bed",
+            "url": ""
+          }
+        ]
+      }
+    ],
+    "hometourSections": [],
+    "descriptionLocale": "en",
+    "initialDescriptionAuthorType": "human",
+    "localizedCheckInTimeWindow": "Après 15:00",
+    "localizedCheckOutTime": "11:00",
+    "city": "Halfmoon Bay",
+    "country": "Canada",
+    "countryCode": "CA",
+    "hasHostGuidebook": false,
+    "hasLocalAttractions": false,
+    "neighborhoodCommunityTags": [],
+    "state": "BC",
+    "paidGrowthRemarketingListingIds": [],
+    "hasCommercialHostInfo": false,
+    "reviewDetailsInterface": {
+      "reviewCount": 79,
+      "reviewSummary": [
+        {
+          "value": 10,
+          "label": "Exactitude",
+          "localizedRating": "5,0",
+          "percentage": 0.998
+        },
+        {
+          "value": 10,
+          "label": "Communication",
+          "localizedRating": "5,0",
+          "percentage": 1
+        },
+        {
+          "value": 10,
+          "label": "Propreté",
+          "localizedRating": "5,0",
+          "percentage": 0.992
+        },
+        {
+          "value": 10,
+          "label": "Emplacement",
+          "localizedRating": "5,0",
+          "percentage": 0.992
+        },
+        {
+          "value": 10,
+          "label": "Arrivée",
+          "localizedRating": "5,0",
+          "percentage": 1
+        },
+        {
+          "value": 10,
+          "label": "Rapport qualité-prix",
+          "localizedRating": "4,8",
+          "percentage": 0.97
+        }
+      ]
+    },
+    "reviewsOrder": "language_country",
+    "nearbyAirportDistanceDescriptions": [],
+    "renderTierId": 0,
+    "isHotel": false,
+    "showReviewTag": false,
+    "isRepresentativeInventory": false,
+    "localizedCity": "Halfmoon Bay",
+    "highlights": [
+      {
+        "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+        "message": "Vous aurez tout le cabane rien que pour vous.",
+        "headline": "Logement entier",
+        "position": "0",
+        "icon": "accomodation_home"
+      },
+      {
+        "type": "LISTING_SELF_CHECKIN",
+        "message": "Vous pouvez entrer dans les lieux à l'aide d'une serrure à digicode.",
+        "headline": "Arrivée autonome",
+        "position": "1",
+        "icon": "pdp_room"
+      },
+      {
+        "type": "LISTING_SUPER_HOST",
+        "message": "Les Superhôtes sont des hôtes chevronnés qui ont reçu d'excellentes évaluations et qui s’engagent à offrir des séjours de qualité supérieure aux voyageurs.",
+        "headline": "Scott est Superhôte",
+        "position": "2",
+        "icon": "core_superhost"
+      },
+      {
+        "type": "LISTING_LOCATION_REVIEW_RATING",
+        "message": "100 % des voyageurs ont attribué 5 étoiles à l'emplacement.",
+        "headline": "Excellent emplacement",
+        "position": "3",
+        "icon": "core_map_pin"
+      }
+    ],
+    "highlightsImpressionId": "ec703eb8-beb3-acf4-9d96-efaec98e3082",
+    "categorizedPreviewAmenities": [
+      {
+        "category": "Standard",
+        "amenities": "Télévision, Wifi, Cuisine, Chauffage, Sécheuse et 19 autres"
+      },
+      {
+        "category": "Autres points forts",
+        "amenities": "Stationnement gratuit sur place, Stationnement gratuit dans la rue, Trousse de premiers soins, Clavier, Parc de jeu pour bébé/lit de bébé de voyage et 25 autres"
+      }
+    ],
+    "pointOfInterests": [],
+    "chinaPointsOfInterestMatcha": {},
+    "hostGuidebook": {
+      "guidebookUrl": "/s/guidebooks?refinement_paths[]=/guidebooks/3377933",
+      "localizedNameForHomesPdp": "Consulter le guide",
+      "title": "Scott’s guidebook",
+      "id": 3377933
+    },
+    "pageViewType": "DEFAULT",
+    "previewTags": [],
+    "seeAllHometourSections": [],
+    "enableHighlightsVoting": false,
+    "listingExpectations": [
+      {
+        "addedDetails": "There is a very sweet Bernese mix named Harper who roams the 6 acre property. She may great you with a bark but will soon be your best friend if you want her to be.",
+        "title": "Présence d'animaux de compagnie sur place",
+        "type": "has_pets",
+        "airmojiKey": "house_rules_property_pet"
+      },
+      {
+        "addedDetails": "Security Camera at main house only pointed down the main driveway. No Audio recording",
+        "title": "Appareil de surveillance et/ou d'enregistrement sur la propriété",
+        "type": "surveillance",
+        "airmojiKey": "status_cancelled"
+      }
+    ],
+    "localizedListingExpectations": [
+      {
+        "addedDetails": "There is a very sweet Bernese mix named Harper who roams the 6 acre property. She may great you with a bark but will soon be your best friend if you want her to be.",
+        "title": "Présence d'animaux de compagnie sur place",
+        "type": "has_pets",
+        "airmojiKey": "house_rules_property_pet"
+      },
+      {
+        "addedDetails": "Security Camera at main house only pointed down the main driveway. No Audio recording",
+        "title": "Appareil de surveillance et/ou d'enregistrement sur la propriété",
+        "type": "surveillance",
+        "airmojiKey": "status_cancelled"
+      }
+    ],
+    "heroModule": {
+      "categorizedPhotos": []
+    },
+    "reviewsModule": {
+      "localizedOverallRating": "4,99",
+      "appreciationTags": []
+    },
+    "availabilityModule": {},
+    "additionalHouseRules": "-Dogs only, please and thank you! If your dog has separation anxiety please do not leave it alone in the cabin.\n-We are cannabis friendly but PLEASE no smoking inside, there will be an ashtray available on the patio. \n-NOT suitable for parties. ",
+    "sortedReviews": [],
+    "documentDisplayPictures": [],
+    "sections": [],
+    "metadata": {},
+    "p3ImpressionId": "ec703eb8-beb3-acf4-9d96-efaec98e3082",
+    "idStr": "561659145546380845",
     "paidGrowthRemarketingListingIdsStr": []
   }
 ]
