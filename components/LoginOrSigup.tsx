@@ -1,6 +1,6 @@
 "use client";
 
-import React, { Dispatch, SetStateAction, useState } from "react";
+import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import TextInput from "./TextInput";
 import Image from "next/image";
 import Divider from "./Divider";
@@ -21,6 +21,18 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
   const [step, setStep] = useState(0);
   const { isLoading, refetch } = useUser(email, setStep);
   const [message, setMessage] = useState("");
+
+  const [mounted, isMounted] = useState(false);
+
+  useEffect(() => {
+    isMounted(true);
+    mounted && (document.body.style.overflow = "hidden");
+
+    return () => {
+      document.body.style.overflow = "auto";
+      isMounted(false);
+    };
+  }, [mounted]);
 
   const handleSignUp = (e: React.SyntheticEvent) => {
     e.preventDefault();

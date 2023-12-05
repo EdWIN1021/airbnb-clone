@@ -3,10 +3,11 @@
 import { IoIosMenu } from "react-icons/io";
 import { FaUserCircle } from "react-icons/fa";
 import { MdLanguage } from "react-icons/md";
-import Menu from "./Menu";
 import { useState } from "react";
-import LoginOrSigup from "./LoginOrSigup";
 import dynamic from "next/dynamic";
+import LoginOrSigup from "./LoginOrSigup";
+
+const Menu = dynamic(() => import("@/components/Menu"), { ssr: false });
 
 const Modal = dynamic(() => import("@/components/Modal"), {
   ssr: false,
