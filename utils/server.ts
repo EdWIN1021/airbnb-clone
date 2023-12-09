@@ -7,3 +7,4 @@ export const getListings = async () => {
   await dbConnect();
   return await Listing.find({});
 };
+

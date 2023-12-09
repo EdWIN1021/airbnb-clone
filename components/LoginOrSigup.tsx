@@ -11,6 +11,7 @@ import { signIn } from "next-auth/react";
 import PasswordInput from "./PasswordInput";
 import useUser from "@/hooks/useUser";
 import isEmail from "validator/lib/isEmail";
+import useSignUp from "@/hooks/useSignUp";
 
 const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
   toggle,
@@ -21,8 +22,9 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
   const [step, setStep] = useState(0);
   const { isLoading, refetch } = useUser(email, setStep);
   const [message, setMessage] = useState("");
-
   const [mounted, isMounted] = useState(false);
+  const { mutate, isPending } = useSignUp();
+  const [isStrongPwd, setIsStrongPwd] = useState(false);
 
   useEffect(() => {
     isMounted(true);
@@ -34,10 +36,10 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
     };
   }, [mounted]);
 
-  const handleSignUp = (e: React.SyntheticEvent) => {
+  const handleSignUp = async (e: React.SyntheticEvent) => {
     e.preventDefault();
     if (isEmail(email)) {
-      // useSignUp
+      mutate({ name, email, password });
     } else {
       setMessage("Enter a valid email.");
     }
@@ -46,7 +48,7 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
   return (
     <>
       {step === 0 && (
-        <div className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg">
+        <div className="md:center absolute bottom-0 z-50  bg-[#fff] w-full md:max-w-[568px] pb-[45%] md:pb-0 rounded-lg">
           <div className="cursor-pointer" onClick={() => toggle(false)}>
             <IoIosClose className="h-8 w-8 absolute top-4 left-3" />
           </div>
@@ -114,7 +116,7 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
       {step === 1 && (
         <form
           onSubmit={handleSignUp}
-          className="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 z-50 bg-[#fff] w-[568px] max-w-[568px] rounded-lg"
+          className="md:center absolute bottom-0 z-50 bg-[#fff] w-full md:max-w-[568px] pb-[35%] md:pb-0 rounded-lg"
         >
           <IoIosArrowRoundBack
             onClick={() => setStep((step) => step - 1)}
@@ -154,6 +156,7 @@ const LoginOrSigup: React.FC<{ toggle: Dispatch<SetStateAction<boolean>> }> = ({
               email={email}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              setIsStrongPwd={setIsStrongPwd}
               showValidator
             />
 

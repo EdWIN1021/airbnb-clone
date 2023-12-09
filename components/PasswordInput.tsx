@@ -1,5 +1,12 @@
 import clsx from "clsx";
-import { InputHTMLAttributes, useEffect, useMemo, useState } from "react";
+import {
+  Dispatch,
+  InputHTMLAttributes,
+  SetStateAction,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 import { twMerge } from "tailwind-merge";
 import { VscError } from "react-icons/vsc";
 import { TbCircleCheck } from "react-icons/tb";
@@ -10,6 +17,7 @@ interface PasswordInputProps extends InputHTMLAttributes<HTMLInputElement> {
   username?: string;
   email?: string;
   showValidator?: boolean;
+  setIsStrongPwd?: Dispatch<SetStateAction<boolean>>;
 }
 
 const PasswordInput: React.FC<PasswordInputProps> = ({
@@ -17,6 +25,7 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
   className,
   username,
   email,
+  setIsStrongPwd,
   showValidator = false,
   ...rest
 }) => {
@@ -87,16 +96,16 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
       {showValidator && (
         <ul className="text-[12px] ">
           <li
-            className={`flex items-center gap-1 text-primary ${
-              !isWeakPassword && "text-[green]"
+            className={`flex items-center gap-1  ${
+              !isWeakPassword ? "text-[green]" : "text-primary"
             }`}
           >
             {isWeakPassword ? <VscError /> : <TbCircleCheck />}
             <span>Password strength: weak</span>
           </li>
           <li
-            className={`flex items-center gap-1 text-primary ${
-              !isContainsNameOrEmail && "text-[green]"
+            className={`flex items-center gap-1  ${
+              !isContainsNameOrEmail ? "text-[green]" : "text-primary"
             }`}
           >
             {isContainsNameOrEmail ? <VscError /> : <TbCircleCheck />}
@@ -104,8 +113,8 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
             <span>Can&apos;t contain your name or email address</span>
           </li>
           <li
-            className={`flex items-center gap-1 text-primary ${
-              isValidLength && "text-[green]"
+            className={`flex items-center gap-1  ${
+              isValidLength ? "text-[green]" : "text-primary"
             }`}
           >
             {isValidLength ? <TbCircleCheck /> : <VscError />}
@@ -113,8 +122,8 @@ const PasswordInput: React.FC<PasswordInputProps> = ({
             <span>At least 8 characters</span>
           </li>
           <li
-            className={`flex items-center gap-1 text-primary ${
-              isContainsNumberOrSymbol && "text-[green]"
+            className={`flex items-center gap-1  ${
+              isContainsNumberOrSymbol ? "text-[green]" : "text-primary"
             }`}
           >
             {isContainsNumberOrSymbol ? <TbCircleCheck /> : <VscError />}

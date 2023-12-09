@@ -129,7 +129,7 @@ const tabs = [
 
 const Tabs = () => {
   return (
-    <div className="mx-20">
+    <div className="">
       <div className="flex w-full gap-[2.4rem] mt-8 mb-8 overflow-x-scroll">
         {tabs.map((tab) => (
           <Tab key={tab.title} tab={tab} />

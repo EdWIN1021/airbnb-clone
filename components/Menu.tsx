@@ -1,7 +1,6 @@
 "use client";
 
 import React, { Dispatch, SetStateAction, useState } from "react";
-import Modal from "./Modal";
 
 const Menu: React.FC<{
   toggleMenu: Dispatch<SetStateAction<boolean>>;
@@ -9,7 +8,7 @@ const Menu: React.FC<{
 }> = ({ toggleMenu, toggleModal }) => {
   return (
     <>
-      <div className="bg-[#FFF] rounded-lg w-[200px] top-[9%] shadow-[0_0_15px_rgba(101,119,134,0.2)] right-[5%] absolute">
+      <div className="bg-[#FFF] rounded-lg w-[200px] top-[5%] shadow-[0_0_15px_rgba(101,119,134,0.2)] right-[5%] absolute">
         <ul>
           <li className="block px-3 py-1.5 hover:bg-medium-gray">
             <button
@@ -23,7 +22,15 @@ const Menu: React.FC<{
             </button>
           </li>
           <li className="block px-3 py-1.5 hover:bg-medium-gray">
-            <button className="w-full h-full text-start">Sign up</button>
+            <button
+              className="w-full h-full text-start"
+              onClick={() => {
+                toggleMenu(false);
+                toggleModal(true);
+              }}
+            >
+              Sign up
+            </button>
           </li>
         </ul>
       </div>

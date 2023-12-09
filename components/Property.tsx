@@ -31,15 +31,15 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
         <li className="overflow-hidden">
           <span className="text-color-secondary ">{listing.title}</span>
         </li>
-        <li>
+        {/* <li>
           <span className="text-color-secondary">
             {listing.number_of_beds} beds
           </span>
-        </li>
-        <li>
+        </li> */}
+        {/* <li>
           <span className="font-semibold">${listing.price} CAD </span>
           <span>night</span>
-        </li>
+        </li> */}
       </ul>
     </div>
   );
