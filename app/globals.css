@@ -29,6 +29,8 @@ img {
 span,
 a {
   white-space: nowrap;
+  text-overflow: ellipsis;
+  display: inline-block;
 }
 
 ::-webkit-scrollbar {

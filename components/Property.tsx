@@ -7,7 +7,7 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
     <div className="text-sm flex flex-col">
       <div className="flex-1">
         <Image
-          className="rounded-xl w-full h-full object-fit aspect-square"
+          className="rounded-xl w-full h-full object-cover aspect-square"
           width={303}
           height={200}
           src={listing.image_url}
@@ -18,7 +18,9 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
       <ul className="mt-2">
         <li>
           <div className="flex items-center  justify-between">
-            <span className="font-semibold">{listing.name}</span>
+            <span className="font-semibold max-w-[100%] inline-block overflow-hidden">
+              {listing.name}
+            </span>
 
             <div className="flex items-center">
               <IoStar className="inline-block" />
@@ -28,18 +30,20 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
             </div>
           </div>
         </li>
-        <li className="overflow-hidden">
-          <span className="text-color-secondary ">{listing.title}</span>
+        <li>
+          <span className="text-color-secondary max-w-[100%] inline-block overflow-hidden">
+            {listing.title}
+          </span>
         </li>
-        {/* <li>
+        <li>
           <span className="text-color-secondary">
             {listing.number_of_beds} beds
           </span>
-        </li> */}
-        {/* <li>
+        </li>
+        <li>
           <span className="font-semibold">${listing.price} CAD </span>
           <span>night</span>
-        </li> */}
+        </li>
       </ul>
     </div>
   );
