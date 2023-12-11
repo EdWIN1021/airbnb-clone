@@ -107,7 +107,7 @@ const tabs = [
 const Footer = () => {
   return (
     <div className="bg-medium-gray flex justify-center mt-[150px]">
-      <div className=" p-12">
+      <div className="pt-12 px-20">
         <h3 className="text-[22px] mb-2">Inspiration for future getaways</h3>
         <div className="flex gap-4 border-b border-[#DDDDDD]">
           {tabs.map((tab) => (
@@ -117,7 +117,7 @@ const Footer = () => {
           ))}
         </div>
 
-        <div className="mt-8">
+        <div className="pt-8 pb-12">
           <ul className="grid  gap-x-2 gap-y-6 grid-cols-[repeat(6,minmax(0,250px))]">
             {tabs[0].cities?.map((city, index) => (
               <li className="flex flex-col text-[14px]" key={index}>
@@ -126,6 +126,47 @@ const Footer = () => {
               </li>
             ))}
           </ul>
+        </div>
+
+        <div className="grid grid-cols-3 py-12 border-t border-[#DDDDDD] text-[14px]">
+          <div>
+            <span className="font-semibold mb-3">Support</span>
+            <ul className="flex flex-col gap-3">
+              <li>Help Center</li>
+              <li>AirCover</li>
+              <li>Anti-discrimination</li>
+              <li>Disability support</li>
+              <li>Cancellation options</li>
+              <li>Report neighbourhood concern</li>
+            </ul>
+          </div>
+
+          <div>
+            <span className="font-semibold mb-3">Hosting</span>
+            <ul className="flex flex-col gap-3">
+              <li>Airbnb your home</li>
+              <li>AirCover for Hosts</li>
+              <li>Hosting resources</li>
+              <li>Community forum</li>
+              <li>Hosting responsibly</li>
+            </ul>
+          </div>
+
+          <div>
+            <span className="font-semibold mb-3">Airbnb</span>
+            <ul className="flex flex-col gap-3">
+              <li>Newsroom</li>
+              <li>New features</li>
+              <li>Careers</li>
+              <li>Investors</li>
+              <li>Gift cards</li>
+              <li>Airbnb.org emergency stays</li>
+            </ul>
+          </div>
+        </div>
+
+        <div className="py-6 border-t border-[#DDDDDD]">
+          <p className="text-[14px]">© 2023 Airbnb, Inc.</p>
         </div>
       </div>
     </div>
