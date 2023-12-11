@@ -12,6 +12,8 @@ export default async function Home() {
           <Property key={listing._id} listing={listing} />
         ))}
       </div>
+
+      
     </main>
   );
 }
