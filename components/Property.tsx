@@ -33,7 +33,7 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
             </div>
           </li>
           <li>
-            <span className="text-color-secondary max-w-[100%] inline-block overflow-hidden">
+            <span className="text-color-secondary max-w-[100%] block overflow-hidden">
               {listing.title}
             </span>
           </li>
@@ -48,7 +48,6 @@ const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
           </li>
         </ul>
       </div>
-      Home
     </Link>
   );
 };

@@ -17,12 +17,12 @@ const RoomPage = async ({ params }: { params: { roomId: string } }) => {
 
       <div className="flex  text-[14px]">
         <div className="flex items-center font-semibold flex-1">
-          <IoIosStar className="inline-block mr-1" />
+          <IoIosStar className="mr-1" />
           <span>{detail.stars}</span>
           <span className="mx-1">&middot;</span>
           <span className="underline">{detail?.reviewCount} reviews </span>
           <span className="text-dark-gray mx-1">&middot;</span>
-          <BiSolidMedal className="inline-block mr-1" />
+          <BiSolidMedal className="mr-1" />
           <span className="font-normal">Superhost</span>
           <span className="text-dark-gray mx-1">&middot;</span>
           <span className="underline">{detail?.address}</span>
@@ -30,7 +30,7 @@ const RoomPage = async ({ params }: { params: { roomId: string } }) => {
 
         <div className="flex gap-5">
           <div className="flex items-center">
-            <MdIosShare className="inline-block w-6 h-6 pr-2" />
+            <MdIosShare className="w-6 h-6 pr-2" />
             <span className="font-semibold">Share</span>
           </div>
 

@@ -2498,5 +2498,1520 @@
     "p3ImpressionId": "ec703eb8-beb3-acf4-9d96-efaec98e3082",
     "idStr": "561659145546380845",
     "paidGrowthRemarketingListingIdsStr": []
+  },
+  {
+    "url": "https://www.airbnb.com/rooms/52704177",
+    "name": "Peace Cabin - private waterfront forest retreat",
+    "stars": 4.99,
+    "numberOfGuests": 4,
+    "address": "Ucluelet, Colombie-Britannique, Canada",
+    "roomType": "Logement entier : cabane",
+    "location": {
+      "lat": 48.97107,
+      "lng": -125.58855
+    },
+    "reviews": [
+      {
+        "author": {
+          "firstName": "Mike",
+          "hasProfilePic": false,
+          "id": "16161412",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-16161412/original/7c13e3d8-6262-43b1-922b-7a5fd886d189.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Mike",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-16161412/original/7c13e3d8-6262-43b1-922b-7a5fd886d189.jpeg?aki_policy=profile_small"
+        },
+        "comments": "Endroit paradisiaque <br/>Super maisonette bien décorée et bien située, un havre de paix",
+        "createdAt": "2023-08-10T22:11:09Z",
+        "id": "955199629310482170",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "localizedDate": "août 2023",
+        "localizedReview": null
+      },
+      {
+        "author": {
+          "firstName": "Charlotte",
+          "hasProfilePic": false,
+          "id": "69930561",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/7160b647-7bcf-459f-b385-bdcd800e957a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Charlotte",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7160b647-7bcf-459f-b385-bdcd800e957a.jpg?aki_policy=profile_small"
+        },
+        "comments": "Une cabane paisible dans les bois avec tout le confort nécessaire et très bien aménagée.<br/>Un vrai petit coin de paradis.<br/>Le plus on recommande le lever du soleil sur le ponton privé vraiment magnifique",
+        "createdAt": "2023-04-14T22:07:32Z",
+        "id": "869674274465751463",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "localizedDate": "avril 2023",
+        "localizedReview": null
+      },
+      {
+        "author": {
+          "firstName": "Nicole",
+          "hasProfilePic": false,
+          "id": "496374885",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/f1535178-0b27-4c86-a178-7079f35ed817.jpg?aki_policy=profile_x_medium",
+          "smartName": "Nicole",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f1535178-0b27-4c86-a178-7079f35ed817.jpg?aki_policy=profile_small"
+        },
+        "comments": "Amazing spot! Cannot wait to return to our little sanctuary in Ukie!",
+        "createdAt": "2023-11-07T00:20:47Z",
+        "id": "1019045146468799471",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "novembre 2023",
+        "localizedReview": {
+          "comments": "Superbe endroit ! J'ai hâte de retourner dans notre petit sanctuaire à Ukie !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Paula Rosamond",
+          "hasProfilePic": false,
+          "id": "23997032",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-23997032/original/2a430410-40b5-4c2b-819d-bee93435826b.jpeg?aki_policy=profile_x_medium",
+          "smartName": "Paula Rosamond",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-23997032/original/2a430410-40b5-4c2b-819d-bee93435826b.jpeg?aki_policy=profile_small"
+        },
+        "comments": "Beautiful!",
+        "createdAt": "2023-10-12T22:37:39Z",
+        "id": "1000873840825548577",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "octobre 2023",
+        "localizedReview": {
+          "comments": "Magnifique !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Noemi",
+          "hasProfilePic": false,
+          "id": "373777837",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/47cbd3a9-5bef-4da5-bc09-22d342af38a6.jpg?aki_policy=profile_x_medium",
+          "smartName": "Noemi",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/47cbd3a9-5bef-4da5-bc09-22d342af38a6.jpg?aki_policy=profile_small"
+        },
+        "comments": "We really enjoyed, we gonna back one day ✨",
+        "createdAt": "2023-10-02T22:00:51Z",
+        "id": "993607559340113231",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "octobre 2023",
+        "localizedReview": {
+          "comments": "Nous avons vraiment apprécié, nous reviendrons un jour ✨",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Anna",
+          "hasProfilePic": false,
+          "id": "61432989",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/902ca711-35b9-4b55-9858-74b51c74fd96.jpg?aki_policy=profile_x_medium",
+          "smartName": "Anna",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/902ca711-35b9-4b55-9858-74b51c74fd96.jpg?aki_policy=profile_small"
+        },
+        "comments": "We loved this Airbnb! It’s even more beautiful in person than is able to be captured in photos. The house is situated in a rainforest a short walk from the water, and while it’s convenient to town it felt totally private. Everything was clean, communication was clear, and the bed was comfortable. I’ll be staying here again in the future for the perfect bathtub if nothing else!",
+        "createdAt": "2023-09-29T21:03:56Z",
+        "id": "991404584992398908",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "septembre 2023",
+        "localizedReview": {
+          "comments": "Nous avons adoré cet Airbnb ! C'est d'autant plus beau en personne que ce qui peut être capturé sur les photos. La maison est située dans une forêt tropicale, à quelques pas de l'eau, et bien qu'elle soit pratique pour se rendre en ville, elle était totalement privée. Tout était propre, la communication était claire et le lit était confortable et le lit était confortable. Je séjournerai à nouveau ici à l'avenir pour la baignoire parfaite si rien d'autre !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Jason",
+          "hasProfilePic": false,
+          "id": "10531434",
+          "pictureUrl": "https://a0.muscache.com/im/users/10531434/profile_pic/1406342355/original.jpg?aki_policy=profile_x_medium",
+          "smartName": "Jason",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/10531434/profile_pic/1406342355/original.jpg?aki_policy=profile_small"
+        },
+        "comments": "Amazing! Every detail of the cabin thoughtfully curated for a serene stay in Ucluelet. The perfect intersection of comfort, functionality, & contemporary-design. This cabin expereinces like a 5-Star resort, nestled in the woods with a secluded, yet safe, feel. From the locally selected soaps and shower gels, to the outdoor shower, private dock, and picturesque views from large unobstructed windows, every aspect of this cabin is 10/10. I tip my cap to Urszula And Kamil. Thank you for creating this haven & for being fantastic hosts.",
+        "createdAt": "2023-09-24T23:42:26Z",
+        "id": "987860484505389615",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "septembre 2023",
+        "localizedReview": {
+          "comments": "Incroyable ! Chaque détail du chalet a été soigneusement sélectionné pour un séjour serein à Ucluelet. L'intersection parfaite de confort, de fonctionnalité et de design contemporain. Ce chalet offre un complexe hôtelier 5 étoiles, niché dans les bois avec une sensation d'isolement, mais sûre. Des savons et gels douche sélectionnés localement à la douche extérieure, au quai privé et aux vues pittoresques depuis de grandes fenêtres dégagées, chaque aspect de cette cabane est 10/10. Je donne un pourboire à Urszula et Kamil. Merci d'avoir créé ce havre de paix et d'être des hôtes fantastiques.",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Wendy",
+          "hasProfilePic": false,
+          "id": "533707635",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/c59dd61b-5b06-4446-a707-bd9f2debec4c.jpg?aki_policy=profile_x_medium",
+          "smartName": "Wendy",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c59dd61b-5b06-4446-a707-bd9f2debec4c.jpg?aki_policy=profile_small"
+        },
+        "comments": "A beautifully designed cabin in a quiet, treed location. Magical pathway winds down to a waterfront deck - a peaceful place to enjoy morning coffee or wind down after a day of exploring.<br/>Thank you Urszula and Kamil, everything was wonderful!",
+        "createdAt": "2023-09-05T22:57:02Z",
+        "id": "974066892473265467",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "septembre 2023",
+        "localizedReview": {
+          "comments": "Une cabane magnifiquement conçue dans un endroit calme et arboré. Un sentier magique descend jusqu'à une terrasse au bord de l'eau, un endroit paisible pour profiter d'un café du matin ou pour se détendre après une journée d'exploration.<br/>Merci Urszula et Kamil, tout était merveilleux !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Manraj",
+          "hasProfilePic": false,
+          "id": "57345447",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/039c5c78-da5e-4391-825b-6e740ee1acc8.jpg?aki_policy=profile_x_medium",
+          "smartName": "Manraj",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/039c5c78-da5e-4391-825b-6e740ee1acc8.jpg?aki_policy=profile_small"
+        },
+        "comments": "This was one of the best accommodations we stayed at. Both Urszula and Kamil were incredibly responsive and made the stay very smooth. We actually had the chance to meet Kamil in person - what a wonderful soul. We would 100% come back again!",
+        "createdAt": "2023-09-03T22:50:58Z",
+        "id": "972614292443066611",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "septembre 2023",
+        "localizedReview": {
+          "comments": "C'est un des meilleurs hébergements où nous avons séjourné. Urszula et Kamil ont tous deux été incroyablement réactifs et ont rendu le séjour très agréable. Nous avons eu la chance de rencontrer Kamil en personne - quelle âme merveilleuse. Nous reviendrons à 100% !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      },
+      {
+        "author": {
+          "firstName": "Kathleen",
+          "hasProfilePic": false,
+          "id": "13793877",
+          "pictureUrl": "https://a0.muscache.com/im/users/13793877/profile_pic/1405884520/original.jpg?aki_policy=profile_x_medium",
+          "smartName": "Kathleen",
+          "thumbnailUrl": "https://a0.muscache.com/im/users/13793877/profile_pic/1405884520/original.jpg?aki_policy=profile_small"
+        },
+        "comments": "Urszula and Kamil were the perfect hosts. The Peace Cabin was beautiful and they were so helpful when I needed advice around road closures/ferry times. Greatly appreciate how responsive and kind they were. I will be back for sure!",
+        "createdAt": "2023-08-29T21:25:47Z",
+        "id": "968947533067789435",
+        "collectionTag": null,
+        "rating": 5,
+        "recipient": {
+          "firstName": "Urszula And Kamil",
+          "hasProfilePic": false,
+          "id": "426640148",
+          "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_x_medium",
+          "smartName": "Urszula And Kamil",
+          "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+        },
+        "response": null,
+        "language": "en",
+        "localizedDate": "août 2023",
+        "localizedReview": {
+          "comments": "Urszula et Kamil ont été les hôtes parfaits. Le Peace Cabin était magnifique et ils m'ont beaucoup aidé lorsque j'ai eu besoin de conseils sur les fermetures de routes/horaires de ferry. J'apprécie beaucoup leur réactivité et leur gentillesse. Je reviendrai à coup sûr !",
+          "disclaimer": "Langue d'origine : anglais",
+          "needsTranslation": true,
+          "response": null
+        }
+      }
+    ],
+    "pricing": {
+      "rate": {
+        "amount": 441.8,
+        "amountFormatted": "$441.8",
+        "currency": "USD",
+        "isMicrosAccuracy": false,
+        "displayedPrice": 312,
+        "displayedPriceFormatted": "$312",
+        "isDiscounted": false,
+        "rateDescription": "$312 la nuitée"
+      },
+      "rateType": "nightly",
+      "rateBreakdown": [
+        {
+          "date": "2023-12-13",
+          "price": 327,
+          "priceFormatted": "$327"
+        },
+        {
+          "date": "2023-12-14",
+          "price": 327,
+          "priceFormatted": "$327"
+        },
+        {
+          "date": "2023-12-15",
+          "price": 327,
+          "priceFormatted": "$327"
+        },
+        {
+          "date": "2023-12-16",
+          "price": 327,
+          "priceFormatted": "$327"
+        },
+        {
+          "date": "2023-12-17",
+          "price": 328,
+          "priceFormatted": "$328"
+        }
+      ],
+      "nights": 5,
+      "totalPrice": {
+        "amount": 2209,
+        "amountFormatted": "$2 209",
+        "accommodation": 1636,
+        "cleaningFee": 110,
+        "guestFee": 247,
+        "taxes": 293,
+        "currency": "USD"
+      },
+      "totalPriceBreakdown": [
+        {
+          "title": "$327 x 5 nuits",
+          "price": 1636,
+          "priceFormatted": "$1 636"
+        },
+        {
+          "title": "Offre spéciale",
+          "priceFormatted": "-$77"
+        },
+        {
+          "title": "Frais de nettoyage",
+          "price": 110,
+          "priceFormatted": "$110"
+        },
+        {
+          "title": "Frais de service Airbnb",
+          "price": 247,
+          "priceFormatted": "$247"
+        },
+        {
+          "title": "Taxes",
+          "price": 293,
+          "priceFormatted": "$293"
+        }
+      ]
+    },
+    "photos": [
+      {
+        "caption": "Peace Cabin being tranquil in the evening. Main entry deck on the right, sitting deck on the left. Parking out front.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/14696ed2-a1ac-47e6-9d06-00642b83f582.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/14696ed2-a1ac-47e6-9d06-00642b83f582.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Main entry deck.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a37e1f1-d216-4b96-a49d-97d86f980c8d.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a37e1f1-d216-4b96-a49d-97d86f980c8d.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bedroom one, queen size memory foam mattress, giant skylight overhead, room for luggage under the platform, several clothing shelves and hooks, lots of chill vibes. The bedrooms are identical.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d9dc0c91-ed78-4fef-a646-3c02d7fd3e57.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d9dc0c91-ed78-4fef-a646-3c02d7fd3e57.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bedroom two, queen size memory foam mattress, giant skylight overhead, room for luggage under the platform, several clothing shelves and hooks, lots of chill vibes. The bedrooms are identical, as is the copy.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/91a147f4-6b58-4e41-99e7-78ab9e21853a.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/91a147f4-6b58-4e41-99e7-78ab9e21853a.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bathroom with all the views, but only of trees and ocean, so you're safe. Pull down blind if you need it. Deeeeeeep soak tub. Separate shower. Skylight (again, yes there's a trend.)",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4585ad24-26b3-49f7-85c5-3e0c62067e7d.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4585ad24-26b3-49f7-85c5-3e0c62067e7d.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bathroom shower. There are showers, and there are SHOWERS. Stocked with organic body care products.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a2c73ee-8851-44f3-a1e6-8101946ad6f3.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a2c73ee-8851-44f3-a1e6-8101946ad6f3.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bathroom. Cute. You can stretch out in here. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/17db8c01-54de-408b-856a-725433371189.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/17db8c01-54de-408b-856a-725433371189.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The business end of the bathroom. Mouse-ear globe lights. Again, cute. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/25eced83-9647-4904-a742-37516c8ef62b.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/25eced83-9647-4904-a742-37516c8ef62b.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The living, kitchen, and dining areas are all one room. That's the kitchen wall: built-in fridge/freezer, ceramic range, built-in dishwasher, good knives, granite. Lots of hidden extras. You won't mind standing at the sink with that view.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/eac7fa90-6896-44b7-b7a1-39558ae9153d.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/eac7fa90-6896-44b7-b7a1-39558ae9153d.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Kitchen, looking good. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d09f5409-a30d-4e6b-9467-f5d549963030.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d09f5409-a30d-4e6b-9467-f5d549963030.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Kitchen, looking great.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/f598929f-981f-4d7e-9d2d-8f5c9fff4ea5.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/f598929f-981f-4d7e-9d2d-8f5c9fff4ea5.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Dining zone, mounted pedestal table with granite. Use it for extra prep space while cooking or a games zone in the evening. Your choice. The couch end is the best call.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/8d706835-d4de-40f9-b109-49b484df1b22.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/8d706835-d4de-40f9-b109-49b484df1b22.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Dining table - pull over the extra bench to have seating all around. Lots of modular options. The couch seat remains the best call.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/be6ea1e1-806c-4ad4-bb6d-19aa98f37fbe.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/be6ea1e1-806c-4ad4-bb6d-19aa98f37fbe.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Built-in couch. It's hard to want to leave. Custom designed and made. Extra thick memory foam cushions. Pillows for pillow talk, or just comfort.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/b0af618c-f8be-4673-b19b-3517993d79df.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/b0af618c-f8be-4673-b19b-3517993d79df.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Mmmmm looks comfy.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9e98f9ca-645f-4dc0-92a2-1a0e02028cfa.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9e98f9ca-645f-4dc0-92a2-1a0e02028cfa.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Cozy reading corner with access to side sitting deck. Ultra-efficient Jotul gas stove to get you warm right away after a rainy hike - also looks pretty decent. Small curated book selection of our personal favourites. Owl watches overhead.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/2cc8e049-9827-4a5e-8c3f-f400fddc2e31.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/2cc8e049-9827-4a5e-8c3f-f400fddc2e31.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "If you get up early in the morning (hard to do, beds are comfy) and it is clear outdoors (it is often cloudy) and you catch the sunrise, the living area floods with the most magical morning light. Main entry door is on the left. The main chill zone. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/2314eed7-b448-43a8-a419-1523b816de6b.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/2314eed7-b448-43a8-a419-1523b816de6b.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Outside sitting deck accessible from the living area. XXL window for them VIEWS.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/bc132195-cbd5-42ed-8575-088c1f0f0df9.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/bc132195-cbd5-42ed-8575-088c1f0f0df9.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Cozy Malm wood fireplace. Corten steel back panel (we made it). Deck windows have cedar shutters that close when it's colder or raining - gets real comfy.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e9387ea2-3480-4068-866c-1b31ea0b91fe.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e9387ea2-3480-4068-866c-1b31ea0b91fe.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Cedar shutters slide closed when it's cold or raining. Keeps the sitting deck pleasant, and private. That's a Tesla Gen 3 Wall Connector. EV's welcome! Bring the correct adapter for your vehicle.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/7f09152f-7d34-40f7-a750-246ed2d4f57e.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/7f09152f-7d34-40f7-a750-246ed2d4f57e.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "That's a Tesla Gen 3 Wall Connector. EV's welcome! Bring the correct adapter for your vehicle. Exclusive for guests of the cabin. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9c294731-e643-4745-8f18-4973287b6119.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9c294731-e643-4745-8f18-4973287b6119.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The end of the main entry deck is a comfortable hot water outdoor shower. A true west coast treat. On the right is a drying rack for wet jackets or wetsuits, and a couple of hooks in front as well.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/fb1f5dba-1651-41c8-8c61-bfa8a4d72ce6.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/fb1f5dba-1651-41c8-8c61-bfa8a4d72ce6.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Hot water outdoor shower, private, lots of cedar everything, peekaboo views of trees. Stocked with organic body care products. A water hose is also available for rinsing off sand from the shower.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/f688a63f-e01b-48b6-9cab-4f0cd15fe5e3.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/f688a63f-e01b-48b6-9cab-4f0cd15fe5e3.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The portholes of the recharge capsules. Yes, they kind of looks like eyes on a face. We love it.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e4634ff3-d1aa-4f5c-a043-1a4e1c18bb46.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e4634ff3-d1aa-4f5c-a043-1a4e1c18bb46.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The magical trail down to the shoreline where you can walk down for some bird viewing or launch your SUP at high tide!",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e04b54bb-12b6-4590-83a0-bdd6b89f12bb.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/e04b54bb-12b6-4590-83a0-bdd6b89f12bb.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Sunset at Peace Cabin shoreline on Ucluelet Inlet.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/35504d3b-d261-4b04-9c83-5eb439e70bdd.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/35504d3b-d261-4b04-9c83-5eb439e70bdd.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "The shoreline at low tide, with Kvarno Island on the right side.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/fcdf2e52-503b-4f4a-a3cb-61227b08dfd7.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/fcdf2e52-503b-4f4a-a3cb-61227b08dfd7.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "If you were a bird directly above Peace Cabin, you'd see the whole of Ucluelet Inlet with Kavrno Island in front of you. It takes about 45 minutes to kayak or SUP around the island from Peace, as long as the tide is high and winds calm.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/546b94e0-5244-4f91-ad8b-a338fa1e34c6.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/546b94e0-5244-4f91-ad8b-a338fa1e34c6.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Bring your kayak or canoe and explore Ucluelet inlet. Keep an eye on the tide and wind!",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/98f535cc-e7e2-40ac-a716-3fe54e279483.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/98f535cc-e7e2-40ac-a716-3fe54e279483.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "We're out for a SUP or kayak most mornings in the summer, if the tide is high enough. Usually, 1hr before and after high tide is best. Peace Cabin forest is in the right of this photo. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9df645d0-c231-4b1e-822a-4429946aae41.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/9df645d0-c231-4b1e-822a-4429946aae41.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Out for a rip around Kvarno Island as the sun comes up. Lots of seals and sea lions, tonnes of birdlife, and a bear if you're lucky!",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/8f2c83d0-0834-4b00-9d6e-45454c647f7c.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/8f2c83d0-0834-4b00-9d6e-45454c647f7c.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "Back to Peace Cabin forest after exploring the inlet by SUP. This is about 2hrs after high tide.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/3a5aaa6c-fb6d-4a9c-9410-bb7118348635.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/3a5aaa6c-fb6d-4a9c-9410-bb7118348635.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "If you return after the tide has started to drop, expect a bit of a walk through the tidal flat. ",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/ed6f5109-c93a-4009-bf22-7c56063d9e06.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/ed6f5109-c93a-4009-bf22-7c56063d9e06.jpeg?aki_policy=small"
+      },
+      {
+        "caption": "A cloud layer tucks Peace Cabin and Ucluelet Inlet in for the night.",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/43661a74-919a-4cb8-b4b5-3e3092ab45ef.jpeg?aki_policy=large",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/43661a74-919a-4cb8-b4b5-3e3092ab45ef.jpeg?aki_policy=small"
+      }
+    ],
+    "primaryHost": {
+      "id": 426640148,
+      "firstName": "Urszula And Kamil",
+      "isSuperHost": true,
+      "hasProfilePic": true,
+      "smartName": "Urszula And Kamil",
+      "about": "We value peace and relaxation, learning and travel, and wellness and integrity. We are waterbabies who love cats. We think the west coast of Vancouver Island is one of the most special places on earth. Welcome to Peace Cabin.",
+      "memberSince": "Membre depuis octobre 2021",
+      "languages": ["English"],
+      "responseRate": "100%",
+      "responseTime": "en quelques heures",
+      "hasInclusionBadge": false,
+      "badges": ["93 commentaires", "Identité vérifiée"],
+      "hostUrl": "https://www.airbnb.com/users/show/426640148",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/be2fa1bc-04a5-4c85-ae51-bc60b943574a.jpg?aki_policy=profile_small"
+    },
+    "additionalHosts": [],
+    "isHostedBySuperhost": true,
+    "isAvailable": true,
+    "listingAmenities": [
+      {
+        "description": "Espace où les voyageurs peuvent cuisiner leurs propres repas",
+        "id": 8,
+        "isPresent": true,
+        "name": "Cuisine"
+      },
+      {
+        "description": "Disponible dans tout logement",
+        "id": 4,
+        "isPresent": true,
+        "name": "Wifi"
+      },
+      {
+        "description": "",
+        "id": 9,
+        "isPresent": true,
+        "name": "Stationnement gratuit sur place"
+      },
+      {
+        "description": "",
+        "id": 27,
+        "isPresent": true,
+        "name": "Foyer à l'intérieur"
+      },
+      {
+        "description": "",
+        "id": 1,
+        "isPresent": false,
+        "name": "Télévision"
+      },
+      {
+        "description": "",
+        "id": 5,
+        "isPresent": false,
+        "name": "Climatisation"
+      },
+      {
+        "description": "",
+        "id": 23,
+        "isPresent": true,
+        "name": "Stationnement gratuit dans la rue"
+      },
+      {
+        "description": "",
+        "id": 30,
+        "isPresent": true,
+        "name": "Chauffage"
+      },
+      {
+        "description": "",
+        "id": 33,
+        "isPresent": false,
+        "name": "Laveuse"
+      },
+      {
+        "description": "",
+        "id": 34,
+        "isPresent": false,
+        "name": "Sécheuse"
+      },
+      {
+        "description": "",
+        "id": 35,
+        "isPresent": true,
+        "name": "Détecteur de fumée"
+      },
+      {
+        "description": "",
+        "id": 36,
+        "isPresent": true,
+        "name": "Détecteur de monoxyde de carbone"
+      },
+      {
+        "description": "",
+        "id": 37,
+        "isPresent": true,
+        "name": "Trousse de premiers soins"
+      },
+      {
+        "description": "",
+        "id": 39,
+        "isPresent": true,
+        "name": "Extincteur"
+      },
+      {
+        "description": "Serviettes, draps, savon et papier de toilette",
+        "id": 40,
+        "isPresent": true,
+        "name": "Articles essentiels"
+      },
+      {
+        "description": "",
+        "id": 41,
+        "isPresent": true,
+        "name": "Shampoing"
+      },
+      {
+        "description": "",
+        "id": 44,
+        "isPresent": true,
+        "name": "Cintres"
+      },
+      {
+        "description": "",
+        "id": 45,
+        "isPresent": true,
+        "name": "Séchoir à cheveux"
+      },
+      {
+        "description": "",
+        "id": 46,
+        "isPresent": true,
+        "name": "Fer à repasser"
+      },
+      {
+        "description": "",
+        "id": 54,
+        "isPresent": true,
+        "name": "Boîte à clé sécurisée"
+      },
+      {
+        "description": "Entrée par une autre rue ou un autre immeuble",
+        "id": 57,
+        "isPresent": true,
+        "name": "Entrée privée"
+      },
+      {
+        "description": "",
+        "id": 61,
+        "isPresent": true,
+        "name": "Baignoire"
+      },
+      {
+        "description": "",
+        "id": 73,
+        "isPresent": true,
+        "name": "Stores pour obscurcir la pièce"
+      },
+      {
+        "description": "",
+        "id": 77,
+        "isPresent": true,
+        "name": "Eau chaude"
+      },
+      {
+        "description": "",
+        "id": 79,
+        "isPresent": true,
+        "name": "Savon pour le corps"
+      },
+      {
+        "description": "",
+        "id": 85,
+        "isPresent": true,
+        "name": "Literie"
+      },
+      {
+        "description": "",
+        "id": 86,
+        "isPresent": true,
+        "name": "Oreillers et couvertures supplémentaires"
+      },
+      {
+        "description": "",
+        "id": 90,
+        "isPresent": true,
+        "name": "Une cafetière"
+      },
+      {
+        "description": "",
+        "id": 91,
+        "isPresent": true,
+        "name": "Réfrigérateur"
+      },
+      {
+        "description": "",
+        "id": 92,
+        "isPresent": true,
+        "name": "Lave-vaisselle"
+      },
+      {
+        "description": "Bols, baguettes, assiettes, tasses, etc.",
+        "id": 93,
+        "isPresent": true,
+        "name": "Vaisselle et couverts"
+      },
+      {
+        "description": "Batterie de cuisine, huile, sel et poivre",
+        "id": 94,
+        "isPresent": true,
+        "name": "Essentiels de cuisine"
+      },
+      {
+        "description": "",
+        "id": 95,
+        "isPresent": true,
+        "name": "Four"
+      },
+      {
+        "description": "",
+        "id": 96,
+        "isPresent": true,
+        "name": "Cuisinière"
+      },
+      {
+        "description": "Les voyageurs peuvent recharger leur véhicule électrique sur place.",
+        "id": 97,
+        "isPresent": true,
+        "name": "Chargeur pour véhicule électrique"
+      },
+      {
+        "description": "Pas d'escaliers dans le logement",
+        "id": 98,
+        "isPresent": true,
+        "name": "Logement de plain-pied"
+      },
+      {
+        "description": "",
+        "id": 99,
+        "isPresent": true,
+        "name": "Barbecue"
+      },
+      {
+        "description": "",
+        "id": 100,
+        "isPresent": true,
+        "name": "Patio ou balcon"
+      },
+      {
+        "description": "Terrain ouvert généralement recouvert d'herbe",
+        "id": 101,
+        "isPresent": true,
+        "name": "Cour arrière"
+      },
+      {
+        "description": "Tout près de l'eau",
+        "id": 132,
+        "isPresent": true,
+        "name": "Bord de l'eau"
+      },
+      {
+        "description": "",
+        "id": 137,
+        "isPresent": true,
+        "name": "Bouilloire"
+      },
+      {
+        "description": "",
+        "id": 179,
+        "isPresent": true,
+        "name": "Coin repas à l'extérieur"
+      },
+      {
+        "description": "",
+        "id": 185,
+        "isPresent": true,
+        "name": "Système audio"
+      },
+      {
+        "description": "",
+        "id": 210,
+        "isPresent": true,
+        "name": "Douche extérieure"
+      },
+      {
+        "description": "",
+        "id": 236,
+        "isPresent": true,
+        "name": "Table à manger"
+      },
+      {
+        "description": "",
+        "id": 251,
+        "isPresent": true,
+        "name": "Grille-pain"
+      },
+      {
+        "description": "",
+        "id": 280,
+        "isPresent": true,
+        "name": "Mobilier d'extérieur"
+      },
+      {
+        "description": "",
+        "id": 308,
+        "isPresent": true,
+        "name": "Congélateur"
+      },
+      {
+        "description": "",
+        "id": 392,
+        "isPresent": true,
+        "name": "Jeux de société"
+      },
+      {
+        "description": "",
+        "id": 611,
+        "isPresent": true,
+        "name": "Gel de douche"
+      },
+      {
+        "description": "",
+        "id": 625,
+        "isPresent": true,
+        "name": "Plaque de cuisson"
+      },
+      {
+        "description": "Barbecue, charbon, brochettes de bambou ou de métal, etc.",
+        "id": 626,
+        "isPresent": true,
+        "name": "Ustensiles de barbecue"
+      },
+      {
+        "description": "",
+        "id": 657,
+        "isPresent": true,
+        "name": "Revitalisant"
+      },
+      {
+        "description": "",
+        "id": 665,
+        "isPresent": true,
+        "name": "Produits de nettoyage"
+      },
+      {
+        "description": "",
+        "id": 671,
+        "isPresent": true,
+        "name": "Espace de rangement pour les vêtements"
+      },
+      {
+        "description": "",
+        "id": 672,
+        "isPresent": true,
+        "name": "Verres à vin"
+      }
+    ],
+    "rootAmenitySections": [
+      {
+        "id": "available_amenities",
+        "title": "Commodités",
+        "subtitle": "",
+        "amenityIds": [8, 4, 9, 27]
+      }
+    ],
+    "seeAllAmenitySections": [
+      {
+        "id": "pdp_m2_5_bathroom",
+        "title": "Salle de bain",
+        "subtitle": "",
+        "amenityIds": [41, 45, 61, 77, 79, 210, 611, 657, 665]
+      },
+      {
+        "id": "pdp_m2_5_bedroom_laundry",
+        "title": "Chambre et lavage",
+        "subtitle": "",
+        "amenityIds": [40, 44, 46, 73, 85, 86, 671]
+      },
+      {
+        "id": "pdp_m2_5_entertainment",
+        "title": "Divertissement",
+        "subtitle": "",
+        "amenityIds": [185]
+      },
+      {
+        "id": "pdp_m2_5_family",
+        "title": "Famille",
+        "subtitle": "",
+        "amenityIds": [392]
+      },
+      {
+        "id": "pdp_m2_5_heating_cooling",
+        "title": "Chauffage et climatisation",
+        "subtitle": "",
+        "amenityIds": [27, 30]
+      },
+      {
+        "id": "pdp_m2_5_home_safety",
+        "title": "Sécurité",
+        "subtitle": "",
+        "amenityIds": [35, 36, 37, 39]
+      },
+      {
+        "id": "pdp_m2_5_internet_office",
+        "title": "Internet et bureau",
+        "subtitle": "",
+        "amenityIds": [4]
+      },
+      {
+        "id": "pdp_m2_5_kitchen_dining",
+        "title": "Cuisine et couverts",
+        "subtitle": "",
+        "amenityIds": [
+          8, 90, 91, 92, 93, 94, 95, 96, 137, 236, 251, 308, 625, 626, 672
+        ]
+      },
+      {
+        "id": "pdp_m2_5_location",
+        "title": "Caractéristiques de l'emplacement",
+        "subtitle": "",
+        "amenityIds": [57, 132]
+      },
+      {
+        "id": "pdp_m2_5_outdoor",
+        "title": "Extérieure",
+        "subtitle": "",
+        "amenityIds": [99, 100, 101, 179, 280]
+      },
+      {
+        "id": "pdp_m2_5_parking_facilities",
+        "title": "Stationnement et installations",
+        "subtitle": "",
+        "amenityIds": [9, 23, 97, 98]
+      },
+      {
+        "id": "pdp_m2_5_services",
+        "title": "Services",
+        "subtitle": "",
+        "amenityIds": [54]
+      },
+      {
+        "id": "pdp_unavailable",
+        "title": "Non inclus",
+        "subtitle": "",
+        "amenityIds": [1, 5, 33, 34]
+      }
+    ],
+    "bathroomLabel": "1 salle de bains",
+    "bedLabel": "2 lits",
+    "bedroomLabel": "2 chambres",
+    "hasHouseRules": true,
+    "id": 52704177,
+    "isNewListing": false,
+    "listingRooms": [
+      {
+        "beds": [
+          {
+            "id": "163678125/queen_bed",
+            "quantity": 1,
+            "type": "queen_bed"
+          }
+        ],
+        "id": 163678125,
+        "roomNumber": 2
+      },
+      {
+        "beds": [
+          {
+            "id": "163678124/queen_bed",
+            "quantity": 1,
+            "type": "queen_bed"
+          }
+        ],
+        "id": 163678124,
+        "roomNumber": 1
+      }
+    ],
+    "p3SummaryAddress": "Ucluelet, Colombie-Britannique, Canada",
+    "roomTypeCategory": "entire_home",
+    "sectionedDescription": {
+      "access": "Our property extends the entire length of the gravel driveway. There is dedicated parking right at the cabin. You'll have access to the whole cabin. The garage area down the driveway is off-limits to guests. Please keep the driveway clear of cars - extra large parking space halfway up the driveway. There is one trail to the shoreline to look for wildlife and birds on the inlet!",
+      "authorType": "human",
+      "description": "We value connection to nature above all else. Peace Cabin is private waterfront on Ucluelet inlet, on a large lot of old-growth trees. We designed it quite differently from other places you may have stayed-this is a capsule to recharge yourself from the busyness of your day-to-day life. \n\nYou'll love the silence, the birdlife, proximity to coastal hiking trails, surf beaches, and National Park. Our waterfront is on a tidal inlet- bring your SUP, canoe or kayak! EVs welcome- Tesla Wall Connector.\n\nSpend your valuable time relaxing in a forest. Walls are finished in warm birch, 13ft high ceilings with big windows to connect with the outdoors, and radiant poured concrete flooring throughout. Bedrooms are pods with 3 windows - a platform with a comfortable queen bed with luggage storage underneath and several shelves and hooks for clothes. Restful sleep is paramount. A large bathroom with a tree-high private view looks at nothing but ocean and forest. A long hallway full of clothing hooks connects to the main living area with a cozy fireplace, a full kitchen with durable granite, lots of functional space and built-ins, as well as a wrap-around couch. The living area has doors to a long entry deck as well as a spacious sitting side deck. The sitting deck features expansive views of the forest and inlet beyond, a gas grill, and a wood fireplace. Rolling cedar shutters keep the rain out and allow sunshine in. Lots of space for your water toys, SUPs, surfboards, kayak, or canoe, as well as a wetsuit drying area outside. Of course, there's a comfortable hot outdoor shower, fully stocked, to top off your stay after a day of exploring the hiking trails, or an afternoon in the surf.\n\nOur property extends the entire length of the gravel driveway. There is dedicated parking right at the cabin. You'll have access to the whole cabin. The garage area down the driveway is off-limits to guests. Please keep the driveway clear of cars - extra large parking space halfway up the driveway. There is one trail to the shoreline to look for wildlife and birds on the inlet!\n\nThere is a good chance we will be away from the property, however we are able to answer any questions you may have, just contact us through Airbnb and we'll reply promptly. We have a small apartment attached to the garage, so you may see us driving by to get there. Please leave the driveway clear.\n\nOur neighbourhood is located just outside of Ucluelet town. It is quiet, peaceful, and residential with lots of water and mountain views. It feels much calmer and more private than in town. We are the closest you can be to Pacific Rim National Park - a 10 minute drive to the closest beach, or a gentle 30 minute walk. It is a 5 minute drive to the heart of Ucluelet. We love where we are, it's the best of all worlds without the hustle and traffic of town. It's so quick to grab a bite or takeout in town, or head into the Park for a day of hiking or surfing!\n\nTo get to Ucluelet, you can drive, bike or walk. Driving into the heart of town takes 5 minutes. If you rent bikes, there is an amazing separated bike path you can use to get to town, it takes about 18 minutes one way on bikes. If you choose to walk to Ucluelet, it will be just about an hour each way. We have a very close walk to Pacific Rim National Park through a gorgeous trail that takes between 30-45 minutes to get there and ends at serene beaches. \n\nSurfing is just a 10-minute drive to Wickaninnish Beach, or 20 minutes to Long Beach. We've got lots more insider tips for you in the printed guidebook located inside the cabin!\n\nTo get to Tofino, it's about 30 minutes by car, which is about 15 minutes closer than in the heart of Ucluelet. If you choose to rent bikes, one way to Tofino takes under 2 hours again, on separated bike lanes through the National Park!\n\nAlthough this cabin is a 5-minute drive to town, we are on a wooded lot that has forest creatures. Best not to leave kids unattended outside, especially because we're so close to water. The waterfront is a tidal inlet, so sometimes there is 1ft of water, sometimes there is seagrass. Also, no unattended food or snacks anywhere outside especially during grilling, truly. Bears have walked by within 15 feet of us, and we are diligent at keeping animals wild. Further to that, please no events or parties or noise. Thank you!\n\nPlease note: there is absolutely no commercial activity (photography, filming, instagramming for brands - we're looking at you influencers, although not strictly limited to those mentioned) permitted on the property without expressed written consent from us. Remember, this is private property, and you are invited to make personal memories, and make photos and videos for personal use. Enjoy your vacation and share it with your family and friends(!!), please nothing that earns money or perks from what we've built. Thanks for understanding.",
+      "houseRules": "No food, wrappers, coffee cups, empty plates, or garbage bags to be left outside any time. Birds or wildlife will be harmed if you do this - we are strict with this rule. Also, please no parties or events, it's a very peaceful location. \n\nPlease keep the driveway clear of cars so we can access the garage. \n\nUpon arrival, please familiarize yourself with the printed Peace Cabin Guide Book located inside the cabin. It has tips for everything we could think of in regards to using the cabin, emergency situations, power outages, and things you may not be able to locate or figure out how to use. Please continue to reference this guide throughout your stay, we put lots of effort into creating a smooth and restful experience for you.\n\nPlease note: there is absolutely no commercial activity (photography, filming, instagramming for brands - we're looking at you influencers, although not strictly limited to those mentioned) permitted on the property without expressed written consent from us. Remember, this is private property, and you are invited to make personal memories, and make photos and videos for personal use. Enjoy your vacation and share it with your family and friends(!!), please nothing that earns money or perks from what we've built. Thanks for understanding.",
+      "interaction": "There is a good chance we will be away from the property, however we are able to answer any questions you may have, just contact us through Airbnb and we'll reply promptly. We have a small apartment attached to the garage, so you may see us driving by to get there. Please leave the driveway clear.",
+      "locale": "en",
+      "localizedLanguageName": "anglais",
+      "name": "Peace Cabin - private waterfront forest retreat",
+      "neighborhoodOverview": "Our neighbourhood is located just outside of Ucluelet town. It is quiet, peaceful, and residential with lots of water and mountain views. It feels much calmer and more private than in town. We are the closest you can be to Pacific Rim National Park - a 10 minute drive to the closest beach, or a gentle 30 minute walk. It is a 5 minute drive to the heart of Ucluelet. We love where we are, it's the best of all worlds without the hustle and traffic of town. It's so quick to grab a bite or takeout in town, or head into the Park for a day of hiking or surfing!",
+      "notes": "Although this cabin is a 5-minute drive to town, we are on a wooded lot that has forest creatures. Best not to leave kids unattended outside, especially because we're so close to water. The waterfront is a tidal inlet, so sometimes there is 1ft of water, sometimes there is seagrass. Also, no unattended food or snacks anywhere outside especially during grilling, truly. Bears have walked by within 15 feet of us, and we are diligent at keeping animals wild. Further to that, please no events or parties or noise. Thank you!\n\nPlease note: there is absolutely no commercial activity (photography, filming, instagramming for brands - we're looking at you influencers, although not strictly limited to those mentioned) permitted on the property without expressed written consent from us. Remember, this is private property, and you are invited to make personal memories, and make photos and videos for personal use. Enjoy your vacation and share it with your family and friends(!!), please nothing that earns money or perks from what we've built. Thanks for understanding.",
+      "space": "Spend your valuable time relaxing in a forest. Walls are finished in warm birch, 13ft high ceilings with big windows to connect with the outdoors, and radiant poured concrete flooring throughout. Bedrooms are pods with 3 windows - a platform with a comfortable queen bed with luggage storage underneath and several shelves and hooks for clothes. Restful sleep is paramount. A large bathroom with a tree-high private view looks at nothing but ocean and forest. A long hallway full of clothing hooks connects to the main living area with a cozy fireplace, a full kitchen with durable granite, lots of functional space and built-ins, as well as a wrap-around couch. The living area has doors to a long entry deck as well as a spacious sitting side deck. The sitting deck features expansive views of the forest and inlet beyond, a gas grill, and a wood fireplace. Rolling cedar shutters keep the rain out and allow sunshine in. Lots of space for your water toys, SUPs, surfboards, kayak, or canoe, as well as a wetsuit drying area outside. Of course, there's a comfortable hot outdoor shower, fully stocked, to top off your stay after a day of exploring the hiking trails, or an afternoon in the surf.",
+      "summary": "We value connection to nature above all else. Peace Cabin is private waterfront on Ucluelet inlet, on a large lot of old-growth trees. We designed it quite differently from other places you may have stayed-this is a capsule to recharge yourself from the busyness of your day-to-day life. \n\nYou'll love the silence, the birdlife, proximity to coastal hiking trails, surf beaches, and National Park. Our waterfront is on a tidal inlet- bring your SUP, canoe or kayak! EVs welcome- Tesla Wall Connector.",
+      "transit": "To get to Ucluelet, you can drive, bike or walk. Driving into the heart of town takes 5 minutes. If you rent bikes, there is an amazing separated bike path you can use to get to town, it takes about 18 minutes one way on bikes. If you choose to walk to Ucluelet, it will be just about an hour each way. We have a very close walk to Pacific Rim National Park through a gorgeous trail that takes between 30-45 minutes to get there and ends at serene beaches. \n\nSurfing is just a 10-minute drive to Wickaninnish Beach, or 20 minutes to Long Beach. We've got lots more insider tips for you in the printed guidebook located inside the cabin!\n\nTo get to Tofino, it's about 30 minutes by car, which is about 15 minutes closer than in the heart of Ucluelet. If you choose to rent bikes, one way to Tofino takes under 2 hours again, on separated bike lanes through the National Park!"
+    },
+    "tierId": 0,
+    "guestControls": {
+      "allowsChildren": false,
+      "allowsEvents": false,
+      "allowsInfants": false,
+      "allowsPets": false,
+      "allowsSmoking": false,
+      "personCapacity": 4,
+      "structuredHouseRules": [
+        "N'est pas adapté ou ne convient pas aux enfants (0 à 12) et aux animaux domestiques",
+        "Non-fumeur. Pas de fêtes ni de soirées",
+        "Arrivée à partir de 16:00 et départ avant 11:00"
+      ],
+      "structuredHouseRulesWithTips": [
+        {
+          "key": "are_children_infants_and_pets_allowed",
+          "text": "N'est pas adapté ou ne convient pas aux enfants (0 à 12) et aux animaux domestiques",
+          "airmojiKey": "accomodation_home"
+        },
+        {
+          "key": "are_smoking_and_events_allowed",
+          "text": "Non-fumeur. Pas de fêtes ni de soirées",
+          "airmojiKey": "accomodation_home"
+        },
+        {
+          "key": "check_in_time_and_check_out_time",
+          "text": "Arrivée à partir de 16:00 et départ avant 11:00",
+          "airmojiKey": "accomodation_keys"
+        },
+        {
+          "key": "self_check_in",
+          "text": "Arrivée autonome avec boîte à clé sécurisée",
+          "airmojiKey": "pdp_room"
+        }
+      ],
+      "allowsNonChinaUsers": true
+    },
+    "hasSpecialOffer": false,
+    "maxNights": 30,
+    "minNights": 2,
+    "priceDetails": [
+      {
+        "label": "Frais de ménage",
+        "value": "150$ CAD",
+        "attributeType": "CLEANING_FEE"
+      },
+      {
+        "label": "Voyageur supplémentaire",
+        "value": "Sans frais",
+        "attributeType": "EXTRA_PEOPLE"
+      },
+      {
+        "label": "Dépôt de garantie",
+        "value": "300$ CAD",
+        "attributeType": "HOST_REQUIRED_SECURITY_DEPOSIT"
+      }
+    ],
+    "hasWeWorkLocation": false,
+    "isBusinessTravelReady": false,
+    "hometourRooms": [
+      {
+        "details": [],
+        "highlightsHometour": ["1 grand lit"],
+        "highlightsPreview": [],
+        "isShared": false,
+        "id": 163678124,
+        "name": "",
+        "nameWithType": "Chambre 1",
+        "photos": [],
+        "roomTypeId": 1,
+        "icons": [
+          {
+            "type": "queen_bed",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "details": [],
+        "highlightsHometour": ["1 grand lit"],
+        "highlightsPreview": [],
+        "isShared": false,
+        "id": 163678125,
+        "name": "",
+        "nameWithType": "Chambre 2",
+        "photos": [],
+        "roomTypeId": 1,
+        "icons": [
+          {
+            "type": "queen_bed",
+            "url": ""
+          }
+        ]
+      }
+    ],
+    "hometourSections": [],
+    "descriptionLocale": "en",
+    "initialDescriptionAuthorType": "human",
+    "localizedCheckInTimeWindow": "Après 16:00",
+    "localizedCheckOutTime": "11:00",
+    "city": "Ucluelet",
+    "country": "Canada",
+    "countryCode": "CA",
+    "hasHostGuidebook": false,
+    "hasLocalAttractions": false,
+    "neighborhoodCommunityTags": [],
+    "state": "BC",
+    "paidGrowthRemarketingListingIds": [],
+    "hasCommercialHostInfo": false,
+    "reviewDetailsInterface": {
+      "reviewCount": 93,
+      "reviewSummary": [
+        {
+          "value": 10,
+          "label": "Exactitude",
+          "localizedRating": "5,0",
+          "percentage": 0.998
+        },
+        {
+          "value": 10,
+          "label": "Communication",
+          "localizedRating": "5,0",
+          "percentage": 1
+        },
+        {
+          "value": 10,
+          "label": "Propreté",
+          "localizedRating": "5,0",
+          "percentage": 1
+        },
+        {
+          "value": 10,
+          "label": "Emplacement",
+          "localizedRating": "5,0",
+          "percentage": 0.994
+        },
+        {
+          "value": 10,
+          "label": "Arrivée",
+          "localizedRating": "5,0",
+          "percentage": 0.998
+        },
+        {
+          "value": 10,
+          "label": "Rapport qualité-prix",
+          "localizedRating": "4,9",
+          "percentage": 0.976
+        }
+      ]
+    },
+    "reviewsOrder": "language_country",
+    "nearbyAirportDistanceDescriptions": [],
+    "renderTierId": 0,
+    "isHotel": false,
+    "accessibilityModule": {
+      "amenities": [
+        {
+          "description": "Il y a une place de stationnement privée d'au moins 3,35 mètres de large. Ou alors il y a une place de stationnement publique prévue pour les personnes en situation de handicap avec une signalisation ou un marquage clair.",
+          "id": 114,
+          "isPresent": true,
+          "name": "Stationnement acessible"
+        },
+        {
+          "description": "La chambre est située au rez-de-chaussée ou accessible par un ascenseur ou une rampe, et il n'y a pas d'escalier, de marches ou de seuils de plus de 5 centimètres entre l'entrée des voyageurs et la chambre.",
+          "id": 606,
+          "isPresent": true,
+          "name": "Accès de plain-pied"
+        },
+        {
+          "description": "Il n'y a pas de marche ni d'obstacle pour entrer dans la douche. Les pas ou les rebords de la douche sont inférieurs à 2,54 centimètres de haut.",
+          "id": 296,
+          "isPresent": true,
+          "name": "Douche de plain-pied"
+        }
+      ],
+      "rootHighlights": [
+        "Stationnement acessible",
+        "Accès de plain-pied",
+        "Douche de plain-pied"
+      ],
+      "seeAllSections": [
+        {
+          "id": "accessibility_group_getting_inside:9e9a431b22c04f13",
+          "title": "Entrée et stationnement des voyageurs",
+          "subtitle": "",
+          "amenityIds": [114],
+          "photos": [
+            {
+              "id": 1283146212,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/13d46707-5483-49ad-ab89-ce63858e2792.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/13d46707-5483-49ad-ab89-ce63858e2792.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/13d46707-5483-49ad-ab89-ce63858e2792.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/13d46707-5483-49ad-ab89-ce63858e2792.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283148557,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/5873555a-70ae-42a2-91b0-57ded457a3f6.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/5873555a-70ae-42a2-91b0-57ded457a3f6.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/5873555a-70ae-42a2-91b0-57ded457a3f6.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177-Amenities/original/5873555a-70ae-42a2-91b0-57ded457a3f6.jpeg?aki_policy=xx_large"
+            }
+          ]
+        },
+        {
+          "id": "accessibility_group_bedroom:edff98544408652e",
+          "title": "Chambre",
+          "subtitle": "",
+          "amenityIds": [606],
+          "photos": [
+            {
+              "id": 1283149579,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/a6b0b743-ebd2-405d-a184-621b028bfc1b.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/a6b0b743-ebd2-405d-a184-621b028bfc1b.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/a6b0b743-ebd2-405d-a184-621b028bfc1b.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/a6b0b743-ebd2-405d-a184-621b028bfc1b.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283150000,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/aa512626-863d-4417-9b4f-45b7c327fb62.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/aa512626-863d-4417-9b4f-45b7c327fb62.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/aa512626-863d-4417-9b4f-45b7c327fb62.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/aa512626-863d-4417-9b4f-45b7c327fb62.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283150205,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/463d2178-25cb-41c0-959b-d56f6d7c08c6.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/463d2178-25cb-41c0-959b-d56f6d7c08c6.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/463d2178-25cb-41c0-959b-d56f6d7c08c6.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678124-Amenities/original/463d2178-25cb-41c0-959b-d56f6d7c08c6.jpeg?aki_policy=xx_large"
+            }
+          ]
+        },
+        {
+          "id": "accessibility_group_bedroom:cca5b15263189a22",
+          "title": "Chambre 2",
+          "subtitle": "",
+          "amenityIds": [606],
+          "photos": [
+            {
+              "id": 1283150520,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/a6432a7b-8a64-4421-ad79-78e636fbf7d7.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/a6432a7b-8a64-4421-ad79-78e636fbf7d7.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/a6432a7b-8a64-4421-ad79-78e636fbf7d7.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/a6432a7b-8a64-4421-ad79-78e636fbf7d7.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283150677,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/1b21ef17-3aa1-4fdd-8a90-6a51d14dcf28.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/1b21ef17-3aa1-4fdd-8a90-6a51d14dcf28.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/1b21ef17-3aa1-4fdd-8a90-6a51d14dcf28.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678125-Amenities/original/1b21ef17-3aa1-4fdd-8a90-6a51d14dcf28.jpeg?aki_policy=xx_large"
+            }
+          ]
+        },
+        {
+          "id": "accessibility_group_full_bathroom:cad9e201c23835c8",
+          "title": "Salle de bains complète",
+          "subtitle": "",
+          "amenityIds": [606, 296],
+          "photos": [
+            {
+              "id": 1283150906,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/bb0fe136-2273-450b-a205-4da0292358b0.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/bb0fe136-2273-450b-a205-4da0292358b0.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/bb0fe136-2273-450b-a205-4da0292358b0.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/bb0fe136-2273-450b-a205-4da0292358b0.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283151393,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/d6f2b070-6ad6-492b-b513-b66fbe7ea2f3.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/d6f2b070-6ad6-492b-b513-b66fbe7ea2f3.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/d6f2b070-6ad6-492b-b513-b66fbe7ea2f3.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/d6f2b070-6ad6-492b-b513-b66fbe7ea2f3.jpeg?aki_policy=xx_large"
+            },
+            {
+              "id": 1283151939,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/400efd3f-ff97-4241-84fa-b777ac01a652.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/400efd3f-ff97-4241-84fa-b777ac01a652.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/400efd3f-ff97-4241-84fa-b777ac01a652.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678126-Amenities/original/400efd3f-ff97-4241-84fa-b777ac01a652.jpeg?aki_policy=xx_large"
+            }
+          ]
+        },
+        {
+          "id": "accessibility_group_kitchen:95b15ab97b49094c",
+          "title": "Cuisine entière",
+          "subtitle": "",
+          "amenityIds": [606],
+          "photos": [
+            {
+              "id": 1283152760,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678130-Amenities/original/d3c7958a-df2d-437a-a48d-724a295ba820.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678130-Amenities/original/d3c7958a-df2d-437a-a48d-724a295ba820.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678130-Amenities/original/d3c7958a-df2d-437a-a48d-724a295ba820.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678130-Amenities/original/d3c7958a-df2d-437a-a48d-724a295ba820.jpeg?aki_policy=xx_large"
+            }
+          ]
+        },
+        {
+          "id": "accessibility_group_dining_room:db801dfa2c2bcfc3",
+          "title": "Salle à manger",
+          "subtitle": "",
+          "amenityIds": [606],
+          "photos": [
+            {
+              "id": 1283154215,
+              "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678127-Amenities/original/79118dcb-b552-426f-8d7c-633193a1e94a.jpeg?aki_policy=small",
+              "largeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678127-Amenities/original/79118dcb-b552-426f-8d7c-633193a1e94a.jpeg?aki_policy=large",
+              "caption": "",
+              "xLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678127-Amenities/original/79118dcb-b552-426f-8d7c-633193a1e94a.jpeg?aki_policy=x_large",
+              "xxLargeUrl": "https://a0.muscache.com/im/pictures/miso/Room-163678127-Amenities/original/79118dcb-b552-426f-8d7c-633193a1e94a.jpeg?aki_policy=xx_large"
+            }
+          ]
+        }
+      ],
+      "seeAllSummary": "Cet hôte a modifié les équipements d'accessibilité de son logement. Les entrées larges mesurent au moins 81 cm."
+    },
+    "showReviewTag": false,
+    "isRepresentativeInventory": false,
+    "localizedCity": "Ucluelet",
+    "highlights": [
+      {
+        "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+        "message": "Vous aurez tout le cabane rien que pour vous.",
+        "headline": "Logement entier",
+        "position": "0",
+        "icon": "accomodation_home"
+      },
+      {
+        "type": "LISTING_SELF_CHECKIN",
+        "message": "Vous pouvez entrer dans les lieux grâce à une boîte à clé sécurisée.",
+        "headline": "Arrivée autonome",
+        "position": "1",
+        "icon": "pdp_room"
+      },
+      {
+        "type": "LISTING_SUPER_HOST",
+        "message": "Les Superhôtes sont des hôtes chevronnés qui ont reçu d'excellentes évaluations et qui s’engagent à offrir des séjours de qualité supérieure aux voyageurs.",
+        "headline": "Urszula And Kamil est Superhôte",
+        "position": "2",
+        "icon": "core_superhost"
+      },
+      {
+        "type": "LISTING_LOCATION_REVIEW_RATING",
+        "message": "100 % des voyageurs ont attribué 5 étoiles à l'emplacement.",
+        "headline": "Excellent emplacement",
+        "position": "3",
+        "icon": "core_map_pin"
+      }
+    ],
+    "highlightsImpressionId": "6ac1f4e1-2917-b74f-f7f7-6ba39049e60f",
+    "categorizedPreviewAmenities": [
+      {
+        "category": "Standard",
+        "amenities": "Cuisine, Wifi, Chauffage, Détecteur de fumée, Détecteur de monoxyde de carbone et 15 autres"
+      },
+      {
+        "category": "Autres points forts",
+        "amenities": "Stationnement gratuit sur place, Foyer à l'intérieur, Stationnement gratuit dans la rue, Trousse de premiers soins, Boîte à clé sécurisée et 27 autres"
+      }
+    ],
+    "pointOfInterests": [],
+    "chinaPointsOfInterestMatcha": {},
+    "hostGuidebook": {
+      "guidebookUrl": "/s/guidebooks?refinement_paths[]=/guidebooks/3121935",
+      "localizedNameForHomesPdp": "Consulter le guide",
+      "title": "Peace Cabin Guide Book",
+      "id": 3121935
+    },
+    "pageViewType": "DEFAULT",
+    "previewTags": [],
+    "seeAllHometourSections": [],
+    "enableHighlightsVoting": false,
+    "listingExpectations": [
+      {
+        "addedDetails": "We are in an old-growth forest on a tidal inlet. Forest creatures of all sorts walk around here including bears, wolves, and cougars. This is simply a reality of the wildness and beauty of our neighborhood.",
+        "title": "Animaux dangereux sur la propriété",
+        "type": "animals",
+        "airmojiKey": "status_cancelled"
+      },
+      {
+        "addedDetails": "One step to enter the front door. \nTwo steps to enter the side deck.\nNo stairs of any sorts inside.",
+        "title": "Le logement comprend des marches ou escaliers",
+        "type": "requires_stairs",
+        "airmojiKey": "house_rules_stairs"
+      },
+      {
+        "title": "Dépôt de garantie : si vous endommagez le logement, vous pourriez devoir payer jusqu'à 300$",
+        "type": "security_deposit",
+        "airmojiKey": "em_payment"
+      },
+      {
+        "addedDetails": "We have one security camera at the front door and one at the garage. The security cameras do not face any windows.",
+        "title": "Appareil de surveillance et/ou d'enregistrement sur la propriété",
+        "type": "surveillance",
+        "airmojiKey": "status_cancelled"
+      }
+    ],
+    "localizedListingExpectations": [
+      {
+        "addedDetails": "We are in an old-growth forest on a tidal inlet. Forest creatures of all sorts walk around here including bears, wolves, and cougars. This is simply a reality of the wildness and beauty of our neighborhood.",
+        "title": "Animaux dangereux sur la propriété",
+        "type": "animals",
+        "airmojiKey": "status_cancelled"
+      },
+      {
+        "addedDetails": "One step to enter the front door. \nTwo steps to enter the side deck.\nNo stairs of any sorts inside.",
+        "title": "Le logement comprend des marches ou escaliers",
+        "type": "requires_stairs",
+        "airmojiKey": "house_rules_stairs"
+      },
+      {
+        "title": "Dépôt de garantie : si vous endommagez le logement, vous pourriez devoir payer jusqu'à 300$",
+        "type": "security_deposit",
+        "airmojiKey": "em_payment"
+      },
+      {
+        "addedDetails": "We have one security camera at the front door and one at the garage. The security cameras do not face any windows.",
+        "title": "Appareil de surveillance et/ou d'enregistrement sur la propriété",
+        "type": "surveillance",
+        "airmojiKey": "status_cancelled"
+      }
+    ],
+    "heroModule": {
+      "categorizedPhotos": []
+    },
+    "reviewsModule": {
+      "localizedOverallRating": "4,99",
+      "appreciationTags": []
+    },
+    "availabilityModule": {},
+    "additionalHouseRules": "No food, wrappers, coffee cups, empty plates, or garbage bags to be left outside any time. Birds or wildlife will be harmed if you do this - we are strict with this rule. Also, please no parties or events, it's a very peaceful location. \n\nPlease keep the driveway clear of cars so we can access the garage. \n\nUpon arrival, please familiarize yourself with the printed Peace Cabin Guide Book located inside the cabin. It has tips for everything we could think of in regards to using the cabin, emergency situations, power outages, and things you may not be able to locate or figure out how to use. Please continue to reference this guide throughout your stay, we put lots of effort into creating a smooth and restful experience for you.\n\nPlease note: there is absolutely no commercial activity (photography, filming, instagramming for brands - we're looking at you influencers, although not strictly limited to those mentioned) permitted on the property without expressed written consent from us. Remember, this is private property, and you are invited to make personal memories, and make photos and videos for personal use. Enjoy your vacation and share it with your family and friends(!!), please nothing that earns money or perks from what we've built. Thanks for understanding.",
+    "sortedReviews": [],
+    "documentDisplayPictures": [],
+    "sections": [],
+    "metadata": {},
+    "p3ImpressionId": "6ac1f4e1-2917-b74f-f7f7-6ba39049e60f",
+    "idStr": "52704177",
+    "paidGrowthRemarketingListingIdsStr": []
   }
 ]
