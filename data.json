@@ -1249,8 +1249,8 @@
   },
   {
     "url": "https://www.airbnb.com/rooms/561659145546380845",
-    "name": "Leaning Tree Retreat - Cabin in the Woods",
-    "stars": 4.99,
+    "name": "Leaning Tree Retreat - Cabin in the Woods", //
+    "stars": 4.99, //
     "numberOfGuests": 4,
     "address": "Halfmoon Bay, Colombie-Britannique, Canada",
     "roomType": "Logement entier : cabane",

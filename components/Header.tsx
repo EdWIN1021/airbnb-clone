@@ -31,7 +31,6 @@ const Header = () => {
           <Profile />
         </div>
       </header>
-      {/* <Tabs /> */}
     </>
   );
 };
