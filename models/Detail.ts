@@ -1,4 +1,5 @@
 import { Schema, model, models, Document } from "mongoose";
+import { IListing } from "./Listing";
 
 export interface IDetail extends Document {
   title: string;
@@ -6,6 +7,7 @@ export interface IDetail extends Document {
   reviewCount: number;
   address: string;
   image_urls: string[];
+  listingId: IListing;
 }
 
 const detailSchema = new Schema<IDetail>({
@@ -14,6 +16,10 @@ const detailSchema = new Schema<IDetail>({
   reviewCount: { type: Number, require: true },
   address: { type: String, required: true },
   image_urls: { type: [String], required: true },
+  listingId: {
+    type: Schema.ObjectId,
+    ref: "Listing",
+  },
 });
 
 export default models.Detail || model<IDetail>("Detail", detailSchema);
