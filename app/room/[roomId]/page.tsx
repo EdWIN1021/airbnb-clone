@@ -1,5 +1,5 @@
 import React from "react";
-import { getDetail } from "@/utils/server";
+import { getDetail, getHosts } from "@/utils/server";
 import { IoIosStar } from "react-icons/io";
 import { IDetail } from "@/models/Detail";
 import { BiSolidMedal } from "react-icons/bi";
@@ -10,6 +10,7 @@ import Image from "next/image";
 const RoomPage = async ({ params }: { params: { roomId: string } }) => {
   const { roomId } = params;
   const detail = (await getDetail(roomId)) as IDetail;
+  const hosts = await getHosts();
 
   return (
     <div className="mx-20 pt-6">
@@ -56,10 +57,38 @@ const RoomPage = async ({ params }: { params: { roomId: string } }) => {
         ))}
       </div>
 
-      <div className="flex ">
-        <div>host</div>
+      <div className="flex flex-col">
+        <div>
+          <div className="py-8">
+            <h2 className="text-[22px] font-semibold">{detail?.subTitle}</h2>
+            <p>
+              {detail?.numOfGuests} guests <span>&middot;</span>
+              {detail?.numOfBedRooms} bedroom <span>&middot;</span>
+              {detail?.numOfBeds} bed <span>&middot;</span>
+              {detail?.numOfBath} bath
+            </p>
+          </div>
+        </div>
 
-        <div>date picker</div>
+        <div className="flex items-center gap-5 border-y py-6 border-light-gray">
+          <Image
+            className="rounded-full"
+            src={detail?.host?.photoUrl}
+            width={40}
+            height={40}
+            alt=""
+          />
+          <div className="flex flex-col">
+            <span className="font-semibold">
+              Hosted by {detail?.host?.name}
+            </span>
+            <span className="text-[14px] text-[rgb(113,113,113)]">
+              {new Date().getFullYear() - detail?.host.startYear} years hosting
+            </span>
+          </div>
+        </div>
+
+        <div className="py-8"></div>
       </div>
     </div>
   );

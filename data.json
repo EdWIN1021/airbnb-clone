@@ -575,7 +575,7 @@
       "responseTime": "moins d'une heure",
       "hasInclusionBadge": false,
       "badges": ["705 commentaires", "Identité vérifiée"],
-      "hostUrl": "https://www.airbnb.com/users/show/200945684",
+      "hostUrl": "https://www.airbnb.com  /users/show/200945684",
       "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_large",
       "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-200945684/original/1952a36e-065e-4eea-8496-863b3fc3ea82.jpeg?aki_policy=profile_small"
     },
@@ -1250,7 +1250,7 @@
   {
     "url": "https://www.airbnb.com/rooms/561659145546380845",
     "name": "Leaning Tree Retreat - Cabin in the Woods", //
-    "stars": 4.99, //
+    "stars": 4.99, 
     "numberOfGuests": 4,
     "address": "Halfmoon Bay, Colombie-Britannique, Canada",
     "roomType": "Logement entier : cabane",
