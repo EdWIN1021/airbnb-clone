@@ -84,53 +84,53 @@ const tabs = [
     icon: <MdOutlineCastle className="fill-dark-gray" size={24} />,
   },
   {
-    title: "Tiny homes!",
+    title: "Tiny homes",
     icon: <GrHome className="stroke-dark-gray" size={24} />,
   },
-  {
-    title: "Islands",
-    icon: <GiIsland className="fill-dark-gray" size={24} />,
-  },
-  {
-    title: "Beach",
-    icon: <TbBeach className="stroke-dark-gray" size={24} />,
-  },
-  {
-    title: "Skiing",
-    icon: <LiaSkiingSolid className="fill-dark-gray" size={24} />,
-  },
-  {
-    title: "Arctic",
-    icon: <IoSnowOutline className="stroke-dark-gray" size={24} />,
-  },
+  // {
+  //   title: "Islands",
+  //   icon: <GiIsland className="fill-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Beach",
+  //   icon: <TbBeach className="stroke-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Skiing",
+  //   icon: <LiaSkiingSolid className="fill-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Arctic",
+  //   icon: <IoSnowOutline className="stroke-dark-gray" size={24} />,
+  // },
 
-  {
-    title: "Play",
-    icon: <GiEightBall className="fill-dark-gray" size={24} />,
-  },
-  {
-    title: "Chef's kitchens",
-    icon: <FaKitchenSet className="fill-dark-gray" size={24} />,
-  },
-  {
-    title: "Camping",
-    icon: <GiCampingTent className="fill-dark-gray" size={24} />,
-  },
+  // {
+  //   title: "Play",
+  //   icon: <GiEightBall className="fill-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Chef's kitchens",
+  //   icon: <FaKitchenSet className="fill-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Camping",
+  //   icon: <GiCampingTent className="fill-dark-gray" size={24} />,
+  // },
 
-  {
-    title: "Amazing pools",
-    icon: <PiSwimmingPool className="fill-dark-gray" size={24} />,
-  },
-  {
-    title: "Farms",
-    icon: <GiFarmTractor className="fill-dark-gray" size={24} />,
-  },
+  // {
+  //   title: "Amazing pools",
+  //   icon: <PiSwimmingPool className="fill-dark-gray" size={24} />,
+  // },
+  // {
+  //   title: "Farms",
+  //   icon: <GiFarmTractor className="fill-dark-gray" size={24} />,
+  // },
 ];
 
 const Tabs = () => {
   return (
     <div className="px-6 md:px-10">
-      <div className="flex w-full gap-[2.4rem] mt-8 mb-8 overflow-x-scroll">
+      <div className="flex w-full gap-[2.3rem] mt-8 mb-8 overflow-x-auto">
         {tabs.map((tab) => (
           <Tab key={tab.title} tab={tab} />
         ))}

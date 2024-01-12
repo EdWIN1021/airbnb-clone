@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {
+      "$oid": "6578fbe7e35279fcacd821ba"
+    },
+    "title": "The Owls Perch Vancouver Islands Highest Treehouse",
+    "reviewCount": 627,
+    "stars": 4.95,
+    "isSuperHost": true,
+    "address": "Sooke, Colombie-Britannique, Canada",
+    "image_urls": [
+      "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/8c5a72f9-3b33-4900-a807-6d973b387c0c.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/0793c5dd-7902-4b19-ba41-98fcb97d6a38.jpg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/76a1da11-b420-4109-9ed7-f004e098a3da.jpg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/9b7e9823-5f8a-4e72-8a79-e13f34c5c472.jpg?aki_policy=large"
+    ],
+    "listingId": {
+      "$oid": "656e6ba95b3b50a861e87778"
+    },
+    "numOfBedRooms": 1,
+    "numOfBeds": 1,
+    "numOfGuests": 2,
+    "subTitle": "Treehouse in Sooke, Canada",
+    "numOfBath": 1,
+    "host": {
+      "$oid": "657f9e97c16847115b5314e5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65a17df3bd173197486dbec6"
+    },
+    "title": "Peace Cabin - private waterfront forest retreat",
+    "reviewCount": 93,
+    "starts": 4.99,
+    "address": "Ucluelet, Colombie-Britannique, Canada",
+    "image_urls": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/14696ed2-a1ac-47e6-9d06-00642b83f582.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a37e1f1-d216-4b96-a49d-97d86f980c8d.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d9dc0c91-ed78-4fef-a646-3c02d7fd3e57.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/91a147f4-6b58-4e41-99e7-78ab9e21853a.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4585ad24-26b3-49f7-85c5-3e0c62067e7d.jpeg?aki_policy=large"
+    ],
+    "isSuperHost": true,
+    "listingId": {
+      "$oid": "65a180dfbd173197486dbecf"
+    },
+    "numOfBath": 1,
+    "numOfBedRooms": 2,
+    "numOfBeds": 2,
+    "numOfGuests": 4,
+    "subTitle": "Entire cabin in Ucluelet, Canada",
+    "host": {
+      "$oid": "65a181d3bd173197486dbed1"
+    }
+  },
+  {
+    "title": "Mountain-view bliss in Strathcona!",
+    "reviewCount": 8,
+    "starts": 4.75,
+    "address": "Vancouver, Colombie-Britannique, Canada",
+    "image_urls": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/14696ed2-a1ac-47e6-9d06-00642b83f582.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4a37e1f1-d216-4b96-a49d-97d86f980c8d.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/d9dc0c91-ed78-4fef-a646-3c02d7fd3e57.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/91a147f4-6b58-4e41-99e7-78ab9e21853a.jpeg?aki_policy=large",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/4585ad24-26b3-49f7-85c5-3e0c62067e7d.jpeg?aki_policy=large"
+    ],
+    "isSuperHost": true,
+    "numOfBath": 1,
+    "numOfBedRooms": 2,
+    "numOfBeds": 2,
+    "numOfGuests": 4,
+    "subTitle": "Entire cabin in Ucluelet, Canada"
+  }
+]

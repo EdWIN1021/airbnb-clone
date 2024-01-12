@@ -42,7 +42,7 @@ const RoomPage = async ({ params }: { params: { roomId: string } }) => {
         </div>
       </div>
 
-      <div className="grid grid-cols-4 grid-rows-2 grid-flow-row gap-2 mt-6 rounded-2xl overflow-hidden">
+      <div className="grid grid-cols-4 grid-rows-2 grid-flow-row gap-2 mt-6 rounded-2xl overflow-hidden max-h-[408px]">
         {detail?.image_urls?.map((url, index) => (
           <Image
             className={`${
@@ -50,8 +50,8 @@ const RoomPage = async ({ params }: { params: { roomId: string } }) => {
             } w-full h-full `}
             key={index}
             src={url}
-            height={250}
-            width={250}
+            height={200}
+            width={200}
             alt=""
           />
         ))}

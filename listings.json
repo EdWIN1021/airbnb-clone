@@ -1,0 +1,164 @@
+[
+  {
+    "_id": {
+      "$oid": "656e6ba95b3b50a861e87778"
+    },
+    "name": "Sooke, Canada",
+    "rating": 4.95,
+    "number_of_beds": 1,
+    "price": 298,
+    "image_url": "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?aki_policy=large",
+    "number_of_reviews": 624,
+    "title": "The Owls Perch Vancouver Islands Highest Treehouse",
+    "detailId": {
+      "$oid": "6578fbe7e35279fcacd821ba"
+    },
+    "category": "treehouse"
+  },
+  {
+    "_id": {
+      "$oid": "6578ed3ee35279fcacd821ac"
+    },
+    "name": "Ucluelet Canada",
+    "rating": 4.99,
+    "price": 597,
+    "number_of_beds": 2,
+    "number_of_reviews": 93,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-52704177/original/14696ed2-a1ac-47e6-9d06-00642b83f582.jpeg?im_w=960",
+    "title": "Peace Cabin - private waterfront forest retreat",
+    "category": "cabin",
+    "detailId": {
+      "$oid": "65a17df3bd173197486dbec6"
+    }
+  },
+  {
+    "name": "Vancouver, Canada",
+    "rating": 4.75,
+    "price": 130,
+    "number_of_beds": 1,
+    "number_of_reviews": 8,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1030432719955010840/original/d9a84c99-c198-4fda-b184-25d12565f862.jpeg?aki_policy=large",
+    "title": "Mountain-view bliss in Strathcona!",
+    "category": "amazing view"
+  },
+  {
+    "name": "Drimnin, UK",
+    "rating": 4.94,
+    "price": 331,
+    "number_of_beds": 1,
+    "number_of_reviews": 379,
+    "image_url": "https://a0.muscache.com/im/pictures/b7c9264d-73c9-45c3-882e-6e9577d63d68.jpg?aki_policy=large",
+    "title": "Unique and Secluded AirShip with Breathtaking Highland Views",
+    "category": "omg"
+  },
+  {
+    "name": "Bremerton, Washington, US",
+    "rating": 4.9,
+    "price": 644,
+    "number_of_beds": 7,
+    "number_of_reviews": 67,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-50488037/original/2478db55-cf0e-478d-81eb-fe8e036a0fe7.jpeg?im_w=1200",
+    "title": "Serene Waterfront Retreat w/ Private Beach & Sauna",
+    "category": "grand pianos"
+  },
+  {
+    "name": "Three Rivers, California, US",
+    "rating": 4.97,
+    "price": 1421,
+    "number_of_beds": 6,
+    "number_of_reviews": 90,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-42300535/original/91b4ae82-358e-4188-8943-79b2cc7ea979.jpeg?im_w=720",
+    "title": "The River Island- Sequoia's Dream Property",
+    "category": "creative spaces"
+  },
+  {
+    "name": "Granite Falls, Washington, US",
+    "rating": 4.93,
+    "price": 718,
+    "number_of_beds": 2,
+    "number_of_reviews": 424,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-30109719/original/7dd683b8-f85b-4f31-927a-c3222a45bdbe.jpeg?im_w=720",
+    "title": "Canyon Creek Cabins: #1",
+    "category": "design"
+  },
+  {
+    "name": "Rethimno, Greece",
+    "rating": 5.0,
+    "price": 142,
+    "number_of_beds": 2,
+    "number_of_reviews": 424,
+    "image_url": "https://a0.muscache.com/im/pictures/163cba9d-f65a-4d2a-ad59-618bf9cb9731.jpg?im_w=720",
+    "title": "Blue Horizon Villa Anatoli, 1 BD, private pool",
+    "category": "earth home"
+  },
+  {
+    "name": "Ubud, Indonesia",
+    "rating": 4.92,
+    "price": 152,
+    "number_of_beds": 1,
+    "number_of_reviews": 442,
+    "image_url": "https://a0.muscache.com/im/pictures/6943ce46-c64f-43b4-824b-5551735befcc.jpg?im_w=720",
+    "title": "❣️Romantic Staycation-PrivateSunset Pool@megananda",
+    "category": "trending"
+  },
+  {
+    "name": "Carbon, Canada",
+    "rating": 4.88,
+    "price": 1152,
+    "number_of_beds": 8,
+    "number_of_reviews": 129,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-43423090/original/f6c73339-a41f-44ca-91c5-1f46c117f5e8.jpeg?im_w=720",
+    "title": "Modern Gated 8 Bedroom Mansion Built on 5 Acres",
+    "category": "mansions"
+  },
+  {
+    "name": "Kent Narrows, Maryland",
+    "rating": 4.96,
+    "price": 256,
+    "number_of_beds": 1,
+    "number_of_reviews": 129,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-880435645118348170/original/2b0d3fcb-b77a-44fb-8995-6dc98ead9cae.jpeg?im_w=720",
+    "title": "Cass-N-Reel Luxury Houseboat",
+    "category": "houseboats"
+  },
+  {
+    "name": "Glacier, Washington, US",
+    "rating": 4.82,
+    "price": 245,
+    "number_of_beds": 2,
+    "number_of_reviews": 512,
+    "image_url": "https://a0.muscache.com/im/pictures/b0b71298-3fc6-4bc4-bf97-cbdb50907147.jpg?im_w=720",
+    "title": "Escape to Mt Baker, Cottage, hot tub& hi speed wif",
+    "category": "countryside"
+  },
+  {
+    "name": "Poulsbo, Washington, US",
+    "rating": 4.98,
+    "price": 391,
+    "number_of_beds": 8,
+    "number_of_reviews": 45,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-818406046417281419/original/b024a1d5-dc99-4650-9abb-6c978751d2f4.jpeg?im_w=720",
+    "title": "Brownsville Bay Lookout - Spacious 4 Bedroom Home!",
+    "category": "lake"
+  },
+  {
+    "name": "Cumbria, UK",
+    "rating": 4.93,
+    "price": 1216,
+    "number_of_beds": 9,
+    "number_of_reviews": 43,
+    "image_url": "https://a0.muscache.com/im/pictures/8b29bbe1-fe0a-4a32-9dba-1af15dbde880.jpg?im_w=720",
+    "title": "Kinnettles Mansion",
+    "category": "castles"
+  },
+  {
+    "name": "Cultus Lake, Canada",
+    "rating": 4.89,
+    "price": 144,
+    "number_of_beds": 3,
+    "number_of_reviews": 99,
+    "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-633606009988035336/original/26c909bd-d719-4c17-a1ee-fbe664f14e2d.jpeg?im_w=720",
+    "title": "Cozy Summer Getaway at Lakewood Cabin!",
+    "category": "Tiny Homes"
+  }
+]
