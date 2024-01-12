@@ -1,7 +1,4 @@
-import Property from "@/components/Property";
 import Tabs from "@/components/Tabs";
-import { IListing } from "@/models/Listing";
-import { getListings } from "@/utils/server";
 
 const tabs = [
   {
@@ -108,16 +105,9 @@ const tabs = [
 ];
 
 export default async function Home() {
-  const listings = await getListings();
-
   return (
     <main>
       <Tabs />
-      <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 3xl:grid-cols-6 gap-6 px-6 md:px-10">
-        {listings.map((listing: IListing) => (
-          <Property key={listing._id} listing={listing} />
-        ))}
-      </div>
 
       <div className="bg-medium-gray pt-12 px-20 mt-[150px]">
         <div className="border-b border-[#DDDDDD]">

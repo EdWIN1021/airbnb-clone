@@ -4,8 +4,6 @@ import { IListing } from "@/models/Listing";
 import Link from "next/link";
 
 const Property: React.FC<{ listing: IListing }> = ({ listing }) => {
-  console.log(listing);
-
   return (
     <Link href={`/room/${listing.detailId}`}>
       <div className="text-sm flex flex-col">
